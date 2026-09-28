@@ -1,0 +1,2072 @@
+ Analiza i zaključci
+ Radne skupine za
+   analizu stanja
+mirovinskog sustava
+
+
+
+
+       31. prosinca 2024.
+Sadržaj
+
+1.   RADNA SKUPINA ZA ANALIZU STANJA MIROVINSKOGA SUSTAVA                              2
+     ČLANOVI RADNE SKUPINE                                                             2
+     SASTANCI RADNE SKUPINE                                                            5
+
+
+2.   MIROVINSKI SUSTAV U REPUBLICI HRVATSKOJ                                           6
+     SUSTAV MIROVINSKOG OSIGURANJA NA TEMELJU GENERACIJSKE SOLIDARNOSTI                7
+     SUSTAV MIROVINSKOG OSIGURANJA NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE     14
+     DRUGI MIROVINSKI STUP                                                            14
+     TREĆI MIROVINSKI STUP                                                            15
+     ULOGA MIROVINSKIH OSIGURAVAJUĆIH DRUŠTAVA                                        16
+     IZMJENE PROPISA IZ KAPITALIZIRANOG MIROVINSKOG SUSTAVA OD 1. SIJEČNJA 2024.      17
+     DOPRINOSI ZA MIROVINSKO OSIGURANJE                                               18
+
+
+3. TRENDOVI NA TRŽIŠTU RADA – STRANI RADNICI, DJELOMIČNO UMIROVLJENJE I
+ATIPIČNI OBLICI RADA                                                    20
+
+4. DUGOROČNA ODRŽIVOST I PRIMJERENOST MIROVINSKOG SUSTAVA U REPUBLICI
+HRVATSKOJ                                                           25
+     IZVJEŠĆE O STARENJU 2024.                                                         25
+     IZVJEŠĆE O PRIMJERENOSTI MIROVINA 2024.                                           28
+     IZVJEŠĆE SVJETSKE BANKE O ANALIZI DUGOROČNE PRIMJERENOSTI I ODRŽIVOSTI MIROVINA U
+     HRVATSKOM MIROVINSKOM SUSTAVU S NAGLASKOM NA MOGUĆIM POLITIKAMA ZA NJEGOVO
+     UNAPRJEĐENJE                                                                      30
+
+
+5. MJERE I AKTIVNOSTI IZ MIROVINSKOG SUSTAVA IZ STRATEŠKIH DOKUMENATA
+VLADE REPUBLIKE HRVATSKE                                                              33
+
+6.   ZAKLJUČCI RADNE SKUPINE                                                          34
+
+
+
+
+                                            1
+1.       RADNA SKUPINA ZA ANALIZU STANJA MIROVINSKOGA SUSTAVA
+       Radna skupina za analizu stanja mirovinskoga sustava (u daljnjem tekstu: Radna skupina)
+osnovana je 11. srpnja 2022. Odlukom ministra nadležnog za mirovinski sustav, Marina Piletića.
+Osnivanje Radne skupine utvrđeno je kao reformska mjera „Povećanje adekvatnosti mirovina kroz
+nastavak mirovinske reforme“ u Nacionalnom planu oporavka i otpornosti 2021.-2026. (u
+daljnjem tekstu: NPOO); komponenta C4. Tržište rada i socijalna zaštita; potkomponenta C4.2.
+Unaprjeđenje mirovinskoga sustava kroz povećanje adekvatnosti mirovina, Milestone 300
+Donošenje izmjena Zakona o mirovinskom osiguranju.
+
+         Zadaća članova Radne skupine je:
+
+     −   analiza učinaka mjera provedenih mirovinskim reformama u obveznom mirovinskom
+         osiguranju na temelju generacijske solidarnosti te obveznom i dobrovoljnom mirovinskom
+         osiguranju na temelju individualne kapitalizirane štednje
+     −   razmatranje prijedloga usmjerenih na daljnje unaprjeđenje mirovinskoga sustava, s ciljem
+         osiguranja održivosti i povećanja razine primjerenosti mirovina
+     −   izrada zaključaka o provedenoj analizi mirovinskoga sustava koji će biti podloga za buduće
+         izmjene zakonodavnog okvira i na temelju kojega će biti donesen izmijenjeni Zakon o
+         mirovinskom osiguranju.
+
+         Kao rok za izvršenje navedene zadaće određen je IV. kvartal 2024. godine.
+
+       Zaključci Radne skupine objavit će se na mrežnim stranicama Ministarstva rada,
+mirovinskoga sustava, obitelji i socijalne politike (u daljnjem tekstu: MROSP).
+
+         ČLANOVI RADNE SKUPINE
+
+        Radna skupina sastavljena je od ključnih dionika mirovinskoga sustava, predstavnika
+Vlade Republike Hrvatske, nadležnih institucija, umirovljeničkih udruga, akademske zajednice te
+socijalnih partnera.
+
+−    Dragan Jelić, državni tajnik u MROSP-u, voditelj Radne skupine od 11. srpnja 2022. do 11.
+     prosinca 2022.
+−    Ivan Vidiš, državni tajnik u MROSP-u, voditelj Radne skupine od 12. prosinca 2022.
+−    Melita Čičak, MROSP, članica
+−    Snježana Zdjelar, MROSP, članica
+−    Nataša Smolić-Ročak, MROSP, zamjenica članice
+−    Ivana Radeljak Novaković, Ministarstvo financija (u daljnjem tekstu: MFIN), članica do 4.
+     prosinca 2022.
+−    Mirela Kovač Jagar, MFIN, članica
+−    Dinko Pavuna, MFIN, zamjenik članice do 4. prosinca 2022.
+−    Silvia Sakan, MFIN, članica od 5. prosinca 2022.
+−    Jasna Prepeljanić, MFIN, članica od 20. ožujka 2023.
+−    Ivica Akmadža, Ministarstvo hrvatskih branitelja (u daljnjem tekstu: MHB), član
+−    Petra Šćukanec, MHB, zamjenica člana
+−    Ante Babić, Ministarstvo demografije i useljeništva (u daljnjem tekstu: MDU), član
+
+                                                 2
+−   Kornelija Bojanić, MDU, zamjenica člana
+−   Ivo Bulaja, Hrvatski zavod za mirovinsko osiguranje (u daljnjem tekstu: HZMO), član
+−   Antonija Krolo Vasilj, HZMO, zamjenica člana
+−   Zoran Protega, Središnji registar osiguranika (u daljnjem tekstu: REGOS), član
+−   Ksenija Vugrin, REGOS, zamjenica člana
+−   Katarina Litva, Državni zavod za statistiku (u daljnjem tekstu: DZS), članica do 23. veljače
+    2023.
+−   Snježana Varga, DZS, članica od 24. veljače 2023.
+−   Marinka Radman Čosić, DZS, zamjenica članice od 24. veljače 2023.
+−   Irena Mračić, Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: HANFA),
+    članica
+−   Marko Periša, HANFA, zamjenik članice
+−   Petra Petak, HANFA, članica od 9. veljače 2023.
+−   Dijana Bojčeta Markoja, Udruga društava za upravljanje mirovinskim fondovima i mirovinskih
+    osiguravajućih društava (u daljnjem tekstu: UMFO), članica
+−   Anita Ivkić Zavacki, UMFO, zamjenica članice
+−   Ivana Vukorepa, Pravni fakultet Sveučilišta u Zagrebu (u daljnjem tekstu: PFZG), članica
+−   Željko Potočnjak, PFZG, zamjenik članice
+−   Marijana Bađun, Institut za javne financije (u daljnjem tekstu: IJF), članica
+−   Ivica Urban, IJF, zamjenik članice
+−   Krešimir Ivanda, Ekonomski fakultet Sveučilišta u Zagrebu (u daljnjem tekstu: EFZG), član
+−   Dario Mustač, EFZG, zamjenik člana
+−   Ivica Rubil, Ekonomski institut Zagreb (u daljnjem tekstu: EIZ), član
+−   Tibor Kovač, EIZ, zamjenik člana
+−   Višnja Fortuna, Matica umirovljenika Hrvatske (u daljnjem tekstu: MUH), članica
+−   Ana Balaband, MUH, zamjenica članice
+−   Jasna Petrović, Sindikat umirovljenika Hrvatske (u daljnjem tekstu: SUH), članica
+−   Željko Garača, SUH, zamjenik članice
+−   Iva Tomić, Hrvatska udruga poslodavaca (u daljnjem tekstu: HUP), članica do 19. siječnja
+    2023.
+−   Hrvoje Stojić, HUP, član od 20. siječnja 2023.
+−   Darko Šeperić, Savez samostalnih sindikata Hrvatske (u daljnjem tekstu: SSSH), član
+−   Sunčica Brnardić, SSSH, zamjenica člana
+−   Ivana Šepak-Robić, Matica hrvatskih sindikata (u daljnjem tekstu: MHS), članica
+−   Robert Brozd, MHS, zamjenik članice do 2. srpnja 2024.
+−   Mirela Bojić, MHS, zamjenica članice od 3. srpnja 2024.
+−   Ana Kranjac Jularić, Nezavisni hrvatski sindikati (u daljnjem tekstu: NHS), članica do 12. rujna
+    2022.
+−   Krešimir Sever, NHS, član od 13. rujna 2022.
+−   Petar Jeknić, NHS, zamjenik člana.
+
+         U rad Radne skupine, ovisno o temi sastanka, bili su uključeni i predstavnici drugih tijela i
+institucija, odnosno vanjski suradnici kako bi dali svoj doprinos ispunjenu zadaća Radne skupine
+i svoje stručno mišljenje o pojedinim specifičnim pitanjima.
+
+                                                  3
+       Na sastancima Radne skupine dodatno su sudjelovali predstavnici Hrvatskog aktuarskog
+društva, Hrvatske narodne banke, Hrvatskog mirovinskog osiguravajućeg društva i Raiffeisen
+mirovinskog osiguravajućeg društva.
+
+
+
+
+                                            4
+       SASTANCI RADNE SKUPINE
+
+       U razdoblju od 11. srpnja 2022. do kraja 2024. godine, održano je deset sastanaka Radne
+skupine sa sljedećim dnevnim redovima.
+
+   1. sastanak Radne skupine - 29. studenoga 2022.:
+      • Pregled mjera i aktivnosti iz strateških dokumenta u mirovinskom sustavu (Melita
+         Čičak, MROSP)
+      • Prezentacije Izvješća o starenju stanovništva (The Ageing Report) i Izvješća o
+         primjerenosti mirovina (The Pension Adequacy Report) (Alen Bučić, HZMO)
+      • Informacije o daljnjem radu Radne skupine (Melita Čičak, MROSP)
+
+   2. sastanak Radne skupine - 26. siječnja 2023.:
+      • Obvezno mirovinsko osiguranje na temelju generacijske solidarnosti (Ivo Bulaja,
+         HZMO)
+      • Katalog prava iz Zakona o mirovinskom osiguranju (Ivo Bulaja, HZMO)
+
+   3. sastanak Radne skupine - 1. ožujka 2023.:
+      • Pregled statističkih podataka o kretanjima prosječne mirovine i mirovinskom stažu od
+         2018. do 2022. godine (Alen Bučić, HZMO)
+      • Koordinacija na području mirovina primjenom uredbi Europske unije i međunarodnih
+         ugovora o socijalnom osiguranju (Tihomil Jurica Bader, MROSP, i Antonija Krolo Vasilj,
+         HZMO)
+
+   4. sastanak Radne skupine - 8. svibnja 2023.:
+      • Zapošljavanje stranaca u Republici Hrvatskoj (Ivan Vidiš, MROSP)
+      • Zakon o doprinosima (Jasna Prepeljanić, MFIN)
+
+   5. sastanak Radne skupine - 5. listopada 2023.:
+      • Uloga HANFA-e u sustavu mirovinskog osiguranja na temelju individualne
+         kapitalizirane štednje (Marko Periša, HANFA)
+      • Uloga REGOS-a u sustavu mirovinskog osiguranja na temelju individualne
+         kapitalizirane štednje (Zoran Protega, REGOS)
+      • Paket prijedloga izmjena zakona za unaprjeđenje II. i III. mirovinskoga stupa (Josip
+         Majher, MROSP)
+
+   6. sastanak Radne skupine - 31. siječnja 2024.:
+      • Uloga mirovinskih osiguravajućih društava u fazi isplate kapitaliziranih sredstava iz II.
+         I III. mirovinskog stupa (Dijana Bojčeta Markoja, UMFO, Ivan Grbac i Arijana Kokot,
+         Reiffeisen mirovinsko osiguravajuće društvo)
+
+   7. sastanak Radne skupine - 7. ožujka 2024.:
+      • Djelomično umirovljenje (prof. dr. sc. Ivana Vukorepa, PFZG)
+      • Atipični (novi) oblici rada i utjecaj na mirovinska prava (prof. dr. sc. Ivana Vukorepa,
+         PFZG)
+
+
+                                               5
+     8. sastanak Radne skupine - 2. srpnja 2024.:
+        • Radna snaga budućnosti u Republici Hrvatskoj: starija, raznovrsnija, tehnički
+           potkovanija (Vedran Šošić, Hrvatska narodna banka)
+        • Održivost i primjerenost mirovinskoga sustava Republike Hrvatske – prikaz glavnih
+           nalaza iz Izvješća o starenju i Izvješća o primjerenosti mirovina za 2024. godinu (Alen
+           Bučić, HZMO)
+
+     9. sastanak Radne skupine - 25. rujna 2024.:
+        • Projekcije i preporuke mjera za dugoročno povećanje adekvatnosti i fiskalne održivosti
+           mirovinskog sustava Republike Hrvatske (Zoran Anušić, Svjetska banka)
+
+     10. sastanak Radne skupine – 10. prosinca 2024.:
+         • Rasprava o radnom prijedlogu Nacrta analize i zaključaka Radne skupine za analizu
+            stanja mirovinskog sustava
+
+2.      MIROVINSKI SUSTAV U REPUBLICI HRVATSKOJ
+
+        Sustav mirovinskog osiguranja u Republici Hrvatskoj čine obvezno mirovinsko osiguranje
+na temelju generacijske solidarnosti (u daljnjem tekstu: prvi mirovinski stup), obvezno mirovinsko
+osiguranje na temelju individualne kapitalizirane štednje (u daljnjem tekstu: drugi mirovinski stup)
+i dobrovoljno mirovinsko osiguranje na temelju individualne kapitalizirane štednje (u daljnjem
+tekstu: treći mirovinski stup).
+
+        Transformiranjem mirovinskog sustava mirovinskom reformom iz 1998. godine, s
+početkom primjene od 1. siječnja 1999., uveden je kombinirani trostupni mirovinski sustav radi
+osiguranja dugoročne održivosti i primjerenosti mirovina. Naime, mirovinski sustav izložen je
+općim gospodarskim rizicima i nepovoljnim demografskim kretanjima, a svaki stup ima svoje
+prednosti, ali i specifične rizike kojima je izložen. U trodijelnom javno-privatnom mirovinskom
+sustavu rizici se dijele na više razina i načina financiranja, što bi prema ciljevima reforme za
+umirovljenike i gospodarstvo trebalo biti povoljnije od mirovinskog osiguranja koje se temelji
+isključivo na generacijskoj solidarnosti i financira samo na jedan način. Reforma je provedena u
+dvije faze. U prvoj fazi reformirano je mirovinsko osiguranje generacijske solidarnosti, od čega se
+najvažnije izmjene odnose na povećanje dobi za starosnu i prijevremenu starosnu mirovinu. Osim
+toga, promijenjena je formula za izračun mirovine, povećano je obračunsko razdoblje plaća koje
+se uzimaju za izračun mirovine i promijenjena je formula usklađivanja mirovina. Također,
+promijenjena je definicija invalidnosti te su ukinuta prava uvjetovana dohodovnim ili imovinskim
+cenzusom (zaštitni dodatak uz mirovinu i pravo na tuđu pomoć i njegu), koja su prebačena u
+sustav socijalne skrbi.
+
+         Od 2002. godine započela je druga faza reforme, u kojoj je počelo izdvajanje jedne
+četvrtine doprinosa u drugi mirovinski stup. Obveznici drugog mirovinskog stupa bili su osiguranici
+koji su 2002. godine imali manje od 40 godina života, a osiguranici u dobi između 40 i 50 godina
+života imali su pravo izbora. Konstituiranjem drugog i trećeg mirovinskog stupa planirano je
+jačanje ovisnosti mirovina o doprinosima uplaćenim tijekom radnog vijeka, smanjenje javnih
+mirovinskih izdataka, jačanje individualne odgovornosti pojedinca za starost te dugoročno
+stabiliziranje mirovinskog sustava.
+
+
+                                                 6
+       SUSTAV MIROVINSKOG OSIGURANJA NA TEMELJU GENERACIJSKE
+       SOLIDARNOSTI
+
+        Obvezno mirovinsko osiguranje na temelju generacijske solidarnosti u Republici Hrvatskoj
+sada je uređeno Zakonom o mirovinskom osiguranju („Narodne novine“, br. 157/13., 151/14.,
+33/15., 93/15., 120/16., 18/18., 62/18., 115/18., 102/19., 84/21. i 119/22. - u daljnjem tekstu:
+ZOMO).
+
+        Prvi mirovinski stup utemeljen je na generacijskoj solidarnosti, tekućem financiranju
+izdataka i unaprijed definiranim davanjima. Novčana primanja iz podsustava obveznog
+mirovinskog osiguranja utemeljenog na generacijskoj solidarnosti imaju javnopravnu narav jer iz
+uplate doprinosa u taj podsustav proizlazi pravo osiguranika na ostvarivanje mirovine, pri čemu
+se ono obračunava prema unaprijed određenoj mirovinskoj formuli, a ne prema ukupnom iznosu
+doprinosa koji je osiguranik uplatio tijekom svog radnog vijeka. Odredbama ZOMO-a
+osiguranicima se na načelima uzajamnosti (ovisnost visine mirovine o dužini staža i visini plaća) i
+solidarnosti (socijalna preraspodjela u korist određenih skupina) obvezno osiguravaju prava za
+slučaj starosti i smanjenja radne sposobnosti, a članovima njihovih obitelji prava za slučaj smrti
+osiguranika, odnosno korisnika mirovine. Odredbama ZOMO-a uređeni su uvjeti, način i postupak
+ostvarivanja tih prava u HZMO-u.
+
+        Osim uvjeta koji moraju biti ispunjeni za ostvarivanje prava u slučaju nastanka rizika
+osiguranih ZOMO-om, ujedno je propisana i formula za izračun mirovine. Svota mirovine računa
+se prema ZOMO-u tako da se osobni bodovi pomnože s mirovinskim faktorom i aktualnom
+vrijednošću mirovine, a u svotu mirovine uračunava se i dodatak na mirovinu određen na način i
+pod uvjetima propisanim Zakonom o dodatku na mirovine ostvarene prema Zakonu o
+mirovinskom osiguranju („Narodne novine“, br. 79/07., 114/11., 115/18. i 156/23.). Osobni bodovi
+za određivanje mirovine dobivaju se tako da se prosječni vrijednosni bodovi (utvrđuju se na
+temelju plaća i osnovica osiguranja u radnom vijeku u odnosu na prosječnu plaću u Republici
+Hrvatskoj) pomnože s ukupnim mirovinskim stažem i polaznim faktorom (ovisi o dobi osiguranika
+na dan stjecanja prava na mirovinu). Dakle, hrvatska bodovna mirovinska formula za izračun
+mirovina povezana je s dužinom mirovinskog staža i visinom plaća/osnovica i stoga ne sadrži
+redistributivne elemente, odnosno socijalnu preraspodjelu u korist pojedinih kategorija
+umirovljenika.
+
+        Od 1. siječnja 1999. mirovine i starih i novih umirovljenika usklađuju se prema aktualnoj
+vrijednosti mirovine (u daljnjem tekstu: AVM) prema propisanoj zakonskoj formuli. Mirovinskom
+reformom od 1. siječnja 2019. uveden je povoljniji model usklađivanja mirovina, prema kojem se
+umirovljenicima osigurava primjerenija usklađenost visine njihovih mirovina u odnosu na porast
+plaća, odnosno rasta potrošačkih cijena. Mirovine se usklađuju od 1. siječnja i 1. srpnja svake
+kalendarske godine na način da se stopa usklađivanja AVM-a utvrdi kao zbroj stope promjene
+indeksa potrošačkih cijena i indeksa rasta plaća u prethodnom polugodištu u odnosu na
+polugodište koje mu prethodi u omjeru 70:30 ili 30:70. Odluku o usklađivanju mirovina donosi
+Upravno vijeće HZMO-a, na temelju službenih podataka DZS-a, najkasnije dva mjeseca nakon
+isteka svakog polugodišta (u ožujku i rujnu tekuće godine).
+
+       Dodatak na mirovinu ostvarenu prema općem mirovinskom propisu uveden je 2007.
+godine s ciljem ponovne uspostave ravnoteže između onih koji su otišli u mirovinu prije reforme i
+
+                                                7
+onih koji su to učinili nakon reforme, i to povećanjem mirovina ostvarenih nakon reforme.
+Neravnoteža je uglavnom proizlazila iz širenja obračunskog razdoblja s 10 najboljih uzastopnih
+godina na cijeli radni vijek. S proširenjem za po tri godine radnog staža (13 najboljih godina, 16
+najboljih godina pa do cijelog radnog vijeka od 2010. godine) započelo se 2000. godine i to je
+dovelo do smanjenja stopa zamjene. Visina dodatka ovisi o godini ostvarivanja prava na mirovinu
+i određen je u visini od 4 % za mirovine ostvarene u 1999. godini do 27 % na mirovine ostvarene od
+2010. godine nadalje. Mjera je prvotno bila predviđena za korisnike osigurane samo u prvom
+mirovinskom stupu temeljenom na međugeneracijskoj solidarnosti. Kasnije je proširena na sve
+osiguranike, uključujući one s kombiniranom mirovinom iz prvog i drugog mirovinskog stupa, gdje
+se dodatak primjenjuje samo na komponentu osnovne mirovine iz prvog mirovinskog stupa. Važno
+je napomenuti da se dodatak na mirovinu ne primjenjuje na najnižu i najvišu mirovinu. Dodatak
+na mirovinu od 27 % na osnovnu mirovinu umirovljenika osiguranih u više stupova uveden je 2019.
+godine, u iznosu do 27 % za dio mirovine iz prvog stupa na temelju mirovinskog staža ostvarenog
+do 31. prosinca 2001., a za dio mirovine na temelju staža ostvarene od 1. siječnja 2002. bio je
+prilagođen faktoru osnovne mirovine te je iznosio 20,25 %. Od 1. siječnja 2024. stopa dodatka na
+osnovnu mirovinu izjednačena je sa stopom dodatka koji se određuje samo u prvom mirovinskom
+stupu te iznosi 27 %.
+
+         Obvezni mirovinski sustavi u Republici Hrvatskoj obuhvaćaju sve zaposlene i
+samozaposlene osobe. Temelj za obvezno mirovinsko osiguranje osoba u radnom odnosu i s njime
+izjednačenih osoba proizlazi iz radnog ili sličnog odnosa zasnovanog ugovorom o radu kao
+dvostrano obveznom i konsenzualnom ugovoru s poslodavcem (pravnom ili fizičkom osobom)
+koja ima sjedište u Republici Hrvatskoj ili u državi članici Europske unije (u daljnjem tekstu: EU),
+odnosno Europskog gospodarskog prostora. Osobe koje obavljaju samostalan rad/profesionalnu
+djelatnost obvezno se osiguravaju na mirovinsko osiguranje ako su upisani u odgovarajući registar
+ili upisnik koje vode nadležna tijela, članovi su strukovnih udruga ili im se rješenjem nadležnog
+ministarstva odobrava obavljanje djelatnosti u skladu s odredbama posebnih zakona i sami za
+sebe su obveznici uplate doprinosa. Od 1. siječnja 2023. omogućen im je prestanak svojstva
+osiguranika za vrijeme odobrene privremene obustave ili mirovanja djelatnosti.
+
+       Ako nisu obvezno osigurani na mirovinsko osiguranje po nekoj drugoj od obveznih osnova
+osiguranja, obvezno se osiguravaju na mirovinsko osiguranje i sportaši sa statusom vrhunskog
+sportaša od I. do III. kategorije.
+
+        Također, obvezno su osigurane osobe upisane u upisnik obiteljskih poljoprivrednih
+gospodarstava, odnosno u upisnik šumoposjednika u svojstvu nositelja ili člana
+gospodarstva/domaćinstva dok se poljoprivrednici upisani u upisnik poljoprivrednika osiguravaju
+na osobni zahtjev. Obvezno se osiguravaju pomorci i članovi posade broda u nacionalnoj i
+međunarodnoj plovidbi, roditelj koji obavlja roditeljske dužnosti u prvoj godini života djeteta, a nije
+obvezno osiguran po drugoj osnovi (na osobni zahtjev), roditelj njegovatelj, njegovatelj djeteta s
+teškoćama u razvoju ili njegovatelj osobe s invaliditetom prema propisima o socijalnoj skrbi, za
+vrijeme trajanja toga statusa te udomitelj, članovi uprave i izvršni direktori trgovačkih društava,
+likvidatori i upravitelji zadruge ako nisu obvezno osigurani po drugoj osnovi te osobe koje ostvaruju
+drugi dohodak prema propisima o porezu na dohodak.
+
+       Osim toga, obuhvaćene su i osobe osigurane u određenim okolnostima koje nemaju
+svojstvo osiguranika, a pravo na osiguranje utvrđuje se kad nastane osigurani slučaj koji daje pravo
+
+                                                  8
+iz mirovinskog osiguranja. Osobe kojima je prestalo obvezno mirovinsko osiguranje mogu se
+osigurati na produženo osiguranje ako od prestanka obveznog osiguranja nije proteklo više od 12
+mjeseci i ako podnesu prijavu osiguranja u tom roku.
+
+        Zakonska dob za umirovljenje u Republici Hrvatskoj za starosnu mirovinu mirovinskom
+reformom iz 1998. godine povećana je na 65 godina života, a za prijevremenu starosnu mirovinu
+na 60 godina, s ciljem prilagodbe mirovinskog sustava starenju stanovništva i duljem očekivanom
+životnom vijeku, poboljšanja dugoročne održivosti mirovinskog sustava i primjerenosti mirovina.
+U cilju postizanja rodne ravnopravnosti u 2010. godini započelo je izjednačavanje dobi za
+umirovljenje za žene, a dovršit će se u 2030. godini. U 2024. godini dob za odlazak u starosnu
+mirovinu za muškarce iznosi 65 godina života, a za žene 63 godine i 6 mjeseci života. Dob za
+prijevremeno umirovljenje postavljena je pet godina niže. Što se tiče uvjeta ostvarenog
+mirovinskog staža, za starosnu mirovinu potrebno je 15 godina, a za prijevremenu starosnu
+mirovinu 35 godina mirovinskog staža, dok je za žene kod prijevremene starosne mirovine u
+prijelaznom razdoblju predviđeno postupno podizanje mirovinskog staža po 3 mjeseca i u 2024.
+iznosi 33 godine i 6 mjeseci.
+
+        U 2014. godini uvedene su dvije dodatne vrste mirovina: starosna mirovina za
+dugogodišnje osiguranike koji su navršili 60 godina starosti i 41 godinu staža osiguranja u
+efektivnom trajanju i prijevremena starosna mirovina zbog stečaja poslodavca, bez primjene
+faktora umanjenja mirovine prije zakonske dobi za umirovljenje. Prva je opcija u velikoj mjeri
+iskorištena posljednjih godina, dok je drugu iskoristio mali broj novih umirovljenika. Od 1. siječnja
+2023. mirovina za dugogodišnje osiguranike povećava se za 0,15 % po mjesecu kasnijeg odlaska
+u mirovinu nakon navršene 60. godine života, najviše za pet godina prije navršavanja zakonske
+dobi za starosnu mirovinu.
+
+        Iako je reformom od 1. siječnja 2019. napravljen značajan iskorak u prilagodbi sustava
+demografskim kretanjima te su otklonjene uočene generacijske nejednakosti u mirovinskom
+sustavu i ostvareni pozitivni pomaci za sadašnje i buduće umirovljenike (ubrzano izjednačavanje
+dobi za prijevremenu starosnu i starosnu mirovinu za žene u odnosu na muškarce u 2027. godini,
+povećanje dobi za starosnu i prijevremenu starosnu mirovinu kroz prijelazno razdoblje u 2033.
+godini, povećanje dobi za starosnu mirovinu za dugogodišnjeg osiguranika na 61 godinu u 2027.
+godini te je uvedeno i umanjenje prijevremene starosne mirovine od 0,3 % za svaki mjesec ranijeg
+umirovljenja umjesto do tada linearnog umanjenja u rasponu od 0,10 % do 0,34 %, ovisno o duljini
+navršenog mirovinskog staža), Građanska inicijativa „67 je previše“ podnijela je Zahtjev za
+raspisivanje državnog referenduma o Zakonu o izmjenama Zakona o mirovinskom osiguranju.
+Uvažavajući volju hrvatskih građana, pristupilo se izmjenama ZOMO-a koje su stupile na snagu 1.
+siječnja 2020., kojim su u cijelosti preuzeti prijedlozi iz referendumskog Zahtjeva - dob za starosnu
+mirovinu smanjena je na 65, za prijevremenu starosnu mirovinu na 60 te za starosnu mirovinu za
+dugogodišnjeg osiguranika na 60 godina. Također je smanjeno umanjenje za prijevremeno
+umirovljenje s 0,3 % na 0,2 % za svaki mjesec ranijeg odlaska u mirovinu, a usporeno je i
+izjednačavanje dobi za prijevremenu starosnu i starosnu mirovinu za žene u odnosu na muškarce
+s 2027. na 2030. godinu. Umanjenje u slučaju prijevremenog odlaska u mirovinu nekoliko je puta
+izmijenjeno nakon 1999. godine. Od siječnja 2020. godine iznosi 0,2 % po mjesecu, odnosno za
+odlazak u mirovinu do pet godina ranije primanja su niža do 12 %. Trenutačno umanjenje manje
+je od aktuarski neutralnog umanjenja i manje od umanjenja u državama članicama EU-a. To
+
+
+                                                 9
+podrazumijeva da umirovljenici koji odlaze u mirovinu u starijoj dobi djelomično subvencioniraju
+mirovine prijevremenih umirovljenika.
+
+        Bonus za kasniji odlazak u starosnu mirovinu, tzv. bonifikacija, uveden je 2010. godine u
+iznosu od 0,15 % po mjesecu, u 2019. godini povećan je na 0,34 % te na 0,45 % u siječnju 2023.
+godine i primjenjuje se na osiguranika koji prvi put stječe mirovinu nakon navršene starosne dobi
+propisane za stjecanje prava na starosnu mirovinu i ima 35 godina mirovinskog staža, a najviše za
+pet godina kasnijeg umirovljenja. U drugim državama članicama EU-a ne postoji takvo
+ograničenje, a bonus na starosnu mirovinu ovisi samo o dobi umirovljenja, u skladu s načelima
+aktuarske matematike. Primjena bonusa za kasniji odlazak u starosnu mirovinu učvršćuje odnos
+između uplaćenih doprinosa i troška doživotne mirovine, odražavajući kraće razdoblje isplate
+mirovine, čime se smanjuju kumulativni izdaci za odgođene starosne mirovine u usporedbi s
+mirovinama ostvarenim u mlađoj dobi. Faktor od 0,45 % po mjesecu blizu je aktuarski neutralne
+razine i sličan je bonusima koji se primjenjuju u drugim državama članicama. Također, za
+osiguranika koji prvi put ostvaruje pravo na starosnu mirovinu za dugogodišnjeg osiguranika bonus
+iznosi 0,15 % po mjesecu za svaki mjesec nakon navršenih godina života propisanih za stjecanje
+prava na tu mirovinu, a najviše za pet godina. Pravo na bonus primjenjuje se i za određivanje
+obiteljske mirovine nakon smrti osiguranika koji je umro nakon navršene starosne dobi propisane
+za stjecanje prava na starosnu mirovinu, odnosno starosnu mirovinu za dugogodišnjeg
+osiguranika.
+
+       Osnovna mirovina (mirovina iz prvog mirovinskog stupa koja se isplaćuje osobama
+osiguranima u oba obvezna mirovinska stupa) postala je od 2014. godine vezana uz dohodak,
+osim dijela koji je obuhvaćen propisima o najnižoj i najvišoj mirovini, a izračunava se prema istoj
+formuli s bodovima kao i mirovina ostvarena samo u prvom mirovinskom stupu. Međutim,
+osnovna mirovina niža je u odnosu na punu mirovinu iz prvog mirovinskog stupa zbog faktora
+osnovne mirovine od 0,75 koji odražava omjer između stope doprinosa za prvi stup od 15 %, koju
+uplaćuju osiguranici obaju obveznih stupova, i stope od 20 %, koju uplaćuju osiguranici samo
+prvog mirovinskog stupa (15:20 = 0,75). Faktor osnovne mirovine primjenjuje se pri izračunu
+osnovne mirovine za razdoblje uplate doprinosa u drugi stup (od 2002. godine). Korisnici osnovne
+mirovine imaju pravo na najnižu i najvišu mirovinu, umanjenu za faktor osnovne mirovine za
+godine staža osiguranja navršene od 2002. godine.
+
+       Preraspodjela i solidarnost u javnom mirovinskom sustavu prema osobama s niskim
+primanjima osiguravaju se najnižom i najvišom mirovinom.
+
+        Sukladno načelu solidarnosti u mirovinskom sustavu, osigurana je donja razina prava iz
+mirovinskog osiguranja u visini najniže mirovine koja se isplaćuje onim korisnicima čija je
+mirovina, određena prema mirovinskom stažu i plaćama te uvećana za dodatak od 27 %, niža od
+iznosa mirovine koje zakonodavac smatra najnižom prihvatljivom granicom mirovinskih primanja.
+S obzirom na to kako se primjenom instituta najniže mirovine osigurava određena donja, socijalno
+prihvatljiva razina mirovina, njome se ujedno vrši i preraspodjela mirovinskih primanja, od onih s
+višim k onima s nižim mirovinskim primanjima. Do te preraspodjele dolazi stoga što se najniža
+mirovina financira iz doprinosa osiguranika te ovisi samo o dužini mirovinskog staža, a ne i o
+plaćama (doprinosima) osiguranika. Institut najniže mirovine, koji ima snažnu socijalno-zaštitnu
+funkciju, utvrđen je 1999. godine na 97 % AVM-a. Povećan je na 100 % AVM-a 2019. i na 103 %
+AVM-a od 1. siječnja 2023. Dodatak na mirovinu od 4 % do 27 % ne primjenjuje se na najnižu
+
+                                                10
+mirovinu. Najniža mirovina ne utvrđuje se na temelju imovinskog cenzusa, razmjerna je trajanju
+radnog staža i primjenjuje se isti sustav bonusa i umanjenja kao i opća formula za izračun mirovine
+iz prvog stupa. Osobe s prosječnim dohotkom tijekom radnog staža manjim od 81,1 % prosječne
+plaće primaju najnižu mirovinu. Nizak prosječni iznos najniže mirovine povezan je s kratkim
+prosječnim radnim stažem budući da se ostvaruje u prosjeku nakon 28 godina mirovinskog staža.
+Izdaci za mirovine koji proizlaze iz razlike između stvarno isplaćene najniže mirovine i mirovine
+koja bi bila isplaćena da se utvrdi na temelju opće formule za mirovine u 2023. godini iznosili su
+oko 387 milijuna eura ili 5,4 % ukupnih izdataka za mirovine. Oko 40 % novih starosnih mirovina
+2023. godine činile su najniže mirovine. Postoje znatne razlike među spolovima: procjena je da će
+34 % novih umirovljenika i 51 % novih umirovljenica primati najnižu starosnu mirovinu. U rujnu
+2024. godine ukupno je bilo 315.813 korisnika najniže mirovine ili 27,8 % svih mirovina prema
+općem propisu.
+
+        Prema Zakonu o najvišoj mirovini („Narodne novine“, br. 162/98. i 82/01.) najviša mirovina
+izračunava se tako da se ukupni mirovinski staž osiguranika iskazan u obliku decimalnog broja
+pomnoži s 3,8 vrijednosnih bodova i polaznim faktorom te se tako izračunati osobni bodovi
+pomnože s mirovinskim faktorom i AVM-om. U slučaju kada svota mirovine, izračunata prema
+odredbama ZOMO-a, prelazi svotu određenu prema spomenutom Zakonu, određuje se svota
+najviše mirovine. Kao i najniža mirovina, najviša mirovina podliježe tzv. penalizaciji/bonifikaciji u
+slučaju prijevremenog/kasnijeg umirovljenja i odnosi se na sve vrste mirovina koje se isplaćuju iz
+obveznog mirovinskog osiguranja. Dodatak na mirovinu od 4 % do 27 % ne primjenjuje se na
+najvišu mirovinu.
+
+       Obiteljska mirovina je pravo iz mirovinskog sustava kojim se članovima obitelji umrlog
+osiguranika ili korisnika mirovine prema unaprijed zakonom definiranim uvjetima osiguravaju
+sredstva za život nakon nastanka osiguranog rizika smrti. Stoga, za priznanje prava na obiteljsku
+mirovinu, pored općih uvjeta koji moraju biti ispunjeni na strani umrlog osiguranika ili korisnika
+mirovine, istodobno na strani člana obitelji moraju biti ispunjeni i posebni uvjeti propisani za svaku
+pojedinu skupinu članova obitelji. Minimalna dob za stjecanje prava na obiteljsku mirovinu
+udovice/udovca i s njima izjednačenih osoba iznosi 50 godina, što je niže nego u većini država
+članica EU-a.
+
+        Od 2023. godine sve obiteljske mirovine povećane su za 10 %, sa 70 % na 77 % mirovine
+preminulog osiguranika/korisnika, za jednog korisnika obiteljske mirovine, do 110 % za četiri ili
+više korisnika obiteljske mirovine, a po prvi put omogućeno je korištenje dijela obiteljske mirovine
+uz osobnu mirovinu (starosnu, prijevremenu ili invalidsku mirovinu) ako korisnik ima najmanje 65
+godina života. Dio obiteljske mirovine određuje se u visini 27 % od obiteljske mirovine za jednog
+člana obitelji, pri čemu ukupna svota mirovina iz obveznog mirovinskog osiguranja u Republici
+Hrvatskoj ne smije prelaziti iznos od 80 AVM. Pravo na dio obiteljske mirovine u rujnu 2024. godine
+koristio je 108.651 korisnik, a prosječno povećanje mirovine iznosi 112 eura.
+
+        Dvije su vrste prava po osnovi utvrđene invalidnosti, a ovise o stupnju utvrđene
+invalidnosti: 1. invalidska mirovina zbog potpunog gubitka radne sposobnosti i 2. invalidska
+mirovina zbog djelomičnog gubitka radne sposobnosti. Pravo na invalidsku mirovinu ima
+osiguranik na temelju djelomičnog ili potpunog gubitka radne sposobnosti ako je djelomični ili
+potpuni gubitak radne sposobnosti nastao zbog bolesti ili ozljede izvan rada prije navršenih 65
+godina života i ako mu navršeni mirovinski staž pokriva najmanje jednu trećinu radnog vijeka.
+
+                                                 11
+Iznimno, ako je djelomični ili potpuni gubitak radne sposobnosti osiguranika nastao zbog ozljede
+na radu ili profesionalne bolesti, pravo na invalidsku mirovinu osiguranik stječe bez obzira na
+dužinu mirovinskog staža.
+
+        Mirovinski staž za izračun invalidske mirovine sastoji se od stvarno ostvarenog staža
+osiguranja (s iznimkom osiguranika kod kojega je invalidnost uzrokovana ozljedom na radu ili
+profesionalnom bolešću, u kojem se slučaju za određivanje invalidske mirovine uzimaju
+vrijednosni bodovi najmanje za 40 godina mirovinskog staža) i pridodanog staža koji se dodaje radi
+nadoknade dijela radnog staža izgubljenog zbog nastanka invaliditeta (uveden je 1. siječnja 1999.
+kao socijalno-zaštitni mehanizam kojim se na svojevrsni način nadoknađuje mirovinski staž u
+slučajevima nastupa invalidnosti ili smrti u mlađoj životnoj dobi). Pridodani staž počinje za
+invalidsku mirovinu – na dan nastanka smanjenja radne sposobnosti uz preostalu radnu
+sposobnost, djelomičnog ili potpunog gubitka radne sposobnosti, a za obiteljsku mirovinu – na
+dan smrti osiguranika (s obzirom na to kako članovi obitelji umrlog osiguranika imaju pravo na
+obiteljsku mirovinu, između ostalih uvjeta i ako je osiguranik ispunjavao uvjete dužine mirovinskog
+staža za stjecanje prava na invalidsku mirovinu). Trajanje pridodanoga staža računa se tako da se
+za razdoblja u kojima osiguranik nije ostvario staž osiguranja pribroje razdoblja do navršene 55.
+godine života osiguranika u trajanju od dvije trećine, a nakon 55. do navršene 60. godine života
+osiguranika u trajanju od jedne polovine.
+
+        Udio izdataka za invalidske mirovine posljednjih se godina smanjuje. Sličan trend očekuje
+se i u budućnosti jer se godišnji priljev novih invalidskih umirovljenika smanjio s prosječnih deset
+tisuća do 2012. godine na oko dvije i pol tisuće u posljednjih deset godina. Osim toga, nakon
+navršene zakonske dobi za odlazak u mirovinu, korisnici invalidske mirovine zbog potpunog
+gubitka radne sposobnosti prevode se u korisnike starosne mirovine i njihova se mirovina računa
+kao izdatak za starosnu mirovinu.
+
+        Prema podacima HZMO-a, u rujnu 2024. godine bilo je 90.743 korisnika invalidskih
+mirovina ostvarenih prema općim propisima (uključujući i međunarodne ugovore), u prosječnom
+iznosu od 401,58 eura te s prosječnim mirovinskim stažem od 21 godinu, 10 mjeseci i 17 dana.
+Najnižu mirovinu koristi ukupno 41.198 korisnika u prosječnom iznosu od 358,93 eura te s
+prosječnim mirovinskim stažem od 20 godina i 18 dana. Udio korisnika invalidskih mirovina prema
+općem propisu u ukupnom broju umirovljenika (1.226.522) iznosi 7,40 %. Od ukupnog broja
+korisnika invalidske mirovine, korisnika invalidske mirovine zbog djelomičnog gubitka radne
+sposobnosti (ranije profesionalne nesposobnosti za rad) ima 55.020. Najnižu mirovinu koristi
+41.198 korisnika u prosječnom iznosu od 330,41 eura i s prosječnim mirovinskim stažem od 20
+godina i 18 dana. Prosječna invalidska mirovina, bez međunarodnih ugovora, u iznosu od
+401,58 eura zaostaje za prosječnom starosnom mirovinom, koja je u rujnu 2024. godine iznosila
+613,64 eura, za 212,06 eura odnosno 34,56 % (iznosi prosječne starosne i invalidske mirovine u
+2024. godini uključuju i dio obiteljske mirovine za one koji ostvaruju pravo).
+
+       Dodani staž namijenjen je roditelju – majci ili posvojiteljici koja ostvaruje pravo na mirovinu
+prema općim i posebnim propisima iz obveznog mirovinskog osiguranja. Dodaje se ukupnom
+mirovinskom stažu za izračun visine mirovine na način da se dodaje razdoblje od šest mjeseci za
+svako rođeno i/ili posvojeno dijete. Institut dodanog staža uveden je u hrvatski mirovinski sustav
+od 1. siječnja 2019. kao demografska mjera u okviru mirovinskog sustava kojom se na
+odgovarajući način, a sukladno gospodarskim mogućnostima, štiti majčinstvo i nastoje otkloniti
+
+                                                 12
+razlike u visini mirovine između muškaraca i žena. Iznimno, predviđa se i mogućnost ostvarivanja
+dodanog staža ocu ili posvojitelju ako je koristio pretežni dio dodatnog rodiljnog dopusta (dodatni
+rodiljni dopust otac može koristiti u razdoblju od 70 dana nakon poroda do šest mjeseci djetetova
+života). Pravo na dodani staž je ostvarilo više od 85.000 korisnika, a na temelju dodanog staža od
+šest mjeseci po djetetu mirovina im je prosječno povećana za otprilike 2 % po djetetu, odnosno
+za dvoje djece prosječno povećanje iznosi oko 18 eura.
+
+        Prije uvođenja ovog instituta u mirovinski sustav, rodni jaz u mirovinama u 2018. godini
+iznosio je ukupno 20,4 % (bez međunarodnih ugovora), s prosječnom mirovinom od 405,70 eura
+za muškarca te 323,09 eura za žene, dok je u 2023. godini iznosio 19,9 %, s prosječnom mirovinom
+od 619,44 eura za muškarca te 495,97 eura za žene. Smanjivanje rodnog jaza u mirovinskim
+primanjima djelomično se može objasniti činjenicom da se dob za umirovljenje žena u Republici
+Hrvatskoj polagano podiže do 2030. godine (za tri mjeseca svake godine), a dulja razdoblja
+plaćanja doprinosa utječu na visinu mirovinskih primanja. Također, značajno se smanjio u 2023.
+godini zbog povećanja najnižih mirovina i redefiniranja obiteljskih mirovina, pri čemu je više žena
+nego muškaraca imalo koristi od ove dvije mjere. Rodni jaz u mirovinama u Republic Hrvatskoj
+manji je od prosjeka EU te je u 2023. iznosio 23,5 %, dok je prosjek EU iznosio 25,4 %. Postojeći
+rodni jaz u mirovinama u Republici Hrvatskoj, ako se promatra na razini ukupne populacije
+umirovljenika, uvelike je određen kao posljedica specifičnih okolnosti nastalih u posljednja tri
+desetljeća (značajan broj korisnika invalidskih mirovina povezanih sa stradavanjem u
+Domovinskom ratu, koje u najvećoj mjeri ostvaruju muškarci te kratak mirovinski staž i rano
+umirovljenje žena krajem prošlog i početkom ovog stoljeća). Ako promatramo kretanje rodnog jaza
+u mirovinama među novim korisnicima koji su ostvarili pravo na mirovinu u posljednjih nekoliko
+godina, rodni jaz je izrazito nizak te je u 2023. godini prosječna mirovina novih korisnika mirovina
+– žena bila svega 6% manja od prosječne mirovine muškaraca, što je znatno ispod prosjeka EU.
+
+Prikaz kretanja ukupnog broja korisnika prema vrsti prava (starosna, invalidska i obiteljska
+mirovina) u razdoblju od 2002. do 2022. godine pokazuje pad broja korisnika invalidskih mirovina
+i porast broja korisnika starosnih mirovina, dok je broj korisnika obiteljske mirovine ostao
+podjednak:
+
+
+
+
+                                                13
+        SUSTAV MIROVINSKOG OSIGURANJA NA TEMELJU INDIVIDUALNE
+        KAPITALIZIRANE ŠTEDNJE
+
+        Sustav mirovinskog osiguranja na temelju individualne kapitalizirane štednje obuhvaća
+drugi mirovinski stup (obvezno mirovinsko osiguranje na temelju individualne kapitalizirane
+štednje) i treći mirovinski stup (dobrovoljno mirovinsko osiguranje na temelju individualne
+kapitalizirane štednje). Drugi i treći mirovinski stup provode subjekti privatnog prava, a doprinosi
+osiguranika se ne koriste za isplatu mirovina sadašnjih korisnika već se ulažu u imovinu koja
+ostvaruje prinos pa se mirovina ostvaruje i isplaćuje na temelju vlastite akumulirane štednje na
+računu u obveznom odnosno dobrovoljnom mirovinskom fondu. Zakoni koji uređuju sustav
+mirovinskog osiguranja na temelju individualne kapitalizirane štednje su Zakon o obveznim
+mirovinskim fondovima („Narodne novine“, br. 19/14., 93/15., 64/18., 115/18., 58/20. i 156/23.),
+Zakon o dobrovoljnim mirovinskim fondovima („Narodne novine“, br. 19/14., 29/18., 115/18. i
+156/23.) i Zakon o mirovinskim osiguravajućim društvima („Narodne novine“, br. 22/14., 29/18.,
+115/18. i 156/23.).
+
+        DRUGI MIROVINSKI STUP
+         Drugi stup mirovinskog osiguranja u Republici Hrvatskoj uveden je kao obvezna
+komponenta mirovinskog sustava za sve osiguranike rođene nakon 1. siječnja 1962., a usmjeren
+je na diverzifikaciju mirovinskih primanja radi smanjenja pritiska na prvi mirovinski stup. Pokriva
+pretežno rizik starosti, ali i rizike invaliditeta i smrti pod određenim okolnostima (ako je član fonda
+stariji od 55 godina i članstvo duže od deset godina te ako bi iznos invalidske ili obiteljske mirovine
+iz oba mirovinska stupa bio veći od iznosa samo iz prvog mirovinskog stupa).
+
+        Sustav financiranja drugog mirovinskog stupa organiziran je kroz obvezne doprinose iz
+bruto plaće svakog osiguranika, od čega se 5 % bruto plaće uplaćuje u drugi mirovinski stup, dok
+se preostalih 15 % uplaćuje u prvi mirovinski stup. Zauzvrat, osiguranici drugog mirovinskog stupa
+imaju pravo na smanjenu mirovinu iz prvog mirovinskog stupa (osnovna mirovina izračunata s
+faktorom osnovne mirovine 0,75) s dodanom doživotnom mirovinom iz drugog mirovinskog stupa
+koja se isplaćuje s osobnog računa.
+
+        Doprinosi za drugi mirovinski stup prikupljaju se u obveznim mirovinskim fondovima,
+kojima trenutačno upravljaju četiri mirovinska društva – Allianz ZB, Erste Plavi, PBZ Croatia
+osiguranje i Raiffeisen. Sredstva koja se prikupljaju u drugom stupu ulažu se u različite financijske
+instrumente na tržištu kapitala, kao što su dionice, obveznice i državni vrijednosni papiri. Na taj
+način, kapitalizirani doprinosi rastu tijekom vremena i potencijalno osiguravaju veću mirovinu za
+osiguranike. Obvezni mirovinski fondovi prošli su kroz nekoliko valova liberalizacije pravila
+ulaganja, 2014., 2019. i 2024. godine.
+
+       Da bi se bolje prilagodili različitim životnim fazama osiguranika i razini rizika koju žele
+preuzeti, mirovinski fondovi podijeljeni su u tri osnovne kategorije prema profilu rizika. Mirovinski
+fondovi A kategorije su fondovi visoke rizičnosti namijenjeni mlađim osiguranicima. Ovi fondovi
+imaju veću izloženost dionicama i rizičnijim ulaganjima koja dugoročno mogu donijeti veće
+prinose, ali su istovremeno podložnija tržišnim oscilacijama. Mirovinski fondovi B kategorije su
+fondovi srednje rizičnosti koji nude uravnoteženu kombinaciju ulaganja u dionice i obveznice, a
+namijenjena je osiguranicima srednje životne dobi. Fondovi B kategorije su kompromis između
+
+
+                                                  14
+rasta i sigurnosti, što ih čini pogodnima za one koji imaju relativno umjerene sklonosti prema
+riziku. Mirovinski fondovi C kategorije su fondovi niske rizičnosti namijenjeni osiguranicima koji su
+blizu umirovljenja. Ova kategorija fondova orijentirana je na sigurnost ulaganja, s većim udjelom
+obveznica i državnih vrijednosnih papira, smanjujući tako volatilnost i tržišne rizike, ali donoseći i
+nešto niže prinose u usporedbi s fondovima A i B kategorije.
+
+         S obzirom na to da mješoviti mirovinski sustav nije dosegao svoju punu zrelost, koja se
+očekuje u roku od 40 godina od njegov implementacije, mirovinskom reformom iz 2019. godine
+uvedena je mogućnost istupa iz drugog mirovinskog stupa za sve članove. Ranije su takvu
+mogućnost imali samo osiguranici koji su 2002. godine imali između 40 i 50 godina života i oni koji
+su dobrovoljno pristupili drugom mirovinskom stupu. Osiguranici drugog mirovinskog stupa mogu
+birati između mirovine samo iz prvog mirovinskog stupa, pod uvjetom da se kapitalizirana štednja
+s njihovog računa prenese u državni proračun, i mirovine iz oba mirovinska stupa.
+Omogućavanjem izbora povoljnije mirovine zaštićen je znatan broj osiguranika u razdobljima
+nepovoljnih ciklusa na financijskim tržištima, posebno onih s niskim primanjima.
+
+        Također, 2019. godine omogućena je jednokratna isplata 15 % mirovinske štednje u
+drugom mirovinskom stupu u trenutku odlaska u mirovinu, samo za umirovljenike s osnovnom
+mirovinom iz prvog mirovinskog stupa koja je 15 % viša od najniže mirovine iz prvog mirovinskog
+stupa, a 2024. godine iznos jednokratne isplate podignut je na visinu do 20 % ukupno
+kapitaliziranih sredstava u drugom mirovinskom stupu, uz istodobno smanjenje graničnog iznosa
+za jednokratnu isplatu na visinu najniže mirovine.
+
+        Prema podacima Središnjeg registra osiguranika na dan 31. listopada 2024. u obveznim
+mirovinskim fondovima bilo je 2.321.855 članova, od čega 412.845 u kategoriji A, 1.811.474 u
+kategoriji B i 97.536 u kategoriji C, a ukupna sredstva na njihovim računima iznosila su22,66
+milijardi eura.
+
+        Do istog datuma zaprimljeno je 11.875 izjava o izboru mirovine, od čega je 7.687 (65 %)
+osiguranika izabralo mirovinu samo iz prvog mirovinskog stupa, a 4.188 (35 %) osiguranika
+izabralo mirovinu iz oba mirovinska stupa.
+
+       Važno je i istaknuti kako, unatoč izmjenama zakonodavnog okvira u nekoliko navrata da bi
+se fleksibilizirala mogućnost izbora te naporima usmjerenima na podizanje financijske
+pismenosti osiguranika, i dalje jako mali broj osiguranika prilikom prvog zaposlenja izabire obvezni
+mirovinski fond (oko 2 %).
+
+       TREĆI MIROVINSKI STUP
+        Štednja u trećem mirovinskom stupu potpuno je dobrovoljna i prilagođena osobnim
+potrebama i mogućnostima svakog člana dobrovoljnog mirovinskog fonda. Građani mogu
+ugovoriti dobrovoljnu štednju kroz hrvatske dobrovoljne mirovinske fondove ili putem
+paneuropskog osobnog mirovinskog proizvoda (PEPP) koji omogućava prijenos mirovinskih prava
+među članicama EU-a. Član bira iznos, učestalost i trajanje uplata, bez obveze redovitih uplata.
+Čak i ako privremeno ili trajno prestane s uplatama, članstvo u fondu se ne prekida, a postojeća
+sredstva i dalje ostvaruju prinose.
+
+      Dobrovoljni mirovinski fondovi mogu biti otvoreni, dostupni svima, i zatvoreni, namijenjeni
+određenim grupama poput zaposlenika pojedinih poduzeća, članova sindikata ili udruga
+
+                                                 15
+samostalnih djelatnosti. U Republici Hrvatskoj četiri mirovinska društva (Allianz ZB, Erste Plavi,
+PBZ Croatia osiguranje i Raiffeisen) upravljaju s osam otvorenih i 21 zatvorenim dobrovoljnim
+mirovinskim fondom.
+
+        U trećem stupu na dan 31. listopada 2024. bilo je ukupno 461.607 članova, od tog broja u
+otvorenim dobrovoljnim mirovinskim fondovima 412.459 članova, a u zatvorenim 49.148 članova.
+Broj članova otvorenih i zatvorenih dobrovoljnih mirovinskih fondova povećao se u odnosu na
+prethodnu godinu za 24.769 članova, ali i dalje je nedostatan broj osiguranika uključen u otvorene
+i zatvorene dobrovoljne mirovinske fondove. Stoga je važno dodatno poticati dobrovoljnu
+mirovinsku štednju kroz poboljšanje pristupa programima za povećanje financijske pismenosti,
+kako bi osvijestili mlađe generacije na potrebu osiguranja prihoda za dostojanstvenu starost.
+
+        Ukupna neto imovina dobrovoljnih mirovinskih fondova na dan 31. listopada 2024.
+iznosila je 1,38 milijardi eura i porasla je za 220 milijuna eura u odnosu na prethodnu godinu. Od
+ukupne neto imovine, imovina otvorenih dobrovoljnih mirovinskih fondova iznosila je 1,14 milijardi
+eura, a zatvorenih 236 milijuna eura. Od početka poslovanja, odnosno 2002. godine, prosječni
+godišnji prinos svih otvorenih dobrovoljnih mirovinskih fondova iznosi 4,69 %, dok je prinos
+zatvorenih dobrovoljnih mirovinskih fondova u prosjeku bio 5,49 %.
+
+        Država podržava dobrovoljnu mirovinsku štednju kroz poticajna sredstva od 15 % godišnje
+uplaćenog iznosa do maksimalno 99,54 eura. Da bi ostvarili maksimalan iznos poticaja članovi
+trebaju godišnje uplatiti 663,61 eura. Poslodavci, također, mogu uplaćivati štednju za zaposlenike
+čime ostvaruju porezne olakšice do iznosa 66,37 eura mjesečno, odnosno 796,44 eura godišnje
+po zaposleniku.
+
+       Mirovinu iz trećeg mirovinskog stupa mogu isplaćivati mirovinska društva, mirovinska
+osiguravajuća društva i društva za životno osiguranje.
+
+        ULOGA MIROVINSKIH OSIGURAVAJUĆIH DRUŠTAVA
+        Mirovinska osiguravajuća društva igraju ključnu ulogu u fazi isplate mirovina iz drugog i
+trećeg mirovinskog stupa. Trenutno u Republici Hrvatskoj posluju dva mirovinska osiguravajuća
+društva - Hrvatsko mirovinsko osiguravajuće društvo d.d. i Raiffeisen mirovinsko osiguravajuće
+društvo d.d. Mirovinsko osiguravajuće društvo primarno jamči doživotnu isplatu mirovine svojim
+korisnicima u unaprijed definiranom iznosu pri čemu je trajanje isplate mirovine neizvjesno,
+posljedično čemu su ta društva izložena riziku dugovječnosti.
+
+        Ostvarivanje prava na mirovinu iz drugog mirovinskog stupa stječe se ostvarivanjem prava
+na mirovinu iz prvog mirovinskog stupa. Ako korisnik izabere isplatu kombinirane mirovine, mora
+izabrati i mirovinsko osiguravajuće društvo s kojim će sklopiti ugovor o isplati doživotne mirovine
+iz obveznog mirovinskog osiguranja.
+
+        Pri određivanju iznosa mirovine koriste se modeli aktuarske matematike. Osnovni
+parametri koji se uzimaju u obzir pri izračunu mirovine su očekivani životni vijek, inflacija i prinosi,
+nasljedivost, mogućnost djelomične jednokratne isplate i naknade. Parametri koji određuju visinu
+mirovine, koji su individualni i na koje utječe korisnik, su oblik isplate (razina nasljedivosti te iznos
+doznake i jednokratne isplate), dok očekivani životni vijek, očekivane prinose i inflaciju postavlja
+mirovinsko osiguravajuće društvo te na njih korisnik nema utjecaja.
+
+
+
+                                                   16
+        Trenutno se oko 50 % osiguranika opredjeljuje za pojedinačnu doživotnu mirovinu sa
+zajamčenom isplatom kapitaliziranih sredstava koja korisniku omogućuje doživotno primanje
+mirovine. U slučaju smrti korisnika mirovine prije nego mu se isplati cjelokupni iznos doznake,
+preostali dio kapitaliziranih sredstava isplatit će se zakonskim nasljednicima sukladno
+odredbama zakona kojim je uređeno nasljeđivanje. Budući da se radi o obliku mirovine koji nije
+izrijekom predviđen u Zakonu o mirovinskim osiguravajućim društvima, već se radi o obliku u
+okviru pojedinačne mirovine, moguće je da će se javiti potreba dodatne regulacije ovog oblika
+isplate mirovine.
+
+       Jedan od problema istaknutih na radnoj skupini je nepostojanje službenih rentnih tablica
+smrtnosti u Republici Hrvatskoj. Naime, DZS ima samo opće populacijske tablice smrtnosti, dok
+je kod izračuna očekivanog doživljenja potrebno koristiti rentne tablice smrtnosti. Za izradu
+navedenih tablica potrebno je pokrenuti suradnju DZS-a s Hrvatskim aktuarskim društvom,
+Prirodoslovno-matematičkim fakultetom i HANFA-om budući da je svim stručnim tijelima u
+interesu što bolja projekcija stvarnog očekivanog životnog vijeka, a frekventno vrijeme izdavanja
+projekcija je nakon popisa stanovništva.
+
+        Za svaku novu preuzetu obvezu mirovinsko osiguravajuće društvo mora osigurati dostatan
+kapital za pokriće zahtijevane granice solventnosti. Mirovinska osiguravajuća društva ulažu
+sredstva za isplatu mirovine u različite oblike financijske imovine, najviše u državne i korporativne
+obveznice, dionice, fondove i nekretnine, pridržavajući se zakonskih limita. Cilj ovih ulaganja je
+osigurati likvidnost za isplatu mirovina, što uključuje i indeksiranje za inflaciju te održavati
+zadovoljavajuću razinu pokrivenosti obveza s imovinom u zadanim limitima, a ujedno generirati
+višak koji se može pripisati korisnicima. Mirovinska osiguravajuća društva imaju obvezu pripisati
+korisnicima mirovine iz obveznog mirovinskog osiguranja višak ako se u godišnjem financijskom
+izvještaju utvrdi da vrijednost imovine za pokriće tehničkih pričuva prelazi 115 % vrijednosti svih
+tekućih i budućih obveza prema svim ugovorima o mirovinama.
+
+      IZMJENE PROPISA IZ KAPITALIZIRANOG MIROVINSKOG SUSTAVA OD 1.
+SIJEČNJA 2024.
+        Paket izmjena zakonskih propisa iz kapitaliziranog mirovinskog sustava obuhvatio je
+izmjene Zakona o obveznim mirovinskim fondovima, Zakona o dobrovoljnim mirovinskim
+fondovima i Zakona o mirovinskim osiguravajućim društvima, ali i izmjene Zakona o dodatku na
+mirovine ostvarene prema Zakonu o mirovinskom osiguranju. Cilj ovih izmjena bio je povećanje
+broja korisnika koji biraju isplatu mirovine iz oba mirovinska stupa, kao i ostvarivanje većih prinosa
+i viših iznosa mirovine te regulatorna unaprjeđenja, odnosno unaprjeđenje korporativnog
+upravljanja mirovinskim fondovima.
+
+       Naime, uočeno je da sve manje novih umirovljenika bira mirovinu iz oba obvezna
+mirovinska stupa što ugrožava održivost i svrhu trostupnog mirovinskog sustava. Također, rast
+AVM-a iz prvog mirovinskog stupa, kraći radni staž nakon 2002. godine, negativni prinosi obveznih
+mirovinskih fondova C kategorije u 2022. godini, promjene cjenika mirovinskih osiguravajućih
+društava koji su rezultirali smanjenjem iznosa mirovine s obzirom na njihovu obvezu da mirovine
+usklađuju sa, u tom trenutku, rastućom inflacijom, smanjuju postotak odabira korisnika
+kombinirane mirovine. Imovina obveznih mirovinskih fondova u zadnjem desetljeću više je nego
+
+
+
+                                                 17
+udvostručena te su prepoznate mogućnosti za fleksibilniju regulaciju ulaganja i ostvarivanje
+dodatnih prinosa za građane uz kontrolirano povećanje rizika u dužem roku.
+
+         Najbitnije izmjene su povećanje dodatka koji se određuje na osnovnu mirovinu iz prvog
+mirovinskog stupa u visini od 27 % umjesto dotadašnjih 20,25 % za zatečene i buduće korisnike
+osnovne mirovine, a povećanje broja korisnika iz prvog i drugog mirovinskog stupa namjerava se
+postići i omogućavanjem jednokratne isplate u visini do 20 % ukupno kapitaliziranih sredstava u
+drugom stupu te omogućavanjem izbora korisnicima mirovine vezano za način isplate mirovine iz
+drugog mirovinskog stupa uvođenjem mogućnosti isplate mirovine bez usklađivanja mirovine što
+će rezultirati većim iznosima mirovina na početku ugovora o mirovini, ali i isplatu mirovine u
+nepromijenjenom iznosu za čitavo vrijeme trajanja isplate mirovine, zbog čega je propisana
+obveza informiranja korisnika mirovina o posljedicama takvog izbora, posebice u uvjetima visoke
+ili rastuće inflacije..
+
+         Također, radi povećanja prinosa obveznih i dobrovoljnih mirovinskih fondova uvedene su
+nove vrste imovine u koju mirovinska društva mogu ulagati imovinu fondova, primjerice
+nekretnine, neuvrštene hipotekarne obveznice i udjeli u nelistanim tvrtkama, a uz to su i
+liberalizirani limiti ulaganja za one klase imovine u koje mirovinska društva već mogu ulagati.
+
+        Kako bi se potaknula veća aktivnost obveznih mirovinskih fondova i ulaganje u hrvatsko
+gospodarstvo propisana je obveza ulaganja od minimalno 5 % sredstava obveznih mirovinskih
+fondova A i B kategorije u alternativni investicijski fond s garancijom povrata ukupnog ulaganja na
+kraju trajanja investicijskog fonda, kao supstitut dijela ulaganja u državne obveznice.
+
+       Ukinuta je ulazna naknada zbog čega će svake godine na računima građanima ostati oko
+pet milijuna eura. Što se tiče naknada za članove fondova, one će se smanjivati kao i drugi
+administrativni troškovi.
+
+         U cilju povećanja financijske pismenosti i fleksibilizacije izbora kategorije mirovinskog
+fonda omogućena je promjena kategorije obveznog mirovinskog fonda bilo kada tijekom godine,
+dulji ostanak u kategoriji A na zahtjev osiguranika do 60. godine te je ukinuto obvezno prebacivanje
+u mirovinski fond kategorije C pet godina prije uvjeta za starosnu mirovinu.
+
+       Kako bi faza isplate kroz mirovinska osiguravajuća društva postala atraktivnija većem
+broju operatera, izmjenama regulacije tehničkih pričuva mirovinskim osiguravajućim društvima
+omogućeno je bolje upravljanje likvidnošću te su olakšani kapitalni zahtjevi.
+
+       Predstavljeni zakonski prijedlozi stupili su na snagu 1. siječnja 2024.
+
+       DOPRINOSI ZA MIROVINSKO OSIGURANJE
+
+       Najznačajniji izvor financiranja mirovinskog sustava u Republici Hrvatskoj su doprinosi za
+mirovinsko osiguranje, koji u pravilu idu na teret zaposlenika te kapitalizirani doprinosi. Uređeni
+su Zakonom o doprinosima („Narodne novine“, br. 84/08., 152/08., 94/09., 18/11., 22/12.,
+144/12., 148/13., 41/14., 143/14., 115/16., 106/18., 33/23. i 114/23.) koji propisuje obvezu
+plaćanja doprinosa za financiranje obveznih osiguranja (mirovinskog osiguranja na temelju
+generacijske solidarnosti, obveznog mirovinskog osiguranja na temelju individualne kapitalizirane
+štednje, obveznog zdravstvenog osiguranja te obveznog zdravstvenog osiguranja za slučaj ozljede
+
+
+                                                18
+na radu i profesionalne bolesti), vrste doprinosa, obveznike doprinosa i druga pitanja vezana uz
+poslove prikupljanja doprinosa.
+
+       Doprinosi za mirovinsko osiguranje, odnosno obveza plaćanja doprinosa za financiranje
+obveznih osiguranika su teret što ga obveznik doprinosa na teret svojih sredstava treba uplatiti za
+svoje osobno osiguranje ili što ga obveznik doprinosa ima uplatiti u korist druge osobe
+osiguranika.
+
+        Obveznim mirovinskim osiguranjem smatra se obvezno mirovinsko osiguranje na temelju
+generacijske solidarnosti i obvezno mirovinsko osiguranje na temelju individualne kapitalizirane
+štednje, a također je obvezno zdravstveno osiguranje i obvezno zdravstveno osiguranje za slučaj
+ozljede na radu i profesionalne bolesti.
+
+       Obveza doprinosa vezana je uz razdoblje provedeno u osiguranju i uz osnovu osiguranja.
+Početak i prestanak razdoblja osiguranja te osnovu osiguranja utvrđuju nositelji obveznih
+osiguranja (HZMO i Hrvatski zavod za zdravstveno osiguranje).
+
+        Doprinosi za prvi mirovinski stup su doprinos za mirovinsko osiguranje, koji se za osobu
+koja je osiguranik samo prvog mirovinskog stupa obračunava po stopi od 20 % dok se za osobu
+koja je osiguranik oba mirovinska stupa obračunava po stopi od 15 % za prvi i 5 % za drugi
+mirovinski stup. Posebni doprinos za mirovinsko osiguranje za osobe osigurane u određenim
+okolnostima obračunava se po stopi od 5 %.
+
+        Republika Hrvatska je jedina zemlja EU-a u kojoj doprinos za mirovinsko osiguranje
+isključivo ide na teret zaposlenika.
+
+        Nadalje, Zakonom o doprinosima propisane su i iznimke od obveze plaćanja doprinosa
+(studenti prilikom rada tijekom posrednika u zapošljavanju, članovi Hrvatske akademije znanosti
+i umjetnosti, socijalne kategorije itd.), osnovice po kategorijama osiguranika te njihovi koeficijenti.
+Tipični oblici registrirane djelatnosti na temelju koje se uz stalno zaposlenje ostvaruju drugi
+primici/prihodi od druge djelatnosti su obrt, slobodno zanimanje i ostale samostalne djelatnosti.
+
+        Doprinosi za mirovinsko osiguranje naplaćuju se i na dohodak osoba koje obavljaju
+privremene poslove te profesionalne i druge samostalne gospodarske djelatnosti. Stopa
+doprinosa za mirovinsko osiguranje za radnike koji ostvaruju dohodak od nesamostalnog rada
+iznosi 20 % plaće (15 % za prvi i 5 % za drugi mirovinski stup), dok stopa doprinosa za osobe koje
+ostvaruju drugi dohodak (one koje rade na temelju autorskog ugovora ili ugovora o djelu) ili drugu
+samostalnu djelatnost (one koje obavljaju samostalnu djelatnost uz osiguranje po nekoj drugoj
+osnovi) iznosi 10 % bruto dohotka (7,5 % za prvi i 2,5 % za drugi mirovinski stup). Dodatni doprinos
+za mirovinsko osiguranje za staž osiguranja s povećanim trajanjem iznosi od 4,86 % do 17,08 %,
+koji se za osiguranike drugog mirovinskog stupa razmjerno dijele u oba mirovinska stupa. Na
+studentske ugovore primjenjuje se stopa od 5 % za mirovinsko osiguranja za osobu osiguranu u
+određenim okolnostima. Nadalje, osnovica za obračun doprinosa za samozaposlene, to jest one
+koji obavljaju različite profesionalne i druge samostalne gospodarske djelatnosti ovisi o vrsti
+djelatnosti te za obrtnike iznosi 65 % prosječne plaće u prethodnoj godini, za samostalne
+profesionalne djelatnosti i sportaše iznosi 110 %, za osobe koje obavljaju poljoprivrednu i
+šumarsku djelatnost iznosi ili 38 % ili 55 %, ovisno o tome radi li se o poljoprivredniku upisanom u
+upisnik obiteljskih poljoprivrednih gospodarstava ili o samostalnoj djelatnosti.
+
+
+                                                  19
+        Glavni problemi doprinosnog sustava u Republici Hrvatskoj su prevelika raznovrsnost
+osnovica i stopa doprinosa, kategorija obveznika doprinosa, kao i blaži porezni tretman za atipične
+oblike rada, poput studentskog rada, radnika na digitalnim radnim platformama, iznajmljivača
+apartmana, ugovora o djelu i slično. U odnosu na primjerenost budućih mirovina, osnovni su
+problem općenito male plaće, a samim time male osnovice za obračun doprinosa te posljedično
+niske mirovine. U tom smislu, potrebno je pojednostavljenje podjele doprinosa koje će pozitivno
+utjecati i na povećanje plaća.
+
+       Očekuje se da će doprinosi za mirovinsko osiguranje i u budućnosti ostati najvažniji izvor
+prihoda za financiranje rashoda za mirovine i mirovinska primanja (više od 60% ukupnih prihoda
+mirovinskog sustava), a potrebna sredstva za financiranje mirovinskog sustava iz općih prihoda i
+primitaka mirovinskog sustava postupno će se smanjivati u dugom roku.
+
+
+
+
+3.     TRENDOVI NA TRŽIŠTU RADA – STRANI RADNICI, DJELOMIČNO
+       UMIROVLJENJE I ATIPIČNI OBLICI RADA
+
+        Demografska i gospodarska kretanja te zakonska regulativa u najvećoj mjeri određuju
+stabilnost i održivost mirovinskog sustava, dok omjer osiguranika i umirovljenika, uz udio
+mirovinskih izdataka u BDP-u i udio prosječne mirovine u prosječnoj plaći, tzv. zamjenska stopa,
+čine ključne pokazatelje primjerenosti mirovina i održivosti javnog mirovinskog sustava. Međutim,
+za osiguranje stabilnosti i održivosti mirovinskog sustava ključno je provođenje reformi i u nizu
+drugih društvenih segmenata, posebice na tržištu rada i obrazovanju, kojima se stvaraju preduvjeti
+za povećanje zaposlenosti i duži ostanak u svijetu rada.
+
+       U kontekstu nepovoljnih demografskih trendova važno je istaknuti da, iako se omjer
+osiguranika i umirovljenika poboljšava te je prema podacima HZMO-a za listopad 2024. godine
+omjer bio 1:1,40, on je i dalje nepovoljan budući da na jednog umirovljenika dolazi manje od
+jednog i pol radno aktivnog stanovnika.
+
+
+
+
+                                                20
+       Prikaz ukupnog broja i odnosa broja osiguranika i korisnika mirovina od 2001. do 2022.
+
+
+
+
+       U Republici Hrvatskoj je 1,22 milijuna umirovljenika, a proračunska izdvajanja za mirovine
+za 2024. godinu iznose 8,07 milijardi eura, od čega se 60,61 % financira iz doprinosa.
+
+       Projekcija Europske komisije o kretanju broja osiguranika i korisnika mirovina do 2070.
+godine pokazuje daljnji pad omjera, što će posljedično povećati i proračunska izdavanja za
+mirovine.
+
+
+
+
+         Prezentacijom Radnoj skupini na temu „Radna snaga budućnosti u Republici Hrvatskoj:
+starija, raznovrsnija i tehnički potkovanija“ istaknuti su faktori koji utječu na omjer broja
+umirovljenika i broja zaposlenih osiguranika i to pad stanovništva i očekivano trajanje života, koje
+se povećava za otprilike dvije godine na svakih deset godina i kontinuirano raste s obzirom na
+razvoj medicine, načina života i slično. Prema podacima HZMO-a, zaposlenost u Republici
+Hrvatskoj raste, dok se prema podacima Hrvatskog zavoda za zapošljavanje nezaposlenost
+smanjuje, što se očituje kroz porast broja osiguranika i smanjenje broja nezaposlenih te rast
+
+                                                21
+produktivnosti kao rezultata bržeg rasta gospodarstva, odnosno BDP-a u odnosu na rast
+zaposlenosti. U protekla dva desetljeća zaposlenost je rasla u razdobljima ekspanzije, a
+smanjivala se u godinama u kojima je zabilježen pad ekonomske aktivnosti. U prosjeku, rast 1 %
+BDP-a podrazumijevao je rast zaposlenosti od oko 0,7 %, dok su izraženija odstupanja bila
+prisutna u razdoblju COVID krize kao posljedica fiskalne i monetarne potpore.
+
+       Iako je potrebno voditi računa o tome da se stvarne potrebe za migrantskom radnom
+snagom mogu odrediti tek ovisno o uspjehu drugih politika, s obzirom na starenje stanovništva i
+pad populacije pojačan snažnom emigracijom nakon ulaska u EU, što smanjuje raspoloživu radnu
+snagu u Republici Hrvatskoj i negativno utječe na daljnji gospodarski rast te sve veći broj
+slobodnih radnih mjesta koja se ne mogu popuniti, sve je značajnija potreba uvoza strane radne
+snage, odnosno zapošljavanja stranaca.
+
+         U prošlosti se manjak radne snage na domaćem tržištu većinom popunjavao iz susjednih
+zemalja (Bosna i Hercegovina, Republika Srbija, Sjeverna Makedonija, Republika Kosovo),
+međutim očita je sve veća važnost dalekih azijskih zemalja. Postoji interes trećih zemalja poput
+Nepala, Filipina, Bangladeša i Indije kojima je hrvatsko tržište rada postalo atraktivno za izvoz
+svoje radne snage. Međutim, za daljnji gospodarski rast potrebno je omogućiti zapošljavanje
+kvalitetne i odgovarajuće domaće radne snage, uz učinkovit uvoz radne snage u deficitarnim
+zanimanjima koja se neće moći pronaći na domaćem tržištu rada.
+
+        Nadalje, potrebno je štititi socijalna prava radnika migranata sklapanjem međudržavnih
+ugovora o socijalnoj sigurnosti, a postojanje takvih ugovora može određenoj trećoj državi učiniti
+hrvatsko tržište rada još atraktivnijim te na neizravan način ostvariti politika privlačenja kvalitetne
+radne snage. Takvim ugovorima radnicima migrantima jamči se valorizacija radnog staža i
+uplaćenih doprinosa u mirovinski sustav Republike Hrvatske kroz mogućnost ostvarivanja prava
+na mirovinu iz hrvatskog mirovinskog sustava, primjerice zbrajanjem razdoblja navršenoga
+mirovinskog staža u Republici Hrvatskoj s navršenim razdobljima osiguranja u njihovim matičnim
+državama, radi ispunjenja propisanih uvjeta najmanjeg trajanja razdoblja osiguranja za
+ostvarivanje prava.
+
+        U odnosu na probleme radne snage, važno je nastaviti politike usmjerene na povećanje
+participacije domaće radne snage što uključuje i produljenje radnog vijeka, cjeloživotno
+obrazovanje i prekvalifikacije, socijalne programe, omogućavanje alternativnih radnih aranžmana
+kao što su četverodnevni radni tjedan i rad na daljinu, dodatno poticanje i olakšice za ulaganja u
+istraživanje i razvoj. Potrebne su promišljene demografske politike koje obuhvaćaju natalitetne i
+obiteljske politike za usporavanje depopulacijskih trendova te migracijske politike koje uzimaju u
+obzir kvalifikacijsku strukturu sadašnje i buduće radne snage. Naime, problem nedostatka radne
+snage pokušava se riješiti zapošljavanjem stranih radnika čiji broj zadnjih godina raste, međutim
+stvarne potrebe za migrantskom radnom snagom mogu se odrediti tek ovisno o uspjehu drugih
+politika, djelomično automatizacijom, a djelomično jačim angažiranjem umirovljenika kojima je
+omogućen rad do polovice punog radnog vremena (do četiri sata).
+
+        ZOMO omogućuje rad umirovljenika do polovice punog radnog vremena uz istovremenu
+isplatu mirovine. Na taj način starijim se radnicima omogućuje postupni prelazak iz svijeta rada u
+punu mirovinu, pri čemu ostvaruju dodatan prihod u razdoblju kada su im novčana primanja
+smanjena, ali se pridonosi i smanjenju rizika od socijalne isključenosti. Istovremeno, time se
+
+
+                                                  22
+omogućava i postupno prenošenje znanja sa starijih radnika na mlađe, povećava se dostupan
+kontingent radne snage te se smanjuje pritisak na mirovinski sustav.
+
+        Do 2014. godine mogućnost rada do polovice punog radnog vremena uz istovremeno
+korištenje punog iznosa mirovine imali su samo korisnici starosne mirovine ostvarene prema
+općem mirovinskom propisu. Međutim, u mirovinskoj reformi od 1. siječnja 2019., kako bi se
+potaknuo duži ostanak u svijetu rada, dodatno je proširen krug umirovljenika koji mogu raditi i
+istovremeno koristiti mirovinu na korisnike prijevremene starosne mirovine, starosne mirovine za
+dugogodišnjeg osiguranika i starosne mirovine ostvarene prema Zakonu o pravima iz mirovinskog
+osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba („Narodne
+novine“, br. 28/99., 16/01., 22/02., 41/08., 97/12. i 118/12. - u daljnjem tekstu: Zakon o DVO, PS i
+OSO). Korisnicima starosne mirovine prema Zakonu o DVO, PS i OSO omogućen je i rad u punom
+radnom vremenu, ali im se tada isplaćuje 50 % iznosa mirovine.
+
+        Izmjenama ZOMO-a od 1. kolovoza 2021. rad do polovice punoga radnog vremena uz
+isplatu mirovine u punom iznosu proširen je i na korisnike obiteljske mirovine, a istim izmjenama
+omogućena je i isplata najniže mirovine u razdobljima zaposlenja do polovice punoga radnog
+vremena.
+
+         Izmjenama ZOMO-a od 1. siječnja 2023. rad do polovice punog radnog vremena uz isplatu
+punog iznosa mirovine te rad u punom radnom vremenu uz isplatu 50 % iznosa mirovine
+omogućen je vatrogascima i djelatnim vojnim osobama i policijskim službenicima umirovljenima
+prije stupanja na snagu Zakona o DVO, PS i OSO.
+
+        Korisnici invalidske mirovine zbog djelomičnog gubitka radne sposobnosti mogu raditi
+neovisno o radnom vremenu, ali im se u tom slučaju umanjuje iznos mirovine, dok se korisnicima
+invalidske mirovine zbog potpunog gubitka radne sposobnosti u slučaju zaposlenja mirovina
+obustavlja.
+
+        Zakonom o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji
+(„Narodne novine“, br. 121/17., 98/19., 84/21. i 156/23.) od 1. siječnja 2019. korisnicima
+invalidske mirovine zbog potpunog gubitka radne sposobnosti koji se zaposle manje od 3,5 sati
+dnevno invalidska mirovina se ne obustavlja.
+
+       Da bi umirovljenik mogao raditi do polovice punog radnog vremena uz isplatu mirovine
+mora imati sklopljen ugovor o radu. Slijedom toga, a s obzirom na to da u usporedbi sa zaposlenim
+osobama odnosno nesamostalnim radom, osiguranici – samostalni obveznici uplate doprinosa,
+kao što su primjerice obrtnici, nisu u ugovornom odnosu te slobodno disponiraju svojom voljom,
+samostalni su u određivanju radnog vremena i odlučivanju o eventualnom prestanku obavljanja
+djelatnosti, odnosno o odlasku u mirovinu, nemaju mogućnost rada do polovice punog radnog
+vremena uz istovremenu isplatu mirovine.
+
+        Svi umirovljenici, neovisno o vrsti mirovine koju primaju, mogu raditi na temelju ugovora o
+djelu uz isplatu mirovine u punom iznosu. Također, svi korisnici mirovina mogu obavljati sezonske
+poslove u poljoprivredi (prema posebnim propisima, do 90 dana u kalendarskoj godini) uz isplatu
+mirovine u punom iznosu.
+
+       Prema podacima HZMO-a na dan 30. rujna 2024. evidentirano je 32.708 umirovljenika koji
+rade uz isplatu mirovine. Udio aktivnih korisnika mirovina koji rade i primaju mirovinu u ukupnom
+
+                                                23
+broju osiguranika iznosi oko 2,7 %. Najveći broj umirovljenika zaposlen je u djelatnosti trgovine na
+veliko i malo, njih 16,8 %, potom u prerađivačkoj industriji 12,65 %, stručnim znanstvenim i
+tehničkim djelatnostima 12,62 %, administrativnim i pomoćnim uslužnim djelatnostima 11 %,
+građevinarstvu 10,36 %, u djelatnostima pružanja smještaja te pripreme i usluživanja hrane 7,63
+%, djelatnostima zdravstvene zaštite i socijalne skrbi 5,8 %.
+
+        Od ukupnog broja zaposlenih umirovljenika veći broj čine muškarci oko 64 %, dok žene
+participiraju s manje od 36 %.
+
+        Međutim, iako u Republici Hrvatskoj radi mali broj umirovljenika, taj broj ne bi trebalo
+uspoređivati s ukupnim brojem umirovljenika koji obuhvaća i veliki dio populacije u dobi od 70 do
+80 i više godina života koji su zbog svojih godina i najmanje u mogućnosti ponovno se zaposliti.
+Najveći broj umirovljenika koji rade je u dobnoj skupini između 60 i 70 godina života, pri čemu u
+ukupnom broju osiguranika u istoj dobnoj skupini korisnici mirovine participiraju s više od 20 %.
+
+        Izmjenama i dopunama Zakona o radu („Narodne novine“, br. 93/14., 127/17., 98/19.,
+151/22., 46/23. i 64/23.) iz 2022. godine došlo je do jedne važne promjene za umirovljenike koji
+rade u mirovini. Nova je odredba da poslodavci neće isplaćivati otpremnine niti odrediti otkazni
+rok za osobe starije od 65 godina s 15 godina mirovinskog staža i koje žele otići u mirovinu. Osim
+toga, umirovljenicima koji rade naknadu za bolovanje plaćat će država, a ne poslodavac, čime se
+poslodavci potiču da zadrže svoje radnike i nakon odlaska u mirovinu. Također, revidiranje
+zakonske odredbe o prestanku radnog odnosa zbog navršene životne dobi (65 godina života i 15
+godina mirovinskog staža, ako se poslodavac i radnik ne dogovore drugačije) omogućit će ne samo
+dulji ostanak u svijetu rada i dulji staž već će se time ostvariti i dodatno povećanje mirovine za
+svaki mjesec umirovljenja nakon propisane dobi. Isto tako, aktivnosti u području borbe protiv
+neprijavljenog rada povećat će plaćanje doprinosa te posljedično osigurati veće mirovine.
+
+         Osnaživanje uloge posebnog savjetodavnog tijela nadležnog za praćenje kretanja u
+području minimalne plaće također će značajno utjecati na osiguravanje primjerenih plaća, a ne
+samo minimalnih, što će imati pozitivan utjecaj i u mirovinskom sustavu, jer će veće plaće uz duži
+staž i kasniji odlazak u mirovinu rezultirati većim mirovinama.
+
+       Politike usmjerene na jačanje participacije, fokus na cjeloživotno učenje te prilagodba
+demografskih i migracijskih strategija će biti ključni za održavanje stabilnosti i rasta tržišta rada u
+Republici Hrvatskoj. Pozitivan je podatak prema kojemu se stopa radno aktivnog stanovništva (od
+15-64 godina) zadnjih godina povećala za 8 % te danas iznosi oko 70 %. Međutim, to je i dalje ispod
+prosjeka EU-a koji je 75 %. Migracije i niske stope fertiliteta uzrokuju pad radno aktivnog
+stanovništva zbog čega će se povećavati broj stranih radnika kako bi se održala ekonomska
+stabilnost i olakšati zategnuti odnos ponude i potražnje na tržištu rada.
+
+         U odnosu na utjecaj djelomičnog umirovljenja i atipičnih oblika rada na održivost
+mirovinskog sustava i primjerenost mirovina, na Radnoj skupini istaknuto je kako za uspješno
+uređenje rada uz istovremeno korištenje mirovine (tzv. djelomično umirovljenje) treba dobro
+podesiti različite parametre, odnosno prilikom uređenja mjere djelomičnog umirovljenja treba
+voditi računa o dobi od koje tu mjeru treba dopustiti, o dopuštenoj dužini korištenja toga prava,
+vrstama i obliku rada koji se dopuštaju kod djelomičnog umirovljenja, prikupljanju doprinosa na
+dohodak od rada za vrijeme djelomičnog umirovljenja i o utjecaju takvog rada na iznos mirovine
+nakon potpunog umirovljenja.
+
+                                                  24
+       Istaknuto je kako se hrvatskim modelom djelomičnog umirovljenja smanjuje učinkovitost
+mjera usmjerenih na povećanje dobi za odlazak u mirovinu te da bi umjesto postojećeg modela
+trebalo uvesti mogućnost djelomičnog umirovljenja uz proporcionalno pravo na djelomičnu
+mirovinu. Iz perspektive učinaka hrvatskog modela na tržište rada, postoji problem različitog
+tretmana umirovljenika jer pod istim uvjetima nije omogućeno pravo na rad korisnicima invalidske
+mirovine zbog djelomičnog gubitka radne sposobnosti niti je dopuštena kumulacija mirovine i
+samostalnog obavljanja djelatnosti, u kojem slučaju se zakonodavac mogao odlučiti za mjeru koja
+je manje otegotna i proporcionalna mjeri ograničenja radnog vremena.
+
+        U odnosu na atipične oblike rada istaknuto je kako smanjenje troškova i povećanje profita
+snažno potiču korištenje jeftinijih oblika rada kroz korištenje nižih osnovica za doprinose što
+dovodi do zamjene tipičnih oblika rada, nestabilnosti, niže razine subordinacije, isprekidanosti
+karijere, dugotrajnosti rada na određeno, sindikalne neorganiziranosti i ograničenog ili nikakvog
+pristup socijalnoj sigurnosti, nesigurnosti i neredovitih primanja, što sve u konačnici utječe na
+socijalni i mirovinski sustav. Kao najproblematičniji oblik atipičnog rada istaknut je studentski rad
+kao najjeftiniji oblik rada.
+
+        U cilju rješavanja istaknutih problema atipičnih oblika rada predloženo je učiniti ih
+cjenovno manje atraktivnim, odnosno jednako cjenovno i doprinosno opteretiti sve oblike i izvore
+prihoda uz istovremeno proširenje kruga osoba koje plaćaju doprinose.
+
+4.      DUGOROČNA ODRŽIVOST I PRIMJERENOST MIROVINSKOG
+        SUSTAVA U REPUBLICI HRVATSKOJ
+
+       Najznačajnije zakonske izmjene uključene u projekcije za Republiku Hrvatsku u Izvješću o
+starenju 2024. te Izvješću o primjerenosti mirovina 2024., su one koje su, prije svega, fokusirane
+na poboljšanje primjerenosti mirovina i na veće razine mirovina u budućnosti, kao što su
+omogućavanje korištenja osobne i dijela obiteljske mirovine, povećanje obiteljskih mirovina za 10
+%, povećanje najnižih mirovina za 3 %, bonifikacija kasnijeg umirovljenja, zakonske izmjene
+vezane za pojedine kategorije umirovljenika koji mogu raditi i primati mirovinu te prestanak
+važenja Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima
+o mirovinskom osiguranju („Narodne novine“, br. 71/10., 130/11., 157/13. i 47/23.).
+
+       IZVJEŠĆE O STARENJU 2024.1
+       Projekcije stanovništva i radne snage iz Izvješća o starenju 2024. prilikom pripreme
+projekcija održivosti sustava koriste velik broj pokazatelja i pretpostavki koje se dobivaju od
+Eurostata u dijelu koje se odnosi na demografske pretpostavke, odnosno na kretanje
+stanovništva, fertiliteta, mortaliteta, očekivano trajanje života kao i makroekonomskih
+pretpostavki koje priprema Europska komisija o rastu BDP-a i kretanju stopa participacije
+zaposlenosti na tržištu rada.
+
+       Prema Izvješću o starenju 2024. projekcije Eurostata pokazuju kako bi se stanovništvo u
+Republici Hrvatskoj trebalo smanjiti s oko 3,8 milijuna na oko 3 milijuna do 2070. godine, a
+istovremeno stopa ovisnosti starijeg stanovništva (65+) bi se trebala značajnije povećati. Naime,
+
+1
+ https://economy-finance.ec.europa.eu/document/download/971dd209-41c2-425d-94f8-
+e3c3c3459af9_en?filename=ip279_en.pdf
+
+                                                 25
+stopa ovisnosti starijeg stanovništva (65+) pokazuje udio stanovnika starijih od 65 godina u
+odnosu na stanovnike u dobi od 20 do 64 godine koji aktivno participiraju na tržištu rada, što znači
+da će se u Republici Hrvatskoj broj starijih osoba značajno povećati u sljedećih 50 godina. Također
+se očekuje da će se očekivano trajanje života sa 65 godina značajnije povećati otprilike za nekih
+šest godina u idućih 50 godina, što će ujedno predstavljati problem za financiranje mirovinskog
+sustava budući da će korisnici mirovina duže živjeti i duže primati mirovinu. U 2022. godini broj
+osiguranika iznosio je 1.613.000, a predviđeno je blago povećanje na 1.675.000 osiguranika do
+2025. godine nakon čega bi došlo do postepenog pada broja osiguranika kao posljedice
+demografskih trendova.
+
+
+
+
+        Navedene projekcije su izrazito oprezne budući da se baziraju na pretpostavkama
+Europske komisije. U skladu s tim projekcijama, dob izlaska s tržišta rada porast će s trenutne 63
+godine na 63,7 godina do 2040. godine. Povećat će se i prosječna dob izlaska s tržišta rada pa će
+se i efektivna dob umirovljenja u sličnom opsegu povećavati sa 63,4 na 64 godine, nakon čega bi
+ostala konstantna. Također, u skladu s povećanjem efektivne dobi za umirovljenje došlo bi do
+porasta prosječnog mirovinskog staža s 32 godine u 2022. godini na 34 godine do 2040. godine,
+nakon čega se projicira kako bi taj broj ostao stabilan. Navedeni mirovinski staž iznimno je kratak
+prosječni mirovinski staž, među nižima u državama članicama EU-a, što je i jedan od glavnih
+razloga zašto su hrvatske mirovine relativno niske u usporedbi s mirovinama u drugim državama
+članicama.
+
+         Osoba koja odlazi u starosnu mirovinu s 40 godina mirovinskog staža ostvaruje znatno
+veću stopu zamjene nego što je opći prosjek za čitavu populaciju u Republici Hrvatskoj. Dulji radni
+staž i kasniji odlazak u mirovinu rezultiraju znatno većom mirovinom, kako u Republici Hrvatskoj,
+tako i u većini država članica EU-a. Iako su mirovine u Republici Hrvatskoj trenutno nešto niže od
+prosjeka EU, činjenica da je mirovinski sustav dugoročno financijski održiv otvara mogućnost za
+provedbu daljnjih mjera usmjerenih prema ostvarivanju primjerenijih razina mirovina u
+budućnosti.
+
+       Prikaz veze između duljine radnog staža i visine starosne mirovine kroz odnos visine
+prosječne starosne mirovine i visine starosne mirovine ostvarene na temelju 40 i više godina
+mirovinskog staža.
+
+
+                                                26
+        Kao posljedice zakonskih izmjena kao i visokih stopa usklađivanja mirovina u 2023. i 2024.
+godini, projekcije pokazuje kako rashodi za mirovine rastu brže nego što je očekivani rast BDP-a.
+Nakon 2025. godine očekuje se da bi udio rashoda u BDP-u trebao početi padati.
+
+        Na dugoročnu održivost mirovinskog sustava i primjerenost mirovina utječu: postupno
+smanjivanje udjela mirovine u plaći zbog usklađivanja mirovina po stopi nižoj od stope rasta
+plaća, smanjivanje broja korisnika mirovina ostvarenih prema posebnim propisima te povećanje
+broja korisnika mirovina iz oba mirovinska stupa.
+
+        U sljedećih nekoliko godina očekuje se postupno smanjivanje ukupnog broja
+umirovljenika unatoč nepovoljnim demografskim trendovima i starenju stanovništva, prvenstveno
+zbog sljedećih razloga:
+
+       a) značajan udio stanovnika u mlađim kohortama koji će navršiti dob odlaska u mirovinu
+u nadolazećem razdoblju već je u mirovini
+
+
+                                               27
+        b) postupno dizanje zakonske dobi za mirovinu za žene što će utjecati na manji priliv novih
+korisnika u mirovinski sustav.
+
+        Slijedom navedenoga, rezultati dugoročnih projekcija za Republiku Hrvatsku za razdoblje
+2022.-2070. godine pokazuju kako bi se javni izdaci za mirovine smanjili s 9,0 % BDP-a u 2022. na
+8,8 % BDP-a u 2070. godini. S obzirom na to da se u projiciranom razdoblju očekuje povećanje
+udjela doprinosa za mirovinsko osiguranje, s 5,7 % BDP-a u 2022. na 6,6 % BDP-a do 2070. godine,
+transferi iz državnog proračuna za pokrivanje deficita mirovinskog sustava će se postupno
+smanjivati s trenutnih 3,3 % na oko 2,2 % BDP-a do 2070. godine. Izdaci za mirovine iz drugog
+mirovinskog stupa trebali bi se postupno povećati na 0,3 % BDP-a do 2070. te bi ukupni izdaci za
+mirovine iznosili 9,1 % BDP-a.
+
+Prihodi i rashodi javnog mirovinskog sustava 2022.-2070.
+
+
+
+
+        IZVJEŠĆE O PRIMJERENOSTI MIROVINA 2024.2
+
+        Iako je trend siromaštva u starijoj dobi sličan trendu u drugim državama članicama EU-a,
+Republika Hrvatska je među državama članicama s najvišim stopama rizika od siromaštva i
+socijalne isključenosti (engl. at-risk-of poverty and social exclusion - AROPE) među starijim
+stanovništvom. Ukupna stopa AROPE za starije osobe (65+) je ostala znatno viša (33,5 %) u 2022.
+godini od prosjeka EU-a (20,2 %), dok je za osobe 75+ bila viša za 4,3 %. Stopa AROPE za starije
+žene (65+) u 2022. godini iznosila je 37,7 % i bila je znatno viša od stope za muškarce (27,5 %).
+Slično je bilo i u slučaju stope rizika od siromaštva (engl. at-risk-of-poverty - AROP) koja je u 2022.
+godini porasla na 32,4 %, znatno viša od prosjeka EU (17,3 %). Relativno visoka stopa AROP među
+hrvatskim umirovljenicima izravna je posljedica niskih mirovina i visoke nejednakosti dohotka u
+starosti, pri čemu je viša stopa AROP među starijim ženama uzrokovana nižim plaćama žena,
+
+
+
+2
+ https://op.europa.eu/en/publication-detail/-/publication/c854e35f-2eb1-11ef-a61b-
+01aa75ed71a1/language-en
+
+                                                  28
+duljim životnim vijekom, relativno visokim brojem starijih žena koje žive same te većim udjelom
+žena bez mirovina.
+
+        Stopa zaposlenosti za dobnu skupinu od 55 do 64 godine značajno se poboljšala tijekom
+2019. i 2022. godine, s 43,9 % na 50,1 %. Međutim, i dalje je među najnižima u EU i znatno niža od
+prosjeka EU (62,3 % u 2022. godini). Razlika stope zaposlenosti između muškaraca i žena (55 do
+64 godine) bile su značajne u 2022. godini (55,7 % za muškarce i 45,0 % za žene), međutim slična
+se razlika može pronaći i u drugim državama članicama EU-a.
+
+         Nadalje, sukladno demografskim procjenama hrvatsko stanovništvo ubrzano se smanjuje
+i stari. U razdoblju 2022.-2070. godine predviđa se pad broja stanovnika za oko 22 %, s 3,86 na
+3,01 milijuna. Paralelno, očekivano trajanje životnog vijeka bi se trebalo značajno povećati. U dobi
+od 65 godina predviđa se da će se očekivani životni vijek povećati za 6,4 godine za muškarce i za
+6,0 godina za žene. Očekuje se da će omjer starijeg starog stanovništva (80+) prema ukupnom
+starom stanovništvu (65+) dosegnuti 40,5 %, u odnosu na 24,3 % u 2022. godini. Ujedno, bilježi se
+kratak prosječan mirovinski staž od 32 godine, visoki udio umirovljenika u mlađim dobnim
+skupinama te mali broj korisnika starosne mirovine s mirovinskim stažem od 40 i više godina. Udio
+umirovljenika koji primaju mirovinu na temelju 40 i više godina staža – iako se polako povećava – i
+dalje je vrlo nizak (u ožujku 2024. godine – ukupno 19,86 % korisnika od čega 27,89 % muškaraca
+i 13,72 % žena).
+
+        Usporedba s drugim državama članicama EU-a pokazuje da je primjerenost mirovina u
+Republici Hrvatskoj jedna od nižih u EU, iako se u posljednjem desetljeću nešto povećala. Ukupna
+stopa zamjene u Hrvatskoj (definirana kao bruto medijan mirovinskog dohotka stanovništva u dobi
+od 65 do 74 godine života, u odnosu na bruto medijan individualnih primanja od rada stanovništva
+u dobi od 50 do 59 godina života) iznosila je 39 % u 2019. godini, a u 2022. godini 37 % što je čini
+jednom od nižih u EU. Niska stopa zamjene može se objasniti vrlo nepovoljnim omjerom ovisnosti
+mirovinskog sustava, nedostatkom prihoda iz dijela mirovinskog sustava koji se financira
+doprinosima za sadašnje umirovljenike i ograničenim brojem godina uplaćivanja doprinosa
+(kratak radni vijek).
+
+       Glavni zaključci iz Izvješća o primjerenosti mirovina 2024. su sljedeći: s obzirom na
+nepovoljne demografske trendove, potrebno je smanjiti odljev radne snage, povećati stopu
+zaposlenosti starijih radnika (koja je znatno ispod prosjeka EU) i promicati dulji radni vijek kako bi
+se osigurale primjerene i održive mirovine.
+
+       Moguća područja djelovanja uključuju:
+
+       (a) nastavak mjera kojima se odvraća od prijevremenog umirovljenja i potiče odgođeno
+umirovljenje
+       (b) postupno podizanje dobi za umirovljenje sa 65 godina za muškarce i 63 godine i 6
+mjeseci za žene
+       (c) promjenu načina oporezivanja mirovina povećanjem neoporezivog dijela mirovine
+       (d) promjenu modela indeksacije mirovina kako bi se u budućnosti povećala stopa
+zamjene mirovina i
+       (e) zaštitu umirovljenika s niskim primanjima osiguravanjem pristupa minimalnom
+dohotku ili naknadama za stanovanje u slučaju visokih troškova stanovanja ili energije.
+
+
+                                                 29
+        Ključne prilike za rješavanje izazova uključuju promicanje duljeg radnog vijeka, mijenjanje
+načina oporezivanja i indeksiranja mirovina te zaštita umirovljenika s niskim primanjima.
+
+       IZVJEŠĆE SVJETSKE BANKE O ANALIZI DUGOROČNE
+       PRIMJERENOSTI I ODRŽIVOSTI MIROVINA U HRVATSKOM
+       MIROVINSKOM SUSTAVU S NAGLASKOM NA MOGUĆIM
+       POLITIKAMA ZA NJEGOVO UNAPRJEĐENJE
+
+        Sporazum o savjetodavnim uslugama uz naknadu između MROSP-a i Svjetske banke
+sklopljen je 1. srpnja 2022., a obuhvaća izradu simulacijskog modela mirovinskog sustava u
+Republici Hrvatskoj te analizu i prijedloge za unaprjeđenje dugoročne primjerenosti i održivosti
+hrvatskog mirovinskog sustava.
+
+       Izvješće o „Analizi dugoročne primjerenosti i održivosti mirovina u hrvatskom mirovinskom
+sustavu, s naglaskom na mogućim politikama za njegovo unaprjeđenje” isporučeno je u srpnju
+2024. godine, a obuhvaća sva tri stupa mirovinskoga osiguranja te prijedloge mjera za
+unaprjeđenje mirovinskoga sustava kao buduće podloge za izmjenu zakonodavnog okvira.
+
+        Kao glavni problemi hrvatskog mirovinskog sustava te uzroci niske primjerenosti mirovina
+i visoke stope rizika od siromaštva u starijoj dobi istaknuti su:
+
+   −   kratki radni staž i niska prosječna dob kod izlaska s tržišta rada
+   −   nizak omjer osiguranika i umirovljenika
+   −   brojne mogućnosti prijevremenog odlaska u mirovinu
+   −   transferi iz proračuna koji omogućavaju porast mirovina iz prvog stupa nisu neutralni na
+       izbor između mirovine samo iz prvoga mirovinskog stupa i kombinirane mirovine
+   −   veliki obuhvat s najnižim mirovinama
+   −   niži doprinosi na drugi dohodak (zbog niže stope doprinosa ili zbog niže osnovice za
+       doprinose)
+   −   nefleksibilni zakoni i praksa u drugom mirovinskom stupu ograničavaju stopu prinosa
+   −   relativno visoki, ali stabilni troškovi i visok deficit mirovinskog sustava (mirovinski izdaci
+       koji nisu pokriveni prihodima od doprinosa)
+   −   niski obuhvat i razina dobrovoljne mirovinske štednje.
+
+       Kako bi se istovremeno povećala primjerenost mirovina i održala fiskalna održivost
+mirovinskog sustava, smatraju kako je osobito važno provesti cjelovitu reformu koja uključuje i
+popularne i nepopularne mjere.
+
+       Mjere za povećanje primjerenosti mirovina i/ili fiskalne održivosti u oba obvezna
+mirovinska stupa:
+
+   −   podizanje starosne dobi za umirovljenje za starosnu mirovinu na 67 godina, nakon čega se
+       dob povećava u skladu s očekivanim životnim vijekom (u Republici Hrvatskoj je 1,5 mjesec
+       godišnje)
+   −   podizanje starosne dobi za prijevremeno umirovljenje uz smanjenje vremenskog okvira za
+       prijevremenu mirovinu na 3 godine u odnosu na zakonsku dob za umirovljenje
+
+
+                                                30
+−   podizanje starosne dobi i mirovinskog staža za dugogodišnje osiguranike (na 62 godine
+    života i 42 godine staža osiguranja u efektivnom trajanju)
+−   povećanje penalizacije za prijevremeni odlazak u mirovinu (na 0,3 % ili 0,4 %).
+
+    Mjere za povećanje primjerenosti mirovina samo u prvom mirovinskom stupu:
+
+−   usklađivanje na temelju rotacijske formule u omjeru 85 : 15 povoljnijeg indeksa rasta plaća
+    i cijena
+−   povećanje invalidskih i obiteljskih mirovina produljenjem pridodanog staža
+−   ukidanje uvjeta 35 godina mirovinskog staža za ostvarenje bonusa za kasniji odlazak u
+    mirovinu
+−   povećanje dodatka na mirovinu sadašnjim i budućim umirovljenicima za 3 % (s 27 % na
+    30 %)
+−   povećanje najniže mirovine za dodatnih 3 %.
+
+    Mjere za poboljšanje proporcionalnosti između doprinosa i mirovinskih primanja:
+
+−   ograničavanje primjene polaznog faktora za dugogodišnje osiguranike na najviše 60
+    mjeseci
+−   izjednačavanje stope doprinosa za drugi dohodak s općom stopom doprinosa.
+
+    Mjere za poboljšanje drugog mirovinskog stupa:
+
+−   povećanje doprinosa iz drugog mirovinskog stupa kada socijalni i fiskalni uvjeti budu
+    primjereni i uravnoteženi
+−   uvođenje transfera koji je neutralan u pogledu izbora mirovine u mirovine iz prvog
+    mirovinskog stupa
+−   uvođenje sustava postupne raspodjele (IAS)
+−   proširenje kriterija prihvatljivosti za jednokratnu isplatu iz drugog mirovinskog stupa pri
+    umirovljenju
+−   dopunjavanje informativnog izračuna mirovine za nove umirovljenike i jačanje financijske
+    pismenosti
+−   ukidanje ili ublažavanje uvjeta prihvatljivosti za jednokratnu isplatu iz drugog mirovinskog
+    stupa ako se utvrdi da je rizik izbora nepovoljnije kombinirane mirovine mali
+−   daljnja liberalizacija i pojednostavnjenje investicijskih ograničenja
+−   provedba programa razvoja tržišta kapitala, uključujući uvrštavanje na burzu poduzeća u
+    državnom vlasništvu
+−   izdavanje sekuritiziranih financijskih instrumenta za financiranje javnih ulaganja.
+
+    Mjere za poboljšanje dobrovoljne mirovinske štednje:
+
+−   primjena nelinearnog kaskadnog programa poticaja
+−   bolje usmjereni poticaji radi privlačenja osoba s nižim dohocima
+−   povećanje dobi za izlazak iz trećeg mirovinskog stupa i uvjetovanje mogućnosti
+    prijevremene isplate sredstava povratom državnih poticajnih sredstava
+−   povećanje jednokratne isplate sredstava, ali ne prije zakonske dobi za umirovljenje
+−   liberalizacija odabira načina isplate bez obzira na iznos mirovinske štednje
+
+
+                                            31
+   −   ukidanje fiskalnih poticaja za osobe koje uplaćuju doprinose u treći mirovinski stup nakon
+       65. godine života
+   −   pragovi indeksacije državnih poticajnih sredstava
+   −   uvođenje automatske prijave koja pokriva sve osiguranike uz participaciju poslodavca i
+       države.
+
+   Glavne mjere i paketi politika Svjetske banke su:
+
+   1. valorizacija novih mirovina i indeksacija postojećih u omjeru 85 % uz rast plaća i 15 % uz
+      indeks potrošačkih cijena
+   2. povećanje dodatka na mirovinu ostvarenu prema ZOMO-u s 4 % do 27 % na 7 % do 30 %
+      uz proporcionalno povećanje najniže mirovine sa 103 % na 106 % aktualne vrijednosti
+      mirovine
+   3. kod određivanja dodataka na mirovinu iz prvog mirovinskog stupa (dodani staž, najniža
+      mirovina, dodatak na mirovinu) ne primjenjivati faktor osnovne mirovine (0,75) radi
+      osiguranja jednakosti kod izbora mirovine
+   4. povećanje zakonske dobi za umirovljenje od 2039. godine; za prijevremenu starosnu
+      mirovinu od 2025. godine; povećanje dobi za dugogodišnje osiguranike od 2025. godine;
+      veća umanjenja prijevremene starosne mirovine od 2025 godine
+   5. povećanje zakonske dobi za umirovljenje od 2025. godine, brže za prijevremenu starosnu
+      mirovinu od 2025. godine, brže za dugogodišnje osiguranike od 2025. godine, veće
+      umanjenje mirovina od 2025. godine.
+
+
+        Iz rezultata svojih projekcija, Svjetska banka naglašava kako snažnija valorizacija i
+indeksacija mirovina povećavaju primjerenost mirovina novih korisnika mirovine samo iz prvog
+mirovinskog stupa kao i onih u isplati, ali ujedno i značajno povećavaju rashode prvog mirovinskog
+stupa. Ako drugdje ne bude protumjera za smanjenje troškova ili prikupljanje dodatnih mirovinskih
+prihoda, to će snažno i uporno poticati mirovinski deficit kao trošak budućih generacija. Mjere za
+prvi mirovinski stup koje odmah rješavaju pitanje primjerenosti mirovina, u obliku dodatka od 30
+%, najniže mirovine od 106 % AVM-a godišnje i dodatka koji je neutralan u pogledu izbora mirovine,
+povećavaju primjerenost mirovina sa suprotnim fiskalnim ishodom. Veći dodatak i najniža
+mirovina povećavaju rashode i deficit, dok dodatak koji je neutralan u pogledu izbora mirovine
+smanjuje bruto, ali povećava neto deficit zbog toga što će osiguranici birati kombiniranu mirovinu
+umjesto mirovine samo iz prvog mirovinskog stupa. Te mjere imaju snažan učinak na primjerenost
+mirovina te bi trebale biti uključene u paket politika uz mjere za uravnoteženje koje će dovesti
+sustav u stabilno stanje.
+
+       Zaključno, glavna je preporuka Svjetske banke povećanje dobi za umirovljenje i smanjenje
+mogućnosti prijevremenog umirovljenja. Radi se o najmoćnijim mjerama politike za istodobno
+poboljšanje primjerenosti mirovina i fiskalne održivosti te nijedna druga mjera mirovinske politike
+nema takav ishod. Nadalje, njima se jača međugeneracijska održivost i jednakost očuvanjem
+omjera razdoblja rada i mirovine među generacijama.
+
+
+
+
+                                                32
+5.     MJERE I AKTIVNOSTI IZ MIROVINSKOG SUSTAVA IZ STRATEŠKIH
+       DOKUMENATA VLADE REPUBLIKE HRVATSKE
+
+        U idućem razdoblju poseban izazov predstavlja povećanje primjerenosti mirovina. Stoga
+su u strateškim dokumentima, odnosno u Programu Vlade Republike Hrvatske, Nacionalnom
+planu oporavka i otpornosti 2021.-2026. (u daljnjem tekstu: NPOO) te Nacionalnoj razvojnoj
+strategiji Republike Hrvatske do 2030. (u daljnjem tekstu: NRS), predviđene mjere za daljnje
+unaprjeđenje mirovinskog sustava. U prvom mirovinskom stupu predviđeno je poticanje duljeg
+ostanka u svijetu rada i smanjenje broja prijevremenih umirovljenja te redefiniranje modela
+obiteljske mirovine i povećanje najniže mirovine.
+
+       Povećanje primjerenosti mirovina iz drugog mirovinskog stupa želi se postići povećanjem
+prinosa kroz snažnije uključivanje mirovinskih fondova u infrastrukturne projekte, veća ulaganja u
+gospodarstvo Republike Hrvatske te daljnje smanjivanje administrativnih troškova vezanih uz
+poslovanje obveznih mirovinskih fondova. Nadalje, planirano je poticanje, daljnje jačanje i
+unaprjeđenje dobrovoljne mirovinske štednje kako bi se budućim korisnicima osigurale veće
+mirovine i dostojanstvena starost.
+
+        U Programu Vlade Republike Hrvatske 2020.–2024. jedan od glavnih ciljeva bila je
+održivost mirovinskog sustava u sklopu kojega je bio predviđen nastavak mirovinske reforme
+povećanjem primjerenosti mirovina poticanjem dužeg ostanka u svijetu rada izmjenom radnog
+zakonodavstva, odnosno omogućavanjem rada nakon navršene 65. godine života, kako bi se
+osigurala veća participacija osoba starije životne dobi na tržištu rada. Poseban naglasak bio je
+stavljen na korisnike obiteljskih mirovina za koje je bilo predviđeno omogućavanje pravednijeg
+načina izračuna mirovine. Isto tako, jasno je opredjeljenje za jačanje trostupnog mirovinskog
+sustava daljnjom liberalizacijom ulaganja obveznih mirovinskih fondova te poticanjem
+pojedinaca i poslodavaca na dobrovoljnu mirovinsku štednju koju država putem poticaja
+odgovarajuće nagrađuje.
+
+       I u novom mandatu Programom Vlade Republike Hrvatske 2024.-2028. predviđen je
+nastavak mirovinske reforme kako bi do kraja mandata osigurali rast mirovina za najmanje 30 %,
+odnosno da prosječna sveukupna mirovina iznosi najmanje 750 eura. Redefinirat će se model
+usklađivanja visine mirovina u odnosu na porast plaća i rast potrošačkih cijena promjenom
+formule za usklađivanje mirovina u omjeru 85:15 prema povoljnijem indeksu umjesto sadašnjih
+70:30, a radi osiguravanja većeg omjera prosječne sveukupne mirovine u prosječnoj plaći.
+Osigurat će se i uvođenje godišnjeg dodatka za umirovljenike, pri čemu će se voditi računa o
+uspostavljanju ravnoteže između solidarne preraspodjele sredstava i prethodnih uplata u
+mirovinski sustav, a za svako rođeno dijete majke će dobiti godinu dana mirovinskog staža za
+izračun mirovine, umjesto dosadašnjih šest mjeseci. Nastavit će se poticati dobrovoljni dulji
+ostanak u svijetu rada nakon 65. godine putem redefiniranog modela povećanja mirovine za svaki
+mjesec kasnijeg umirovljenja, tzv. bonifikacije. Izmjenama zakona omogućit će se rad do polovice
+punog radnog vremena i umirovljenim obrtnicima te drugim samostalnim obveznicima uplate
+doprinosa uz istovremenu isplatu mirovine.
+
+       Prioriteti NRS-a u području provedbe politike na području dostojanstvenog starenja i
+primjerenosti mirovina su poticanje duljeg ostanka u svijetu rada i smanjenje broja prijevremenih
+umirovljenja, poboljšanje mogućnosti umirovljenika za sudjelovanje na tržištu rada, povećanje
+
+                                               33
+primjerenosti obiteljskih mirovina, promicanje odgovornosti pojedinca za osobnu socijalnu
+sigurnost u starosti te razvoj i unaprjeđenje obveznog i dobrovoljnog sustava štednje za buduće
+mirovine. Posebno je naglašen izazov u osiguravanju održivosti i primjerenosti mirovinskog
+sustava, a to je podizanje omjera broja zaposlenih i broja umirovljenika. U tom smislu je nužno
+dodatno jačati potencijale za rast gospodarstva i povećanje zaposlenosti. Važan čimbenik u
+osiguranju primjerenosti mirovina budućih umirovljenika je osobna odgovornost i motiviranost
+građana za mirovinsku štednju. Stoga je potrebno poboljšati pristup programima za povećanje
+financijske pismenosti građana.
+
+        Posebno su značajne aktivnosti predviđene u okviru mjera NPOO-a. Glavni cilj NPOO-a je
+održivost mirovinskog sustava u sklopu kojega je predviđeno povećanje primjerenosti mirovina
+kroz nastavak mirovinske reforme redefiniranjem modela obiteljske mirovine (povećanjem
+mirovinskog faktora i omogućavanjem isplate dijela obiteljske mirovine), povećanjem najniže
+mirovine i mirovine iz drugog mirovinskog stupa (podizanjem donje razine prava u mirovinskom
+osiguranju na temelju generacijske solidarnosti) te produljenjem radnog vijeka (povećanjem tzv.
+bonifikacije za umirovljenje). U izvršenju mjere NPOO-a C4.2.R1 Povećanje adekvatnosti mirovina
+kroz nastavak mirovinske reforme bila je osnovana Radna skupina za preispitivanje modela
+obiteljske mirovine te je donesen Zakon o izmjenama i dopunama Zakona o mirovinskom
+osiguranju („Narodne novine“, br. 119/22.), koji je stupio na snagu 1. siječnja 2023. i kojim je
+ispunjen cilj redefiniranja i povećanja primjerenosti obiteljskih mirovina te povećanje najniže
+mirovine. Također, osnovana je Radna skupina za analizu stanja mirovinskog sustava koja će u IV.
+kvartalu 2024. godine donijeti zaključke i preporuke koji će se u što većoj mjeri uzeti u obzir pri
+izmjenama ZOMO-a u IV. kvartalu 2025. godine.
+
+6.      ZAKLJUČCI RADNE SKUPINE
+
+          Radna skupina, u skladu sa zadatkom iz Odluke o osnivanju Radne skupine te obvezom iz
+NPOO-a; C4. Tržište rada i socijalna zaštita; C4.2. Unaprjeđenje mirovinskoga sustava kroz
+povećanje adekvatnosti mirovina, Milestone 300: Donošenje izmjena Zakona o mirovinskom
+osiguranju, nakon dvogodišnje analize mirovinskoga sustava, donosi sljedeće zaključke koji će
+poslužiti kao podloga za izmjene, odnosno donošenje novog Zakona o mirovinskom osiguranju,
+čiji je rok za donošenje prema NPOO-u do kraja IV. kvartala 2025.
+
+     1. Zbog dugoročne naravi mirovinskog sustava i njegovog značajnog utjecaja na socijalnu
+        sigurnost starijih osoba te stabilnost javnih financija, nužno je u obzir uzeti dugoročne
+        projekcije demografskih i makroekonomskih kretanja koje omogućuju bolje razumijevanje
+        njihovog utjecaja na održivost mirovinskog sustava. Prema Izvješću o starenju iz 2024.
+        godine za Republiku Hrvatsku, i dalje su izraženi negativni demografski trendovi te se u
+        razdoblju od 2022. do 2070. godine predviđa smanjenje ukupnog broja stanovništva za 22
+        %. Istovremeno, očekuje se značajno povećanje životnog vijeka, i to za 6,4 godine kod
+        muškarca i 6 godina kod žena. Unatoč negativnim demografskim trendovima, hrvatski
+        mirovinski sustav dugoročno je održiv uz pretpostavku zadržavanja sadašnjih zakonskih
+        propisa u pogledu propisane dobi za stjecanje starosne mirovine. Zakonska dob za
+        umirovljenje u Republici Hrvatskoj slična je onoj u drugim zemljama člancima EU-a, ali su
+        mogućnosti za prijevremeno umirovljenje mnogo fleksibilnije, zbog čega prosječni
+        mirovinski staž korisnika mirovina prema ZOMO-u iznosi svega 31 godinu, što je znatno
+
+                                                34
+   manje od prosjeka EU koji iznosi 36,9 godina. Trenutačno prosječno razdoblje korištenja
+   starosne mirovine u Republici Hrvatskoj iznosi 21 godinu i 11 mjeseci, uz značajne razlike
+   među spolovima. Za žene je to 25 godina i 9 mjeseci, dok je za muškarce 18 godina i 11
+   mjeseci. Međutim, očekuje se da će se završetkom prijelaznog razdoblja izjednačavanja
+   dobi za umirovljenje između muškaraca i žena ovi trendovi postupno izbalansirati. Važno
+   je istaknuti kako je procijenjeni očekivani zdravi životni vijek u 2021. godini u Republici
+   Hrvatskoj iznosio svega 5,2 godine, što je znatno ispod prosjeka EU-a od 9,9 godina.
+   Svakako je važno osigurati veću participaciju osoba u dobnoj skupini od 60 do 64 godine
+   na tržištu rada, budući da je ista vrlo niska i u 2024. godini iznosi svega 42 %, dok je prosjek
+   u EU 55 %. Duljim ostankom u svijetu rada potencijalnih korisnika prijevremenih starosnih
+   mirovina ostvarile bi se višestruke koristi. Povećali bi se prihodi od doprinosa za
+   mirovinsko osiguranje ovih korisnika zbog duljeg razdoblja uplate doprinosa uz
+   istovremeno smanjenje priljeva novih korisnika u mirovinski sustav, čime bi se oslobodila
+   dodatna financijska sredstva koja bi se mogla iskoristiti za poboljšanje materijalnog
+   položaja svih umirovljenika. Osim toga, korisnici prijevremene starosne mirovine ostvarili
+   bi dulji mirovinski staž, što bi se u konačnici pozitivno odrazilo na visinu njihove mirovine.
+   Međutim, produženje radnog vijeka ne mora nužno biti vezano uz povećanje zakonske dobi
+   za umirovljenje, jer se isti efekt može postići i drugim mjerama u okviru mirovinskog
+   sustava, primjerice bonifikacijom, proširenjem mogućnosti rada za umirovljenike i sl.
+
+2. Nepovoljni demografski trendovi u Republici Hrvatskoj rezultiraju sve većom potražnjom
+   za radnom snagom te nepovoljnim omjerom osiguranika i umirovljenika koji je u listopadu
+   2024. godine iznosio 1:1,40 (1.228.501 umirovljenika i 1.724.665 osiguranika). Projicirano
+   je da bi se omjer umirovljenika i osiguranika mogao smanjiti na 1:1,14 do 2070. godine. S
+   obzirom na ove izazove, ključno je osigurati veću participaciju umirovljenika na tržištu
+   rada. Važeći zakonski okvir omogućava rad do polovice punog radnog vremena uz
+   istovremenu isplatu mirovine gotovo svim umirovljenicima, osim onima kod kojih je
+   nastupio potpuni gubitak radne sposobnosti. Ovu mogućnost koristi oko 33.000
+   umirovljenika, a njihov broj kontinuirano raste. Umirovljenici su zastupljeni u svim
+   djelatnostima, pri čemu je najveći broj zaposlenih u trgovini, znanstvenim i stručnim
+   djelatnostima, prerađivačkoj industriji i građevinarstvu. Osim dodatnog prihoda, rad
+   umirovljenika smanjuje rizik od socijalne isključenosti i omogućava ponovo određivanje
+   mirovine u slučaju rada u trajanju od najmanje dvije godine s polovicom punog radnog
+   vremena. Također, osiguranik koji je nakon ispunjenja uvjeta za starosnu mirovinu ili
+   starosnu mirovinu za dugogodišnjeg osiguranika nastavio raditi do polovice punog radnog
+   vremena, može i bez prestanka radnog odnosa steći pravo na tu mirovinu od dana s kojim
+   je nakon ispunjenja uvjeta nastavio raditi do polovice punog radnog vremena. Međutim,
+   potrebno je razmotriti proširenje mogućnosti rada uz mirovinu na još neke kategorije
+   umirovljenika. Naime, trenutno obrtnici i drugi samostalni obveznici uplate doprinosa,
+   zbog specifičnosti svojih djelatnosti, ne mogu ostvariti pravo na mirovinu bez prestanka
+   radnog odnosa, dok umirovljenici koji primaju mirovinu po posebnim propisima već imaju
+   mogućnost rada s punim radnim vremenom uz isplatu polovice mirovine. Stoga se
+   predlaže dodatno unaprijediti mogućnosti rada uz mirovinu kako bi se osigurala veća
+   participacija radno sposobnih umirovljenika, što je od ključne važnosti u kontekstu
+
+
+
+                                             35
+   demografskih izazova i potrebe za zapošljavanjem kvalitetne domaće radne snage, a
+   ujedno bi se povećale mirovine i smanjio rizik od siromaštva.
+
+3. Prema ZOMO-u, polazni faktor za određivanje starosne mirovine osiguranika, koji prvi put
+   stječe mirovinu nakon navršene starosne dobi propisane za stjecanje prava na starosnu
+   mirovinu i ima 35 godina mirovinskog staža, utvrđuje se tako da se polazni faktor povećava
+   za 0,45 % po mjesecu za svaki mjesec nakon navršenih godina života osiguranika
+   propisanih za stjecanje prava na starosnu mirovinu, a najviše za pet godina. Institut tzv.
+   bonifikacije u mirovinskom sustavu osmišljen je kako bi poticao dulji ostanak na tržištu
+   rada, čime se osiguravaju i veće mirovine. Međutim, opravdanost trenutnih uvjeta,
+   posebno zahtjeva za ostvarenih 35 godina mirovinskog staža, otvara prostor za
+   preispitivanje. Naime, u drugim državama članicama EU-a ne postoji takvo ograničenje, a
+   bonus na starosnu mirovinu ovisi samo o dobi umirovljenja, u skladu s načelima aktuarske
+   matematike. Slijedom navedenoga, potrebno je redefinirati uvjete tzv. bonifikacije kako bi
+   se potaknuo što veći broj osiguranika na dulje zadržavanje na tržištu rada, čime bi se
+   postigao značajniji učinak na visinu mirovina i održivost mirovinskog sustava.
+
+4. Institut dodanog staža od šest mjeseci za svako rođeno ili posvojeno dijete uveden je
+   ZOMO-om 2019. godine s ciljem smanjivanja razlika u mirovinama između muškaraca i
+   žena. Razlike u visini mirovine proizlaze iz nekoliko čimbenika, uključujući prekide u
+   karijeri, niže prihode zbog brige o djeci, ukupni kraći mirovinski staž i općenito niže razine
+   prihoda s kojima se suočavaju mnoge žene. Od uvođenja dodanog staža, jaz u mirovinama
+   između muškaraca i žena se smanjio, no unatoč tom napretku, prosječna ukupna
+   mirovina žene i dalje je niža od one muškarca. Stoga se procjenjuje da bi produljenje
+   dodanog staža sa šest na 12 mjeseci doprinijelo povećanju primjerenosti mirovina,
+   pozitivno utjecalo na smanjenje rizika od siromaštva i dodatno smanjilo razlike u
+   mirovinama žena i muškaraca.
+
+5. S obzirom na to da podaci iz Izvješća o starenju 2024. ukazuju na smanjenje udjela
+   prosječne bruto mirovine u prosječnoj bruto plaći do 2070. godine, vrlo je važno osigurati
+   mjere kojima će se povećati primjerenost mirovina. Prethodno navedene mjere,
+   povećanje dodanog staža i redefiniranje bonifikacije, imat će pozitivan utjecaj na visinu
+   mirovina budućih umirovljenika, međutim, jednako je važno poduzeti mjere kojima će se
+   podići razina primjerenosti mirovina sadašnjih umirovljenika. Indeksacijom mirovina,
+   odnosno formulom za usklađivanje mirovina u Republici Hrvatskoj, osigurava se
+   usklađenost visine mirovina s indeksom porasta plaća i indeksom rasta potrošačkih
+   cijena. Iako je mirovinskom reformom od 1. siječnja 2019. godine uveden povoljniji model
+   usklađivanja mirovina prema rotacijskoj formuli 70:30, u korist povoljnijeg indeksa,
+   utvrđeno je da primjerenost mirovina i dalje znatno zaostaje za plaćama. Naime, svrha
+   usklađivanja mirovina je očuvanje realne vrijednosti mirovina u odnosu na rast plaća i rast
+   cijena (inflaciju). No, trenutna formula nije adekvatna jer se, uslijed kontinuiranog rasta
+   plaća, svakim usklađivanjem stvara sve veća razlika između plaća i mirovina. Iako je
+   uvođenjem povoljnije rotacijske formule zaustavljen brži rast jaza, zbog ove nepovoljne
+   dinamike, nužno je razmotriti izmjenu postojeće formule za usklađivanje mirovina na
+   način da se u većoj mjeri uzima u obzir rast plaća.
+
+
+
+                                             36
+   6. Povećanje mirovina, kako sadašnjih, tako i budućih umirovljenika, osim izmjenom formule
+      usklađivanja moguće je postići i povećanjem dodatka na mirovine prema Zakonu o
+      dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju. Ovim
+      prijedlogom bi se obuhvatila uža skupina umirovljenika u odnosu na izmjenu formule
+      usklađivanja, budući da se dodatak na mirovine primjenjuje samo na korisnike mirovine
+      ostvarene prema ZOMO-u te ne obuhvaća korisnike najniže i najviše mirovine. Stoga,
+      prilikom budućih zakonodavnih izmjena treba razmotriti fiskalne mogućnosti i oportunost
+      redefiniranja dodatka na mirovine.
+
+   7. Također, povećanje primjernosti mirovina je moguće postići i uvođenjem neke nove vrste
+      socijalnog transfera, primjerice godišnjeg dodatka na mirovine. U razdoblju od 2021. do
+      kraja 2024. godine, Vlada Republike Hrvatske donijela je devet odluka kojima je omogućila
+      isplatu jednokratnih novčanih primanja kako bi ublažila pad životnog standarda
+      umirovljenika s nižim mirovinskim primanjima. Iako su ove mjere bile usmjerene na
+      ublažavanje posljedica inflatornih pritisaka na životni standard umirovljenika, njima nisu
+      bili obuhvaćeni svi umirovljenici. Stoga je prilikom razmatranja mogućnosti uvođenja
+      novog instituta godišnjeg dodatka na mirovine potrebno definirati uvjete na način da se
+      pravo osigura svim umirovljenicima, vodeći pri tome računa o uspostavljanju ravnoteže
+      između solidarne preraspodjele sredstava i prethodnih uplata u mirovinski sustav, ali i
+      gospodarskim mogućnostima i fiskalnim kapacitetima.
+
+   8. Broj novih korisnika invalidskih mirovina se smanjuje, a postojeći korisnici u pravilu imaju
+      kratak mirovinski staž i niske prosječne plaće, što u konačnici rezultira i nižim
+      mirovinama. Prosječna invalidska mirovina ostvarena prema ZOMO-u isplaćena za
+      listopad 2024. godine iznosila je 419,05 eura, što je znatno niže u odnosu na prosječnu
+      sveukupnu mirovinu. Korisnicima kod kojih nastane djelomični ili potpuni gubitak radne
+      sposobnosti prije 60 godine za izračun visine mirovine uračunava i razdoblje pridodanog
+      staža, koji se trenutno određuje na način da se pribroje fiktivna razdoblja od datuma
+      nastanka djelomičnog ili potpunog gubitka radne sposobnosti pa do navršene 55. godine
+      života osiguranika u trajanju dvije trećine te nakon 55. do navršene 60. godine života u
+      trajanju od jedne polovine. Uzimajući u obzir značajne razlike u iznosima mirovina za ovu
+      skupinu, kao i poteškoće pri ponovnom ulasku u svijet rada, posebno onima koji su
+      ostvarili pravo na invalidsku mirovinu u ranijoj životnoj dobi, potrebno je preispitati
+      instituta pridodanog staža za korisnike invalidskih mirovina. Redefiniranje instituta
+      pridodanog staža moglo bi značajno doprinijeti povećanju primjerenosti mirovina, ne
+      samo za sadašnje, već i za buduće korisnike invalidskih mirovina. Takva izmjena
+      omogućila bi pravedniji pristup u izračunu mirovina, uzimajući u obzir stvarne okolnosti
+      korisnika, čime bi se smanjila socijalna nejednakost i osigurao bolji životni standard za ovu
+      ranjivu skupinu umirovljenika.
+
+
+
+       Provedena analiza Radne skupine ukazuje na to da je hrvatski mirovinski sustav
+dugoročno financijski održiv, ali glavni izazov predstavlja niska primjerenost mirovina. Stoga je u
+predstojećem razdoblju naglasak potrebno staviti na provedbu mjera koje će osigurati daljnje
+povećanje mirovina, pri čemu će njihov konačan obuhvat ovisiti o proračunskim mogućnostima.
+Osim prethodno navedenih mjera, za eventualne snažnije zahvate i mjere koje bi bile usmjerene
+
+                                                37
+na povećanje primjerenosti mirovina u dužem vremenskom razdoblju i kojima bi se osigurala
+dodatna sredstva za financiranje mirovinskog sustava, bez istovremenog povećanja poreznog
+opterećenja za porezne obveznike koji financiraju mirovinski sustav, potrebna je visoka razina
+društvenog konsenzusa svih uključenih dionika i socijalnih partnera.
+
+    Značajnu ulogu u poboljšanju dugoročne primjerenosti mirovina u Republici Hrvatskoj imati
+će i kapitalizirani sustav mirovinskog osiguranja. Zakonskim izmjenama od 1. siječnja 2024.
+omogućeni su uvjeti za daljnji razvoj i unaprjeđivanje obveznog i dobrovoljnog sustava
+kapitalizirane štednje kroz omogućavanje ulaganja obveznih mirovinskih fondova u nove vrste
+imovine i daljnju liberalizaciju ulaganja u postojeće klase imovine. Značajnija alokacija sredstava
+mirovinskih fondova prema rizičnijim oblicima ulaganja u dugom roku trebala bi rezultirati i višim
+stopama prinosa fondova te većim mirovinama iz drugog i trećeg mirovinskog stupa. Također, i od
+samih građana se očekuje da u većoj mjeri počnu voditi brigu o vlastitoj starosti te da kroz
+podizanje razine financijske pismenosti, donose odluke o izboru fonda u kojem žele štedjeti za
+vlastitu mirovinu, imajući u vidu da u pravilu rizičnija kategorija mirovinskog fonda ostvaruje i
+najviše stope prinosa u dugom roku.
+
+    Zaključno, analiza i mišljenja iznesena tijekom rada Radne skupine, kao i usvojeni zaključci
+uvelike će poslužiti kao podloga za donošenje novog, suvremenog Zakona o mirovinskom
+osiguranju, koji će sadržavati kvalitetna i dugoročna rješenja za unaprjeđenje mirovinskog sustava
+generacijske solidarnosti, što bi u konačnici trebalo doprinijeti poboljšanju položaja svih
+umirovljenika u Republici Hrvatskoj.
+
+   S „Analizom i zaključcima Radne skupine za analizu stanja mirovinskog sustava“ suglasni su
+predstavnici:
+− Ministarstva financija
+− Ministarstva hrvatskih branitelja
+− Ministarstva demografije i useljeništva
+− Hrvatskog zavoda za mirovinsko osiguranje
+− Središnjeg registra osiguranika
+− Državnog zavoda za statistiku
+− Hrvatske agencije za nadzor financijskih usluga
+− Udruge društava za upravljanje mirovinskim fondovima i mirovinskih osiguravajućih društava
+− Instituta za javne financije
+− Ekonomskog instituta Zagreb
+− Pravnog fakulteta Sveučilišta u Zagrebu
+− Ekonomskog fakulteta Sveučilišta u Zagrebu
+− Matice umirovljenika hrvatske
+− Hrvatske udruge poslodavaca.
+
+Izdvojena mišljenja dostavili su predstavnici Sindikata umirovljenika Hrvatske, Saveza
+samostalnih sindikata Hrvatske, Matice hrvatskih sindikata i Nezavisnih hrvatskih sindikata.
+
+
+
+
+                                                38
+                  SINDIKAT UMIROVLJENIKA HRVATSKE
+                  10 000 Zagreb, Trg kralja Petra Krešimira IV. 2
+                  Tel/Faks: 01/ 46 55 146, 46 55 111/190
+                  e-mail: suh@suh.hr – www.suh.hr
+                  OIB 68205802695
+
+Zagreb, 16.12.2024.
+                                   MINISTARSTVO RADA, MIROVINSKOG SUSTAVA,
+                                   OBITELJI I SOCIJALNE SKRBI
+                                   Marin Piletić, ministar
+                                   Co/ Melita Čičak
+
+
+                              Izdvojeno mišljenje SUH-a na
+    “Analizu i zaključke Radne skupine za analizu stanja mirovinskog sustava”
+                                  (od 2. prosinca 2024.)
+        Sindikat umirovljenika Hrvatske (nadalje skraćeno: SUH) želi u izdvojenom
+mišljenju svratiti pozornost na nekoliko važnih točaka u dokumentu pod naslovom “Analiza
+i zaključci Radne skupine za analizu stanja mirovinskog sustava” (u daljnjem tekstu:
+Analiza).
+        U odnosu na metodologiju koja je podloga za analizu mirovinskog sustava,
+statističke projekcije do 2070. godine smatramo nerealnim pristupom. Primjerice, kad se
+radi o dostatnosti mirovina, Europska komisija izrađuje statistička predviđanja za najviše
+40 godina unaprijed i rezultati analiza se razlikuju od rezultata predočenih u Analizii.
+Mišljenja smo da je za analizu ovako važnog sustava, koji neposredno utječe na trećinu
+stanovništva Hrvatske, trebalo izraditi i neke kratkoročnije prognoze, npr. za 10 ili 20
+godina unaprijed.
+       S obzirom da je u toj ranjivoj skupini stanovništva prisutna visoka stopa siromaštva,
+a svrha mirovina je zaštita od siromaštva u starosti, nismo u Analizi vidjeli puno mjera koje
+bi pozitivno utjecale na smanjivanje stope siromaštva SADA ili za kraće vrijeme, osim
+blage izmjene načina usklađivanja mirovina 85/15 i godišnjeg dodatka na mirovinu (za koji
+je neizvjesno koliko će iznositi), povećanja najniže mirovine i sl.
+       Također, u odnosu na mjere s dugoročnim utjecajem, u izvješću nedostaju podaci
+u kojoj mjeri i jesu li uopće uzeti u obzir mogući budući razvoj ekonomije (trenutačno u
+Hrvatskoj BDP raste) koji bi utjecao na povećanje plaća i omogućio otvaranje novih radnih
+mjesta te tako pozitivno utjecao na količinu i visinu priljeva doprinosa u mirovinski sustav.
+       Što se tiče daljnjeg nastavka privatizacije mirovinskog sustava kroz jačanje 2.
+stupa mirovinskog osiguranja (individualna kapitalizacija) i povećanja doprinosa u taj stup,
+mišljenja smo da treba povećati doprinose za 1. stup (međugeneracijske solidarnosti),
+odnosno potrebno je uvesti doprinos poslodavca NA plaće, ali na način da ta mjera ne
+
+                                                                                           1
+utječe na smanjivanje plaća. Zbog visokog tranzicijskog troška i tereta po javne financije,
+smatramo da bi tzv. 2. stup trebalo postepeno ukidati na način da se pretvori u dobrovoljno
+mirovinsko osiguranje, jednako kao što je to bio slučaj u mnogim drugim državama
+članicama EU (u nekim državama su osiguranici 2. stupa čak dobivali bonus za prijenos
+sredstava u 1. stup). Simptomatično je da u Analizi nema spomena o situaciji u drugim
+europskim državama radi usporedbe s 2. stupom koji je možda uspješniji ili manje
+uspješan od hrvatskog sustava individualne kapitalizacije (a koji je pretežno u vlasništvu
+fondova stranih banaka). Potrebno je naglasiti i da je stopa doprinosa od 15 posto za prvi
+stup među najnižima u cijeloj EU, a k tome ukupni teret doprinosa ide na račun radnika,
+dok poslodavci ne plaćaju ništa.
+       SUH predlaže da se u tekst Analize uvrste primjedbe koje se odnose na
+diskriminaciju različitih podskupina sadašnjih i budućih umirovljenika jer je to
+zabrinjavajuća situacija koju treba odmah uzeti u obzir prilikom rješavanja pitanja
+sadašnjih i budućih umirovljenika.
+       Što se tiče statističkog prikazivanja podataka iz mirovinskog osiguranja o
+prosječnim mirovinama, protivimo se podatku koji se naziva „sveukupna mirovina“ jer ona
+uključuje i posebne kategorije umirovljenika, ali ne i sve umirovljenike, dok je prosječna
+mirovina prema ZOMO najčešće 10% niža.
+Nastavno u tekstu predlažemo kratkoročne mjere koje bi odmah djelovale na smanjivanje
+siromaštva umirovljenika.
+Zaključak pod 4. - Rodni jaz i dodani staž
+Sadašnja situacija. U Analizi se spominje rodni jaz između mirovina i uvođenje dodanog
+staža od 6 mjeseci po djetetu od 01.01.2019. te statistički podatak da se umirovljenicima
+(a to su pretežno žene) koji su ostvarili pravo na mirovinu od 01.01.2019. nadalje mirovina
+povećala za oko 2 %. Iz Analize nije razvidno koliko se ukupno smanjio rodni jaz svim
+majkama umirovljenicama s djecom, ali iz postotka povećanja od 2 % po djetetu samo
+onim korisnicima koji su ostvarili to pravo, možemo zaključiti da se ukupni rodni jaz tom
+mjerom statistički vrlo malo smanjio ovom kompenzacijskom mjerom. Napominjemo kako
+je rodni mirovinski jaz u Hrvatskoj među najvišima u posttranzicijskim zemljama, čak 20
+posto.
+       SUH upozorava da izmjena Zakona o mirovinskom osiguranju (“Narodne novine”
+broj 115/18) nije omogućila stjecanje prava na dodani staž svim zatečenim
+umirovljenicima koji imaju djecu (pa makar bez retrogradne isplate) te je na taj način
+neizravno dovela u neravnopravan položaj umirovljenike koji imaju djecu, ali su pravo
+ostvarili prema ranijim propisima, do 31.12.2018. Znači, umirovljenice s djecom, kao
+istovrsna grupacija, su izmjenama ZOMO iz 2019. godine podijeljene u dvije skupine koje
+se razlikuju po utjecaju neutralnog pravnog propisa na opseg njihovog prava iz
+mirovinskog osiguranja, tj. prvima se ne priznaje da imaju dijete/djecu, a drugima priznaje.
+
+
+
+                                                                                          2
+       Navedeno predstavlja diskriminaciju prema članku 1. stavku 3. Zakona o suzbijanju
+diskriminacije (NN 85/2008 i 112/2012):
+“(3) Diskriminacijom se smatra i stavljanje neke osobe u nepovoljniji položaj na temelju
+pogrešne predodžbe o postojanju osnove za diskriminaciju iz stavka 1. ovoga članka.”
+      Neravnopravnost umirovljenika s djecom je oblik neizravne diskriminacije prema
+članku 2. stavku 2. Zakona o suzbijanju diskriminacije (NN 85/2008 i 112/2012):
+“Neizravna diskriminacija postoji kada naizgled neutralna odredba, kriterij ili praksa,
+stavlja ili bi mogla staviti osobe u nepovoljniji položaj po osnovi iz članka 1. stavka 1.
+ovoga Zakona, u odnosu na druge osobe u usporedivoj situaciji, osim ako se takva
+odredba, kriterij ili praksa mogu objektivno opravdati zakonitim ciljem, a sredstva za
+njihovo postizanje su primjerena i nužna.“
+      Za provedbu važećeg Zakona o suzbijanju diskriminacije nadležan je pučki
+pravobranitelj. Diskriminacija je zabranjena Ustavom RH a prema članku 93. Ustava:
+„Pučki je pravobranitelj opunomoćenik Hrvatskog državnog sabora koji štiti ustavna i
+zakonska prava građana u postupku pred državnom upravom i tijelima koja imaju javne
+ovlasti.“
+
+      Što se tiče mogućnosti retroaktivnog djelovanja pravnih propisa, ona je moguća
+prema članku 90. stavku 5. Ustava:
+„Iz posebno opravdanih razloga samo pojedine odredbe zakona mogu imati povratno
+djelovanje.“
+        S obzirom da se radi o neutralnom propisu koji stavlja u različit položaj dvije
+podskupine osoba s istom karakteristikom – umirovljenici s djecom, i da se mjera
+smanjenja rodnog jaza mirovina propisala samo za dio takvih osoba, smatramo da se radi
+o posebno opravdanim razlozima za to da se mjera priznavanja dodanog staža za djecu
+proširi na sve zatečene umirovljenike koji imaju djecu.
+Buduća situacija. SUH se slaže s točkom 4. zaključaka Analize, odnosno s prijedlogom
+da se dodani staž po djetetu poveća na dvanaest mjeseci po djetetu, ali upozorava da,
+ako će navedeno pravo ostvariti samo korisnici mirovine koji će pravo na mirovinu prvi
+puta ostvarivati po budućem novom Zakonu o mirovinskom osiguranju (skraćeno: novi
+ZOMO), imat ćemo tri podskupine umirovljenika s djecom – oni koji staž za djecu uopće
+nisu ostvarili, oni koji su ostvarili pravo na šest mjeseci i oni koji su ostvarili jednu godinu
+po djetetu. S obzirom na navedeno, vrijedi isti prigovor diskriminacije koji smo naveli
+naprijed u tekstu.
+      SUH predlaže da se dodani staž od 12 mjeseci po djetetu prizna svim zatečenim
+umirovljenicima s djecom, bez retroaktivne isplate. Nadalje predlažemo da se svim novim
+umirovljenicima s djecom koji će pravo na mirovinu ostvariti po novom ZOMO, jedna
+godina po djetetu uračuna u ukupni staž za stjecanje prava na mirovinu i određivanje
+iznosa mirovine - kao dodatni staž, te da ga se prizna u kategoriji tzv. posebnog staža.
+
+                                                                                              3
+Zaključak. Mjera koju predlažemo bi u značajnijoj mjeri utjecala na smanjivanje rodnog
+jaza između muških i ženskih mirovina te bi ubrzano djelovala na smanjivanje siromaštva
+umirovljenika.
+
+
+Zaključak pod 1. i 9. - Dob za mirovinu. SUH se slaže s mišljenjem izraženim u Analizi
+u zaključku pod 1.da produženje radnog vijeka ne mora nužno biti vezano uz povećanje
+dobi za odlazak u mirovinu. Ujedno je protiv mjere povećanja dobi kao uvjeta za
+ostvarivanje bilo koje vrste mirovine.
+Starosna mirovina
+        SUH je protiv podizanja dobnog uvjeta za ostvarenje prava na starosnu mirovinu.
+Smatramo da životni standard i drugi socijalno-ekonomski činitelji u Hrvatskoj, kao npr.
+otežano ostvarivanje i sve niža kvaliteta zdravstvene zaštite, ne idu u prilog tome.
+Statistička činjenica o produljenju životne dobi ne ide uvijek u paru s kvalitetom života u
+kasnijoj dobi. Raste broj nemoćnih starijih osoba, radni vijek radno-aktivnog stanovništva
+se već produljio i obiteljska briga u kući je rijetko moguća. Istodobno infrastruktura za
+državnu institucionalnu brigu o nemoćnim starijim osobama, kao niti izvaninstitucionalna
+skrb za starije, nisu dovoljno razvijene, a k tome je privatna skrb jako skupa u odnosu na
+visinu mirovina.
+       Potrebno je uzeti u obzir i činjenice iz šireg konteksta. U Europskoj uniji 12 država
+članica primjenjuje dob od 65 godina (Češka, Estonija, Bugarska, Litva, Latvija,
+Luxemburg, Mađarska, Malta, Austrija, Hrvatska, Poljska, i Rumunjska, a Francuska za
+prvi uvjet za starosnu mirovinu iz općeg sustava primjenjuje dob od 62 do 64 godine
+života, ovisno o godini rođenja osiguranika), ili čak nižu za žene (Poljska 60 godina,
+Rumunjska 63 godine Austrija 60 s povećanjem do 65 do 2033. godine). Proizlazi da
+gotovo polovica država članica ne podiže starosnu dob za starosnu mirovinu iznad 65
+godina. Uz iznimku Luxembourga, Francuske i Austrije, pretežno su to ekonomski manje
+razvijene države nižeg životnog standarda i ujedno novije članice EU, slično kao Hrvatska.
+Austrija svakako ne spada u krug država s lošim životnim standardom, ali je svejedno
+dugo odbijala preporuke EU o podizanju životne dobi za starosnu mirovinu za žene, jedan
+od razloga je bio očuvanje obiteljskog života i briga u kući za starije i nemoćne te za malu
+djecu. Ujedno je to često država s kojom se Hrvatska tradicionalno uspoređivala prigodom
+razvoja svojeg mirovinskog sustava.
+       U Analizi ne vidimo da su uzete u obzir različite kategorije osiguranika po
+djelatnostima jer nije isto raditi duže od 65 godina kao građevinski radnik na otvorenom
+prostoru ili kao administrativno osoblje u uredu. Državni zavod za statistiku je ponudio
+podatke o broju osiguranika po djelatnostima i o prosječnoj visini njihove plaće ali ne
+znamo hoće li navedeno biti naknadno uzeto u obzir u konačnom tekstu Analize. Već u
+dobi poslije 60 godina dio osiguranika više nije sposoban za daljnji rad i samo manji dio
+će nastaviti raditi poslije 65 godina (što je vidljivo iz postojećih statističkih podataka). Zbog
+toga će u nekim djelatnostima radnici, iako s malim plaćama, prihvaćati prijevremenu
+
+                                                                                               4
+starosnu mirovinu, te biti prisiljeni dodatno raditi do polovice radnog vremena radi niske
+mirovine.
+        Što se tiče proširenja mogućnosti rada za umirovljenike iz zaključaka pod 1., SUH
+se zalaže, pored postojećeg prava na rad do pola radnog vremena uz punu mirovinu, za
+omogućavanje rada s punim radnim vremenom uz primanje polovice mirovine za
+umirovljenike koji su pravo ostvarili po općim propisima, što bi ih izjednačilo s
+umirovljenicima koji su mirovinu ostvarili po posebnim propisima (prava iz mirovinskog
+osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba,
+prijašnjim propisima o pravima iz mirovinskog i invalidskog osiguranja vojnih osiguranika,
+o službi u Oružanim snagama Republike Hrvatske, o pravima djelatnika unutarnjih
+poslova, o pravima djelatnika na izvršenju sankcija izrečenih za kaznena djela, privrednih
+prijestupa i prekršaja ili propisu o posebnim pravima iz mirovinskog osiguranja
+zaposlenika na poslovima razminiranja ili propisu o pravima profesionalnih vatrogasaca).
+Puna plaća značila bi i višu uplatu doprinosa za mirovinsko osiguranje, a pola mirovine
+predstavlja manji trošak iz mirovinskog osiguranja.
+       Ipak, u odnosu na rad umirovljenika u Analizi je trebalo razmotriti stanje na
+hrvatskom tržištu rada i utjecaj rada umirovljenika na zapošljavanja mladih osoba, u
+smislu pametne demografske politike. Treba uzeti u obzir i činjenicu da rad umirovljenika
+ovisi odluci poslodavca, a oni su zainteresiraniji za njihov rad u punom radnom vremenu.
+       U Analizi se ne razmatra stupanj siromaštva u Hrvatskoj, raščlanjen na kategorije
+radno-aktivnog stanovništva i umirovljenika, pogotovo samaca u dobi većoj od 65 godina
+života. Stopa siromaštva jednočlanog kućanstva osoba 65+ iznosila je listopadu 2023.
+godine 59,9% što ukazuje na ozbiljan problem. Mišljenja smo da je u Analizi trebalo
+razmotriti položaj takvih samaca te predložiti kratkoročne i dugoročne mjere. Doplatak za
+samce je jedna od mogućih kratkoročnih mjera te treba istražiti financijske mogućnosti za
+određeni opseg tog prava. Takav doplatak postoji u mnogim državama članicama EU, u
+nekima iz mirovinskog sustava, a u nekima iz sustava socijalne skrbi ili kroz porezni
+sustav.
+Prijevremena starosna mirovina.
+Buduće stanje. SUH je protiv mjera kojima bi se pooštrili uvjeti za odlazak u prijevremenu
+starosnu mirovinu, kao što je dob, trajanje razdoblja prijevremenosti i povećanje stope
+umanjenja po mjesecu ranijeg umirovljenja. Mišljenja smo da demografske projekcije do
+2070. godine nisu dovoljno uvjerljiv razlog za takve mjere te da treba uzeti u obzir
+socijalno-ekonomsku situaciju zaposlenika i sadašnjih umirovljenika u Hrvatskoj koja u
+ovoj Analizi nije u dovoljnoj mjeri ili dovoljno transparentnoj mjeri uzeta u obzir.
+Penalizacija
+Sadašnje stanje. Iz kronologije penalizacije proizlazi da sadašnji umirovljenici, koji su
+ostvarili pravo na prijevremenu starosnu mirovinu poslije reforme iz 1999. godine, primaju
+mirovinu određenu na temelju četiri različita režima penalizacije, ovisno o izmjenama
+
+                                                                                         5
+Zakona o mirovinskom osiguranju od 1999. godine nadalje. Hipotetski – kada bismo
+pretpostavili da dvoje umirovljenika ima jednak staž i plaću tijekom radnog vijeka a
+prijevremenu mirovinu su ostvarili prema Zakonu o mirovinskom osiguranju i različitim
+izmjenama tog zakona u različitom razdoblju, primali bi različite iznose mirovine zbog
+primjene različitih postotaka penalizacije. Povoljniji postotak se nije retroaktivno
+primjenjivao pa postoji velika razlika u primanjima korisnika iste vrste mirovine ovisno o
+vremenu ostvarivanja prava i propisu koji se tada na njih primjenjivao. Tako od 1999.
+godine do danas imamo raspon od 9 % do 20,4% za pet godina prijevremenog odlaska u
+mirovinu, a trenutačno je u primjeni 12 % za pet godina prijevremenog odlaska u mirovinu.
+       Slijedom navedenog, umirovljenici koji su ostvarili pravo na prijevremenu starosnu
+mirovinu su međusobno u neravnopravnom položaju s obzirom na različit stupanj
+penalizacije mirovina ovisno o tome prema kojoj izmjeni Zakona o mirovinskom osiguranju
+su ostvarivali pravo, što predstavlja neizravnu diskriminaciju. Nadalje se pozivamo na sve
+što je već navedeno naprijed u tekstu u odnosu na zabranu izravne i neizravne
+diskriminacije i mogućnosti retroaktivne primjene pojedine odredbe zakona.
+Zaključak. SUH predlaže da se odmah ujednači penalizacija prijevremenih starosnih
+mirovina na način da se na sve prijevremeno ostvarene mirovine unatrag primijeni
+postotak umanjenja mirovina koji je bio najpovoljniji u razdoblju od 1999. do danas, bez
+retroaktivne isplate. Mjera koju predlažemo bi ubrzano djelovala na smanjivanje
+siromaštva umirovljenika te većeg povjerenja u pravednost i stabilnost mirovinskog
+sustava.
+Bonifikacija
+Sadašnje stanje. U istom položaju međusobnih razlika su i starosne mirovine korisnika
+koji su nastavili raditi nakon navršetka dobi za starosnu mirovinu te ostvarili uvećanje
+starosne mirovine, tzv. bonifikaciju. Od 2013. do danas produženje radnog vijeka
+bonificiralo se po mjesecu kasnijeg odlaska u starosnu mirovinu od 0,15 % do 0,45 % (od
+9 % do 27 % za pet godina), s time da se povoljniji postotak također nije retroaktivno
+primjenjivao pa i tu postoji velika razlika u primanjima korisnika istovrsne mirovine, ovisno
+o vremenu ostvarivanja prava i propisu koji se tada na njih primjenjivao. Navedeno također
+predstavlja neizravnu diskriminaciju.
+Zaključak. SUH predlaže da se ujednači bonifikacija mirovina na način da se na sve
+odgođene starosne mirovine unatrag primijeni najpovoljniji postotak bonifikacije, bez
+retroaktivne isplate. Mjera koju predlažemo bi ubrzano djelovala na smanjivanje
+siromaštva umirovljenika, na poticanje dužeg radnog vijeka kod sadašnjih i budućih
+umirovljenika te većeg povjerenja u pravednost i stabilnost mirovinskog sustava.
+Treći stup – dobrovoljna individualna kapitalizacija. Izjave o štednji za starost
+potrebno je utemeljiti na podacima o stanju plaća zaposlenika po kategorijama djelatnosti
+i stručnoj spremi pa razmotriti koliki postotak zaposlenika realno ima mogućnost štednje
+za starost.
+
+
+                                                                                           6
+Napomena: 10. Sastanku Radne skupine za analizu stanja mirovinskog sustava nisu
+nazočili predstavnici i suradnici Svjetske banke te stručnjaci iz Hrvatskog zavoda za
+mirovinsko osiguranje koji su neposredno radili na analizi stanja mirovinskog sustava pa
+nije bilo moguće dobiti odgovore na neka pitanja. Smatramo da su zaključci radne skupine
+općeniti i načelni, neki i neodređeni, te ne vidimo u njima neki čvrsti temelj za izradu
+prijedloga Nacrta novog ZOMO. O konkretnijim prijedlozima očitovat ćemo se prigodom
+sudjelovanja u radu Radne skupine za izradu Nacrta prijedloga Zakona o mirovinskom
+osiguranju kojoj smo već dostavili prvo očitovanje.
+
+
+                                        Sindikat umirovljenika Hrvatske
+                                        Jasna A. Petrović, predsjednica
+
+
+
+
+                                                                                      7
+NEZAVISNI HRVATSKI SINDIKATI
+SAVEZ SAMOSTALNIH SINDIKATA HRVATSKE
+MATICA HRVATSKIH SINDIKATA
+Zagreb, 16. prosinca 2024.
+
+
+
+
+Predmet: Očitovanje na Analizu i zaključke Radne skupine za analizu stanja mirovinskog
+         sustava – IZDVOJENO MIŠLJENJE
+
+Zadržavanje dobne granice za odlazak u mirovinu je jedno od ključnih pitanja za sindikate.
+Tijekom rada ove radne skupine u više je navrata javno rečeno kako se, unatoč svim
+analizama i preporukama Svjetske banke i nekih drugih institucija i pojedinaca, neće ići u
+pravcu zakonskog produljenja radnog vijeka, ali da će cilj (duži ostanak u svijetu rada)
+nastojati ostvariti drugim sredstvima i na drugi način. Navodimo kako u tekstu zaključaka
+stoji: “Produženje radnog vijeka ne mora nužno biti vezano uz povećanje zakonske dobi za
+umirovljenje, jer se isti efekt može postići i drugim mjerama u okviru mirovinskog sustava,
+primjerice bonifikacijom, proširenjem mogućnosti rada za umirovljenike i sl. Glavni
+čimbenici koji dovode do preranog izlaska radnika s tržišta rada su širok vremenski okvir za
+prijevremeno umirovljenje te blaga tzv. penalizacija. Stoga je prilikom izmjena zakonske
+regulative potrebno razmotriti mogućnosti i načine za destimulaciju prijevremenog
+umirovljenja kako bi se osigurala veća participacija osoba u dobnoj skupini od 60 do 64
+godine na tržištu rada, budući da je ista vrlo niska i u 2024. godini iznosi svega 42%, dok je
+prosjek u EU 55%.“
+Opreza radi ističemo kako se ne slažemo s povećanjem zakonske dobi za umirovljenje i
+slažemo se sa zaključkom kako se isti učinak može postići i drugim mjerama. Smatramo kako
+se dodatnom bonifikacijom dužeg ostanka u svijetu rada stvara velika razlika u odnosu na
+prijevremeno umirovljenje i da je ta razlika dovoljna da se radnik svojevoljno odluči na duži
+ostanak u radnom odnosu te da nema potrebe za daljnjom višom penalizacijom ranijeg
+umirovljenja. Te su mirovine ionako male i niske i kada se poveća bonifikacija, razlika
+između ta dva umirovljenja je dovoljno velika da će svatko tko zaista ima mogućnost izbora
+izabrati ostanak u svijetu rada. Mirovinski sustav se mora promatrati i kroz sustav rada.
+Kvaliteta radnih mjesta, radni uvjeti starijih radnika su važan čimbenik u odlučivanju za
+odlazak u prijevremenu mirovinu. Sa žaljenjem primjećujemo kako je u Analizi izostavljen
+takav dio koji bi se bavio uzrocima odlaska u prijevremenu mirovinu radnika. Na žalost,
+prijevremena umirovljenja u pravilu koriste radnici zbog zdravstvenog stanja ili jer ne mogu
+više izdržati na poslu, najčešće zbog pritisaka poslodavaca, odnosno to je način da se
+poslodavac riješi starijih radnika. Ova destimulacija za ranije umirovljenje neće promijeniti
+motivaciju poslodavaca da se uz trošak otpremnine riješe starijih radnika. Oni ne razmišljaju o
+posljedicama takvog ranijeg odlaska u mirovinu, a trajno umanjenoj u pravilu ionako maloj
+mirovini tih radnika. Niti će veća penalizacija utjecati na odluku radnika koja je motivirana
+težim zdravstvenim stanjem, ali će radnika dovesti u izuzetno lošu i nepovoljnu situaciju.
+Penalizacijom se samo kažnjava radnik, a ne rješava se strukturno pitanje razloga odlaska u
+prijevremenu mirovinu. Daljnjom liberalizacijom mogućnosti rada uz primanje mirovine
+zajedno sa većom bonifikacijom po našem se mišljenju može ostvariti učinak bez daljnje
+penalizacije ranijeg umirovljenja. U konačnici, treba imati u vidu i da je životni vijek u
+Hrvatskoj daleko ispod prosjeka Europske unije.
+U predloženim zaključcima Radne skupine navodi se i sljedeće: „Osim prethodno navedenih
+mjera, eventualne dodatne mjere koje bi bile usmjerene na povećanje primjerenosti mirovina
+u dužem vremenskom razdoblju, ovisit će između ostalog i o širem društvenom konsenzusu
+oko tzv. nepopularnih mjera kojima bi se osigurala dodatna sredstva za financiranje
+mirovinskog sustava, bez istovremenog povećanja poreznog opterećenja za porezne obveznike
+koji financiraju mirovinski sustav.“ Tražimo objašnjenje te jasno i nedvojbeno izražavanje na
+koji se „širi društveni konsenzus“ misli i oko kojih to „tzv. nepopularnih mjera kojima bi se
+osigurala dodatna sredstva za financiranje mirovinskog sustava, bez istovremenog povećanja
+poreznog opterećenja za porezne obveznike koji financiraju mirovinski sustav“! Smatramo
+kako zaključci Radne skupine moraju biti potpuno jasni, nedvojbeni i razumljivi kako bi se od
+bilo koga i u bilo koje vrijeme izbjegle moguće zlouporabe zaključaka, a pod krinkom i
+objašnjenjem kako je to bila namjera Radne skupine.
+Uz navedeno, smatramo kako zakonski treba urediti da se pri svim oblicima rada (studentski
+rad, ugovor o djelu, autorski ugovor, drugi dohodak…) doprinos za mirovinsko osiguranje
+plaća po istoj stopi kao i za ugovor o radu. Kako se i u samoj analizi navodi: „Glavni
+problemi doprinosnog sustava u Republici Hrvatskoj su prevelika raznovrsnost osnovica i
+stopa doprinosa, kategorija obveznika doprinosa, kao i blaži porezni tretman za atipične
+oblike rada, popust studentskog rada, radnika na digitalnim platformama, iznajmljivača
+apartmana, ugovora o djelu i slično.“ Doista nije ni potrebno posebno navoditi poznate
+činjenice kako upravo zbog nižih stopa doprinosa, a time i nižeg troška rada, mnogi ugovori u
+području ugovora o radu „proklizavaju“ u druge, jeftinije ugovorne oblike, koji zapravo to
+nisu. Time radnici koji te poslove obavljaju ostaju uskraćeni za uplate dijela doprinosa, a
+mirovinski sustav za nemale iznose uplata. Uz to, budući da su kroz svoj studentski vijek
+brojni studenti, uz studiranje prisiljeni i raditi, a zbog niže takve cijene rade, poslodavci ih
+rado zapošljavaju, ali opet na štetu samih studenata koji unatoč vremenu koje su u suštini
+proveli u radnom odnosu bivaju zakinuti za vlastiti mirovinski staž. Na kraju, ovakvim
+nejednakim tretmanom u praksi se javlja pitanje nelojalne konkurencije između radnika
+zaposlenih temeljem ugovora o radu i onih zaposlenih kroz alternativne načine povoljnije za
+poslodavce, iako se svi u suštini nalaze u radnom odnosu.
+Uz izjednačavanje stopa doprinosa sa stopama vezanim za ugovore o radu, studentima bi se
+studentski rad trebao upisati u radni staž i to u potpunosti.
+
+
+                                                    Članovi radne skupine:
+
+                                                    NHS, Krešimir Sever, v. r.
+                                                    SSSH, Darko Šeperić, v.r.
+                                                    MHS, Ivana Šepak-Robić, v.r.
+

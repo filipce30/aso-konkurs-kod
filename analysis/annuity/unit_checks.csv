@@ -1,0 +1,32 @@
+check,pass,blocking,detail
+e65_m_2023 vs results/mortality.json,True,True,rebuilt 15.436534 vs 15.436532 (diff +2.82e-06 y)
+e65_f_2023 vs results/mortality.json,True,True,rebuilt 17.495258 vs 17.495257 (diff +1.62e-06 y)
+qx domain/closure lc/m,True,True,"min 2.883e-03, max 1.0000, q(110)=1 True"
+qx non-decreasing from age 70 lc/m,True,False,0 decreasing steps out of 2320; worst relative drop +0.0%
+qx domain/closure cbd/m,True,True,"min 5.038e-03, max 1.0000, q(110)=1 True"
+qx non-decreasing from age 70 cbd/m,True,False,0 decreasing steps out of 2320; worst relative drop +2.9%
+qx domain/closure lc/f,True,True,"min 2.141e-03, max 1.0000, q(110)=1 True"
+qx non-decreasing from age 70 lc/f,True,False,0 decreasing steps out of 2320; worst relative drop +0.0%
+qx domain/closure cbd/f,True,True,"min 9.011e-04, max 1.0000, q(110)=1 True"
+qx non-decreasing from age 70 cbd/f,True,False,0 decreasing steps out of 2320; worst relative drop +2.1%
+qx_sims_m contains the full path set,True,True,"5000 paths on disk; the simulation design specifies >= 5,000. A smaller number means the mortality simulation was a reduced test run or did not complete -- the 99.5% VaR must not be computed from it."
+e65_m_2050 path quantiles vs results/mortality.json,True,True,p2.5/p50/p97.5 15.1905/18.5388/21.9741 vs 15.1905/18.5388/21.9741; n_paths 5000
+qx_sims_f contains the full path set,True,True,"5000 paths on disk; the simulation design specifies >= 5,000. A smaller number means the mortality simulation was a reduced test run or did not complete -- the 99.5% VaR must not be computed from it."
+e65_f_2050 path quantiles vs results/mortality.json,True,True,p2.5/p50/p97.5 17.1241/20.5527/23.7132 vs 17.1241/20.5527/23.7132; n_paths 5000
+a12(i=0) = e_64 + 13/24 (m),True,True,16.1648349584 vs 16.1648349584
+a_annual(i=0) = 1 + e_64 (m),True,True,16.6231682917
+a12 decreasing in i (m),True,True,16.165 > 14.657 > 13.365 > 12.251 > 11.286 > 10.445
+"a12 increasing with life expectancy (m, cohort vs period at 3%)",True,True,cohort 13.2245 > period 12.2515; e_x cohort 17.465 vs period 15.623
+a12(i=0) = e_62 + 13/24 (f),True,True,20.0057555792 vs 20.0057555792
+a_annual(i=0) = 1 + e_62 (f),True,True,20.4640889126
+a12 decreasing in i (f),True,True,20.006 > 17.881 > 16.090 > 14.570 > 13.271 > 12.155
+"a12 increasing with life expectancy (f, cohort vs period at 3%)",True,True,cohort 15.6546 > period 14.5698; e_x cohort 21.619 vs period 19.464
+hold-flat beyond 2080 immaterial,True,True,m2035: +0.000e+00; m2040: +3.984e-06; f2035: +3.000e-09; f2040: +7.251e-07
+kt_series.csv drift agrees with results/mortality.json (m),True,False,"kt_series implies -0.4950818, mortality.json reports -0.4950818 (diff -3.75e-14). The valuation uses mortality.json and the estimator identity, so this is an export-sync note for the mortality outputs, not a valuation error."
+one-year VaR reconstruction reproduces the central cohort factor (m),True,True,a12 relative error +6.16e-07; max qx cell error 9.61e-03; Kannisto rule applied = floor 0.084569 from results/mortality.json (never binds centrally); NO ceiling: kannisto_bound_one_sided is true (floor-only rule). A failure here means the mortality projection's old-age closure rule changed and the replication in build_cohort must be updated to match it.
+"one-year VaR map is strictly monotone in eps over [-3,3] (m)",True,True,a12 falls from 13.8738 at eps=-3 to 12.5957 at eps=+3; max upward step -5.15e-04
+kt_series.csv drift agrees with results/mortality.json (f),True,False,"kt_series implies -0.5838846, mortality.json reports -0.5838846 (diff +4.41e-14). The valuation uses mortality.json and the estimator identity, so this is an export-sync note for the mortality outputs, not a valuation error."
+one-year VaR reconstruction reproduces the central cohort factor (f),True,True,a12 relative error +6.66e-16; max qx cell error 1.04e-14; Kannisto rule applied = floor 0.095443 from results/mortality.json (never binds centrally); NO ceiling: kannisto_bound_one_sided is true (floor-only rule). A failure here means the mortality projection's old-age closure rule changed and the replication in build_cohort must be updated to match it.
+"one-year VaR map is strictly monotone in eps over [-3,3] (f)",True,True,a12 falls from 16.3114 at eps=-3 to 14.9777 at eps=+3; max upward step -5.38e-04
+one-year eps-grid curve is the m table (closure sanity),True,True,a12 at eps=0 is 13.224507 vs central 13.224499
+one-year eps-grid curve is the f table (closure sanity),True,True,a12 at eps=0 is 15.654612 vs central 15.654612

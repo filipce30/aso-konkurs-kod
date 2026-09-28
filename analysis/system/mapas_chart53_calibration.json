@@ -1,0 +1,13 @@
+{
+  "method": "pixel measurement of Chart 5.3, izvestaj-kfpo-2025.pdf p.36, rendered at 400 dpi",
+  "extracted_total": 626887,
+  "report_total_members_31_12_2025": 630396,
+  "error_pct": -0.0056,
+  "extracted_mandatory": 567458,
+  "report_mandatory": 569135,
+  "mandatory_error_pct": -0.0029,
+  "extracted_voluntary": 59429,
+  "report_voluntary": 61261,
+  "voluntary_error_pct": -0.0299,
+  "px_per_20000_members": 166.25
+}

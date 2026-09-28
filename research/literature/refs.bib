@@ -1,0 +1,669 @@
+% refs.bib - ASO 2026 longevity paper
+% Every entry below was opened (DOI landing page, publisher/crossref record, or primary PDF)
+% on 2026-09-22. note={} = field values confirmed against the opened source.
+% 2026-09-26: reduced to cited entries only; datasets are listed in Prilog G instead.
+
+%% ===================== FOREIGN CORE =====================
+
+@article{lee1992modeling,
+  author  = {Lee, Ronald D. and Carter, Lawrence R.},
+  title   = {Modeling and Forecasting {U.S.} Mortality},
+  journal = {Journal of the American Statistical Association},
+  year    = {1992},
+  volume  = {87},
+  number  = {419},
+  pages   = {659-671},
+  doi     = {10.1080/01621459.1992.10475265},
+  note    = {Introduces the Lee-Carter log-bilinear model with a random-walk-with-drift period index.},
+}
+
+@article{brouhns2002poisson,
+  author  = {Brouhns, Natacha and Denuit, Michel and Vermunt, Jeroen K.},
+  title   = {A {P}oisson log-bilinear regression approach to the construction of projected lifetables},
+  journal = {Insurance: Mathematics and Economics},
+  year    = {2002},
+  volume  = {31},
+  number  = {3},
+  pages   = {373-393},
+  doi     = {10.1016/S0167-6687(02)00185-3},
+  note    = {Estimates the Lee-Carter model by Poisson maximum likelihood on death counts.},
+}
+
+@article{cairns2006two,
+  author  = {Cairns, Andrew J. G. and Blake, David and Dowd, Kevin},
+  title   = {A Two-Factor Model for Stochastic Mortality with Parameter Uncertainty: Theory and Calibration},
+  journal = {Journal of Risk and Insurance},
+  year    = {2006},
+  volume  = {73},
+  number  = {4},
+  pages   = {687-718},
+  doi     = {10.1111/j.1539-6975.2006.00195.x},
+  note    = {Introduces the two-factor Cairns-Blake-Dowd model for logit mortality at older ages.},
+}
+
+@article{renshaw2006cohort,
+  author  = {Renshaw, A. E. and Haberman, S.},
+  title   = {A cohort-based extension to the {L}ee-{C}arter model for mortality reduction factors},
+  journal = {Insurance: Mathematics and Economics},
+  year    = {2006},
+  volume  = {38},
+  number  = {3},
+  pages   = {556-570},
+  doi     = {10.1016/j.insmatheco.2005.12.001},
+  note    = {Extends the Lee-Carter model with a cohort term.},
+}
+
+@article{cairns2009quantitative,
+  author  = {Cairns, Andrew J. G. and Blake, David and Dowd, Kevin and Coughlan, Guy D. and Epstein, David and Ong, Alen and Balevich, Igor},
+  title   = {A Quantitative Comparison of Stochastic Mortality Models Using Data From {E}ngland and {W}ales and the {U}nited {S}tates},
+  journal = {North American Actuarial Journal},
+  year    = {2009},
+  volume  = {13},
+  number  = {1},
+  pages   = {1-35},
+  doi     = {10.1080/10920277.2009.10597538},
+  note    = {Compares eight stochastic mortality models on fit, parsimony, robustness and plausibility of projections.},
+}
+
+@article{li2005coherent,
+  author  = {Li, Nan and Lee, Ronald},
+  title   = {Coherent Mortality Forecasts for a Group of Populations: An Extension of the {L}ee-{C}arter Method},
+  journal = {Demography},
+  year    = {2005},
+  volume  = {42},
+  number  = {3},
+  pages   = {575-594},
+  doi     = {10.1353/dem.2005.0021},
+  note    = {Proposes coherent multi-population forecasting that ties national trends to a common reference trend.},
+}
+
+@article{villegas2018stmomo,
+  author  = {Villegas, Andr\'{e}s M. and Kaishev, Vladimir K. and Millossovich, Pietro},
+  title   = {{StMoMo}: An {R} Package for Stochastic Mortality Modeling},
+  journal = {Journal of Statistical Software},
+  year    = {2018},
+  volume  = {84},
+  number  = {3},
+  pages   = {1-38},
+  doi     = {10.18637/jss.v084.i03},
+  note    = {Describes the StMoMo R package for generalised age-period-cohort stochastic mortality models.},
+}
+
+@book{thatcher1998force,
+  author    = {Thatcher, A. R. and Kannisto, V\"{a}in\"{o} and Vaupel, James W.},
+  title     = {The Force of Mortality at Ages 80 to 120},
+  publisher = {Odense University Press},
+  address   = {Odense, Denmark},
+  year      = {1998},
+  series    = {Odense Monographs on Population Aging},
+  volume    = {5},
+  isbn      = {8778383811},
+  url       = {https://wellcomecollection.org/works/mxjby6dg},
+  note      = {Documents the pattern of the force of mortality at ages 80 to 120 across countries.},
+}
+
+@article{borger2010deterministic,
+  author  = {B\"{o}rger, Matthias},
+  title   = {Deterministic shock vs. stochastic value-at-risk - an analysis of the {S}olvency {II} standard model approach to longevity risk},
+  journal = {Bl\"{a}tter der DGVFM},
+  year    = {2010},
+  volume  = {31},
+  number  = {2},
+  pages   = {225-259},
+  doi     = {10.1007/s11857-010-0125-z},
+  note    = {Compares the Solvency II deterministic longevity shock with a model-based one-year value-at-risk.},
+}
+
+@article{plat2011oneyear,
+  author  = {Plat, Richard},
+  title   = {One-year Value-at-Risk for longevity and mortality},
+  journal = {Insurance: Mathematics and Economics},
+  year    = {2011},
+  volume  = {49},
+  number  = {3},
+  pages   = {462-470},
+  doi     = {10.1016/j.insmatheco.2011.07.002},
+  note    = {Constructs a one-year value-at-risk measure for longevity and mortality risk.},
+}
+
+@article{richards2014value,
+  author  = {Richards, S. J. and Currie, I. D. and Ritchie, G. P.},
+  title   = {A Value-at-Risk framework for longevity trend risk},
+  journal = {British Actuarial Journal},
+  year    = {2014},
+  volume  = {19},
+  number  = {1},
+  pages   = {116-139},
+  doi     = {10.1017/S1357321712000451},
+  note    = {Sets out a value-at-risk framework for longevity trend risk based on one-year model re-estimation.},
+}
+
+@article{mitchell1999new,
+  author  = {Mitchell, Olivia S. and Poterba, James M. and Warshawsky, Mark J. and Brown, Jeffrey R.},
+  title   = {New Evidence on the Money's Worth of Individual Annuities},
+  journal = {American Economic Review},
+  year    = {1999},
+  volume  = {89},
+  number  = {5},
+  pages   = {1299-1318},
+  doi     = {10.1257/aer.89.5.1299},
+  note    = {Measures the money's worth of individual life annuities with population and annuitant tables.},
+}
+
+@misc{eu2009solvency,
+  author       = {{European Parliament and Council}},
+  title        = {{Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)}},
+  year         = {2009},
+  howpublished = {Official Journal L 335, 17.12.2009, p.\ 1; CELEX 32009L0138},
+  url          = {https://www.efta.int/eea-lex/32009l0138},
+  note         = {Solvency II Directive setting the 99.5\% one-year value-at-risk calibration of the SCR.},
+}
+
+@misc{eu2015delegated,
+  author       = {{European Commission}},
+  title        = {{Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC (Solvency II)}},
+  year         = {2015},
+  howpublished = {Official Journal L 12, 17.01.2015; CELEX 32015R0035},
+  url          = {https://www.legislation.gov.uk/eur/2015/35/contents},
+  note         = {Solvency II Delegated Regulation containing the standard-formula longevity sub-module (Article 138).},
+}
+
+%% ===================== RECENT (2019-2026) =====================
+
+@article{dang2026impact,
+  author  = {Dang, Ou and Kamiya, Shinichi and Zhou, Lei},
+  title   = {The Impact of {COVID}-19 on Mortality in 34 Countries and Economies},
+  journal = {North American Actuarial Journal},
+  year    = {2026},
+  volume  = {30},
+  number  = {1},
+  pages   = {92-129},
+  doi     = {10.1080/10920277.2025.2496726},
+  note    = {Estimates the effect of COVID-19 on mortality and mortality modelling in 34 countries.},
+}
+
+@misc{blake2023longevity,
+  author       = {Blake, David P. and Kallestrup-Lamb, Malene and Rangvid, Jesper},
+  title        = {Longevity Risk and Capital Markets: The 2021-22 Update},
+  year         = {2023},
+  howpublished = {SSRN Electronic Journal},
+  doi          = {10.2139/ssrn.4539108},
+  note         = {Surveys developments in longevity risk transfer and related capital-market solutions.},
+}
+
+%% ===================== DOMESTIC - NORTH MACEDONIA =====================
+
+@misc{bajatov2015analiza,
+  author       = {Bajatov, Risto},
+  title        = {Анализа на смртноста на корисниците на ануитет од повеќе земји и корекција на македонски популациски таблици на смртност [Analysis of the mortality of annuity holders from several countries and correction of {M}acedonian population mortality tables]},
+  year         = {2015},
+  howpublished = {НЛБ Нов пензиски фонд АД Скопје; АСО Award-winning paper (September 2015)},
+  url          = {https://aso.mk/wp-content/uploads/2019/06/2015_R_Bajatov.pdf},
+  note         = {Adjusts Macedonian population life tables for annuitant mortality using foreign annuitant experience.},
+}
+
+@misc{srbinoski2019life,
+  author       = {Srbinoski, Bojan},
+  title        = {Life Insurance Demand and Borrowing Constraints},
+  year         = {2019},
+  howpublished = {University Carlo Cattaneo - LIUC; АСО Award-winning paper},
+  url          = {https://aso.mk/wp-content/uploads/2019/11/trub_br1.pdf},
+  note         = {Analyses determinants of life-insurance demand, including North Macedonia.},
+}
+
+@incollection{xhemali2025fiscal,
+  author    = {Xhemali, Nebi and Bexheti, Abdylmenaf and Pulejkov, Andrej},
+  title     = {Fiscal Sustainability of Pension Fund from the Perspective of Second Pillar: Case of {N}orth {M}acedonia},
+  booktitle = {Navigating Economic Uncertainty - Vol. 1},
+  series    = {Springer Proceedings in Business and Economics},
+  publisher = {Springer Nature Switzerland},
+  address   = {Cham},
+  year      = {2025},
+  pages     = {87-118},
+  doi       = {10.1007/978-3-031-73506-6_6},
+  note      = {Analyses the fiscal position of the Macedonian pension system including the second pillar.},
+}
+
+@techreport{petreski2018sustainability,
+  author      = {Petreski, Blagica and Gacov, Pavle},
+  title       = {Sustainability of the Pension System in {M}acedonia: Comprehensive Analysis and Reform Proposal with {MK-PENS} - Dynamic Microsimulation Model},
+  institution = {Finance Think - Economic Research and Policy Institute, Skopje},
+  year        = {2018},
+  number      = {Policy study 14},
+  url         = {https://www.financethink.mk/wp-content/uploads/2018/06/Pension-analysis-EN.pdf},
+  note        = {Assesses the sustainability of the Macedonian public pension system with the MK-PENS microsimulation model.},
+}
+
+@book{lozanoska2024demografski,
+  editor    = {Lozanoska, Aleksandra and Janeska, Verica},
+  title     = {{Демографските промени во Република Северна Македонија со фокус на Пописот на населението од 2021 година - причини, последици и импликации [Demographic Changes in the Republic of North Macedonia with Focus on the 2021 Population Census - Causes, Consequences and Implications]}},
+  publisher = {Economic Institute - Skopje, Ss. Cyril and Methodius University},
+  address   = {Skopje},
+  year      = {2024},
+  url       = {https://www.ek-inst.ukim.edu.mk/demografskite-promeni-vo-rsm-so-fokus-na-popisot-na-naselenieto-od-2021/},
+  note      = {Monograph on post-2021-census depopulation and population ageing in North Macedonia.},
+}
+
+@misc{iops2020northmacedonia,
+  author       = {{IOPS}},
+  title        = {{{IOPS} Country Profile: North Macedonia}},
+  year         = {2020},
+  howpublished = {December 2020, hosted by OECD},
+  url          = {https://www.oecd.org/content/dam/iops/en/country-profiles/NorthMacedonia-profile-IOPS.pdf},
+  note         = {IOPS country profile describing the structure and supervision of the Macedonian pension system.},
+  publisher = {International Organisation of Pension Supervisors}
+
+}
+
+%% ===================== REGIONAL (CEE / Western Balkans) =====================
+
+@techreport{vittas2010designing,
+  author      = {Vittas, Dimitri and Rudolph, Heinz P. and Pollner, John},
+  title       = {{Designing the Payout Phase of Funded Pension Pillars in Central and Eastern European Countries}},
+  institution = {The World Bank},
+  year        = {2010},
+  number      = {Policy Research Working Paper 5276},
+  url         = {http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/04/21/000158349_20100421103114/Rendered/PDF/WPS5276.pdf},
+  note        = {World Bank paper on payout-phase design options for funded pillars in Central and Eastern Europe.},
+}
+
+@techreport{nestic2019adequacy,
+  author      = {Nesti\'{c}, Danijel},
+  title       = {Policy Note: Adequacy of Pensions in {C}roatia},
+  institution = {Institute of Economics, Zagreb, prepared for the World Bank},
+  year        = {2019},
+  month       = {July},
+  url         = {https://thedocs.worldbank.org/en/doc/818371604347502529-0080022020/render/22AdequacyofPensions.pdf},
+  note        = {Policy note on pension adequacy in Croatia.},
+}
+
+@techreport{gubbels2007kosovo,
+  author      = {Gubbels, John and Snelbecker, David and Zezulin, Lena},
+  title       = {The {K}osovo Pension Reform: Achievements and Lessons},
+  institution = {The World Bank},
+  year        = {2007},
+  month       = {April},
+  number      = {Social Protection Discussion Paper No.\ 0707},
+  url         = {https://documents1.worldbank.org/curated/en/523821468264528122/pdf/394060XK0070701PUBLIC1.pdf},
+  note        = {Describes the Kosovo pension reform and its early outcomes.},
+}
+
+@article{altiparmakov2018development,
+  author  = {Altiparmakov, Nikola and Matkovi\'{c}, Gordana},
+  title   = {The development of private pensions in {S}erbia: caught between a generic blueprint and an unconducive local environment},
+  journal = {Transfer: European Review of Labour and Research},
+  year    = {2018},
+  volume  = {24},
+  number  = {1},
+  pages   = {57-71},
+  doi     = {10.1177/1024258917746033},
+  note    = {Reviews the development of the Serbian pension system and the choice not to adopt a funded mandatory pillar.},
+}
+
+@article{milev2020payout,
+  author  = {Milev, Jeko},
+  title   = {Pay-out Phase for The Universal Pension Funds in {B}ulgaria - New Risks and Opportunities for the Insured Individuals},
+  journal = {Yearbook of UNWE (Научни трудове на УНСС)},
+  year    = {2020},
+  number  = {1},
+  pages   = {89-101},
+  doi     = {10.37075/yb.2020.1.06},
+  note    = {Discusses payout-phase design for Bulgarian universal pension funds.},
+}
+
+@article{sterpin2026policy,
+  author  = {\v{S}terpin, Dino and Lapor\v{s}ek, Suzana and Vovk, Bo\v{s}tjan},
+  title   = {Policy-Induced Welfare Losses from Limited Decumulation Options: The Case of {S}lovenia's {DC} Pensions},
+  journal = {Eastern European Economics},
+  year    = {2026},
+  pages   = {1-32},
+  doi     = {10.1080/00128775.2026.2652436},
+  note    = {Quantifies welfare effects of payout-phase restrictions in a small European pension system.},
+}
+
+%% =============================================================
+%% ===================== ADDITIONAL LITERATURE ===================
+%% =============================================================
+
+%% --------- DOMESTIC - NORTH MACEDONIA ------
+
+@article{petreski2021dynamic,
+  author  = {Petreski, Blagica and Petreski, Marjan},
+  title   = {Dynamic Microsimulation Modelling of Potential Pension Reforms in {N}orth {M}acedonia},
+  journal = {Journal of Pension Economics \& Finance},
+  year    = {2021},
+  volume  = {20},
+  number  = {1},
+  pages   = {49-66},
+  doi     = {10.1017/S1474747219000374},
+  note    = {Journal article presenting the MK-PENS dynamic microsimulation of Macedonian pension reform scenarios.},
+}
+
+@techreport{mapas2025izvestaj,
+  author       = {{МАПАС}},
+  title        = {Извештај за состојбите во капитално финансирано пензиско осигурување 2024},
+  institution  = {МАПАС},
+  year         = {2025},
+  month        = {June},
+  address      = {Скопје},
+  url          = {https://mapas.mk/wp-content/uploads/2025/09/izveshtaj-kfpo_2024_web.pdf},
+  note         = {MAPAS annual report on funded pension insurance for 2024.},
+}
+
+@techreport{nbrm2020fsr2019,
+  author      = {{НБРСМ}},
+  title       = {{Извештај за финансиската стабилност во Република Северна Македонија во 2019 година}},
+  institution = {Народна банка на РСМ},
+  year        = {2020},
+  month       = {August},
+  url         = {https://www.nbrm.mk/content/%D0%A4%D0%A1%D0%A0_2019.pdf},
+  note        = {National Bank financial stability report for 2019, including a section on the funded pension pillar.},
+}
+
+@techreport{gerovskamitev2021espn,
+  author      = {Gerovska Mitev, Maja},
+  title       = {{ESPN} Thematic Report: Assessment of Pension Adequacy - {N}orth {M}acedonia},
+  institution = {European Social Policy Network ({ESPN}), for the European Commission Directorate-General for Employment, Social Affairs and Inclusion},
+  year        = {2021},
+  url         = {https://ec.europa.eu/social/BlobServlet?docId=24025&langId=en},
+  note        = {ESPN thematic report assessing pension adequacy in North Macedonia.},
+}
+
+@techreport{sso2023projections,
+  author      = {{ДЗС}},
+  title       = {{Population Projections of the Republic of {N}orth {M}acedonia by 2070}},
+  institution = {State Statistical Office of the Republic of North Macedonia},
+  year        = {2023},
+  address     = {Skopje},
+  url         = {https://www.stat.gov.mk/publikacii/2023/Proekcii_2070_en.pdf},
+  note        = {State Statistical Office population projections for North Macedonia to 2070.},
+}
+
+@article{raveni2024effects,
+  author  = {Raveni, Arbresh and Ismaili, Diturije and Bajrami Ollogu, Elisabeta},
+  title   = {The Effects of Emigration on the Sustainability of the Pension System in {N}orth {M}acedonia},
+  journal = {South East European Journal of Sustainable Development},
+  year    = {2024},
+  volume  = {8},
+  number  = {3},
+  pages   = {19-28},
+  issn    = {2545-4471},
+  url     = {https://seejsd.unt.edu.mk/wp-content/uploads/2024/07/SEEJSD-Volume-8_Issue-3-2024-1-1.pdf},
+  note    = {Analyses the effects of emigration and ageing on the Macedonian pension system.},
+}
+
+@techreport{aso2026godishen,
+  author      = {{АСО}},
+  title       = {Годишен извештај за состојбата и движењата на осигурителниот пазар во 2025 година},
+  institution = {АСО},
+  year        = {2026},
+  address     = {Скопје},
+  url         = {https://aso.mk/wp-content/uploads/2026/08/godishen-izveshtaj-za-sostojbata-i-dvizhenjata-na-osiguritelniot-pazar-vo-2025-godina.pdf},
+  note        = {ISA annual report describing the insurance market and second-pillar payout modes.},
+}
+
+@misc{aso2026registar,
+  author       = {{АСО}},
+  title        = {Регистар на друштва за осигурување на живот (дозволени класи по друштво)},
+  year         = {2026},
+  howpublished = {Live web register, dated HTML snapshot archived by the author},
+  url          = {https://aso.mk/registar/osiguruvane-na-zhivot/},
+  note         = {ISA register of licensed insurers and their authorised insurance classes.},
+  publisher = {Агенција за супервизија на осигурување}
+
+}
+
+%% --------- SOLVENCY II LONGEVITY SHOCK VS MODEL-BASED VAR ------
+
+@article{boonen2017solvency,
+  author  = {Boonen, Tim J.},
+  title   = {Solvency {II} Solvency Capital Requirement for Life Insurance Companies Based on Expected Shortfall},
+  journal = {European Actuarial Journal},
+  year    = {2017},
+  volume  = {7},
+  number  = {2},
+  pages   = {405-434},
+  doi     = {10.1007/s13385-017-0160-4},
+  note    = {Re-examines the Solvency II SCR under an expected-shortfall risk measure.},
+}
+
+@article{olivieripitacco2009stochastic,
+  author  = {Olivieri, Annamaria and Pitacco, Ermanno},
+  title   = {Stochastic Mortality: The Impact on Target Capital},
+  journal = {{ASTIN} Bulletin},
+  year    = {2009},
+  volume  = {39},
+  number  = {2},
+  pages   = {541-563},
+  doi     = {10.2143/AST.39.2.2044647},
+  note    = {Quantifies target capital for annuity portfolios under stochastic mortality.},
+}
+
+@techreport{eiopa2014underlying,
+  author       = {{EIOPA}},
+  title        = {The Underlying Assumptions in the Standard Formula for the Solvency Capital Requirement Calculation},
+  institution  = {EIOPA},
+  year         = {2014},
+  month        = {July},
+  number       = {EIOPA-14-322},
+  url          = {https://acpr.banque-france.fr/system/files/2025-01/20140725_EIOPA-14-322_underlying_assumptions.pdf},
+  note         = {EIOPA document on the assumptions and calibration of the Solvency II standard formula (EIOPA-14-322).},
+}
+
+%% --------- SMALL-POPULATION / SHORT-SERIES MORTALITY MODELLING ------
+
+@article{jarner2011saint,
+  author  = {Jarner, S{\o}ren Fiig and Kryger, Esben Masotti},
+  title   = {Modelling Adult Mortality in Small Populations: The {SAINT} Model},
+  journal = {{ASTIN} Bulletin: The Journal of the {IAA}},
+  year    = {2011},
+  volume  = {41},
+  number  = {2},
+  pages   = {377-418},
+  doi     = {10.2143/AST.41.2.2136982},
+  note    = {Proposes the SAINT model linking a small population to a larger reference population trend.},
+}
+
+@article{hunt2020identifiability,
+  author  = {Hunt, Andrew and Blake, David},
+  title   = {Identifiability in Age/Period/Cohort Mortality Models},
+  journal = {Annals of Actuarial Science},
+  year    = {2020},
+  volume  = {14},
+  number  = {2},
+  pages   = {500-536},
+  doi     = {10.1017/S1748499520000123},
+  note    = {Analyses identifiability problems in age/period/cohort mortality models.},
+}
+
+@article{dowd2010backtesting,
+  author  = {Dowd, Kevin and Cairns, Andrew J. G. and Blake, David and Coughlan, Guy D. and Epstein, David and Khalaf-Allah, Marwa},
+  title   = {Backtesting Stochastic Mortality Models: An Ex Post Evaluation of Multi-Period-Ahead Density Forecasts},
+  journal = {North American Actuarial Journal},
+  year    = {2010},
+  volume  = {14},
+  number  = {3},
+  pages   = {281-298},
+  doi     = {10.1080/10920277.2010.10597592},
+  note    = {Proposes backtesting of stochastic mortality models against full forecast distributions.},
+}
+
+%% --------- COVID-19 IN MORTALITY PROJECTIONS ------
+
+@article{schnurch2022impact,
+  author  = {Schn\"{u}rch, Simon and Kleinow, Torsten and Korn, Ralf and Wagner, Andreas},
+  title   = {The Impact of Mortality Shocks on Modelling and Insurance Valuation as Exemplified by {COVID}-19},
+  journal = {Annals of Actuarial Science},
+  year    = {2022},
+  volume  = {16},
+  number  = {3},
+  pages   = {498-526},
+  doi     = {10.1017/S1748499522000045},
+  note    = {Assesses the effect of COVID-19 mortality on Lee-Carter projections and annuity values in nine European countries.},
+}
+
+@article{robben2022assessing,
+  author  = {Robben, Jens and Antonio, Katrien and Devriendt, Sander},
+  title   = {Assessing the Impact of the {COVID}-19 Shock on a Stochastic Multi-Population Mortality Model},
+  journal = {Risks},
+  year    = {2022},
+  volume  = {10},
+  number  = {2},
+  pages   = {26},
+  doi     = {10.3390/risks10020026},
+  note    = {Adds an explicit COVID-19 shock component to a multi-population stochastic mortality model.},
+}
+
+%% --------- ANNUITY MARKET AND PAYOUT-PHASE DESIGN ------
+
+@article{yaari1965uncertain,
+  author  = {Yaari, Menahem E.},
+  title   = {Uncertain Lifetime, Life Insurance, and the Theory of the Consumer},
+  journal = {The Review of Economic Studies},
+  year    = {1965},
+  volume  = {32},
+  number  = {2},
+  pages   = {137-150},
+  doi     = {10.2307/2296058},
+  note    = {Shows that full annuitisation is optimal under actuarially fair prices and no bequest motive.},
+}
+
+@article{finkelsteinpoterba2004adverse,
+  author  = {Finkelstein, Amy and Poterba, James},
+  title   = {Adverse Selection in Insurance Markets: Policyholder Evidence from the {U.K.} Annuity Market},
+  journal = {Journal of Political Economy},
+  year    = {2004},
+  volume  = {112},
+  number  = {1},
+  pages   = {183-208},
+  doi     = {10.1086/379936},
+  note    = {Provides evidence of adverse selection in the UK annuity market.},
+}
+
+%% --------- CENSUS / EXPOSURE-TO-RISK METHODOLOGY ------
+
+@techreport{wilmoth2025methods,
+  author      = {Wilmoth, John R. and Andreev, Konstantin and Jdanov, Dmitri and Glei, Dana A. and Riffe, Tim},
+  title       = {Methods Protocol for the Human Mortality Database (Version 6)},
+  institution = {Human Mortality Database, University of California, Berkeley and Max Planck Institute for Demographic Research},
+  year        = {2025},
+  month       = {August},
+  url         = {https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocolV6.pdf},
+  note        = {Human Mortality Database methods protocol, including old-age mortality closure.},
+}
+
+%% =============================================================
+%% ===================== PRIMARY SOURCES ========================
+%% =============================================================
+%% Citable primary sources for the data and results used in the analysis.
+%% Every file below is already in data/raw/ (SOURCES.csv has the individual
+%% provenance row); each local file (or, for zso2022, the live URL) was
+%% opened and parsed to confirm the fields.
+
+%% --------- MK PRIMARY LAW AND REGULATION ------
+
+@misc{zakonisplata2012,
+  author       = {{Собрание на РСМ}},
+  title        = {Закон за исплата на пензии и пензиски надоместоци од капитално финансирано пензиско осигурување - неофицијален консолидиран текст},
+  year         = {2012},
+  howpublished = {Службен весник на Република Македонија бр. 11/2012, 147/2015 и 30/2016; Службен весник на Република Северна Македонија бр. 103/2021 (консолидиран текст изготвен од МАПАС, мај 2021)},
+  url          = {https://mapas.mk/wp-content/uploads/2021/07/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD-%D0%B7%D0%B0-%D0%B8%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%B5%D0%BD%D0%B7%D0%B8%D0%B8-%D0%B8-%D0%BF%D0%B5%D0%BD%D0%B7%D0%B8%D1%81%D0%BA%D0%B8-%D0%BD%D0%B0%D0%B4%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8%D0%B4%D0%B8%D1%80%D0%B0%D0%BD-%D1%82%D0%B5%D0%BA%D1%81%D1%82-2021-maja.pdf},
+  note         = {Macedonian Law on Payment of Pensions and Pension Benefits from funded pension insurance (consolidated text).},
+  publisher = {Собрание на Република Северна Македонија}
+
+}
+
+@misc{mapas2022pravilniktablici,
+  author       = {{МАПАС}},
+  title        = {Правилник за правилата и минималните стандарди за таблиците на смртност},
+  year         = {2022},
+  howpublished = {Службен весник на РСМ бр. 177/2022, 8.8.2022; донесен врз основа на член 22 став (3) и член 63 став (3) од Законот за исплата на пензии и пензиски надоместоци од капитално финансирано пензиско осигурување (Сл. весник на РМ бр. 11/2012, 147/2015 и 30/2016 и Сл. весник на РСМ бр. 103/2021), на седница на 27.7.2022},
+  url          = {https://mapas.mk/wp-content/uploads/2022/10/pravilnik-za-pravilata-i-minimalnite-standardi-za-tabliczite-na-smrtnost.pdf},
+  note         = {MAPAS rulebook on minimum standards for mortality tables.},
+  publisher = {Агенција за супервизија на капитално финансирано пензиско осигурување, Совет на експерти}
+
+}
+
+@misc{mapas2022pravilnikkamatni,
+  author       = {{МАПАС}},
+  title        = {Правилник за правилата и минималните стандарди за определување на каматни стапки},
+  year         = {2022},
+  howpublished = {Службен весник на РСМ бр. 177/2022, 8.8.2022; донесен врз основа на член 22 став (7) и член 63 став (7) од Законот за исплата на пензии и пензиски надоместоци од капитално финансирано пензиско осигурување (Сл. весник на РМ бр. 11/2012, 147/2015 и 30/2016 и Сл. весник на РСМ бр. 103/2021), на седница на 27.7.2022},
+  url          = {https://mapas.mk/wp-content/uploads/2022/10/pravilnik-za-pravilata-i-minimalnite-standardi-za-opredeluvane-na-kamatni-stapki.pdf},
+  note         = {MAPAS rulebook on minimum standards for determining interest rates.},
+  publisher = {Агенција за супервизија на капитално финансирано пензиско осигурување, Совет на експерти}
+
+}
+
+@misc{zso2022,
+  author       = {{Собрание на РСМ}},
+  title        = {Закон за супервизија на осигурување - неофицијален пречистен текст},
+  year         = {2022},
+  howpublished = {Неофицијален пречистен текст hosted by АСО; incorporates Службен весник на РСМ бр.\ 27/02 through 173/2022 (full gazette chain confirmed in the document's own footnote 1, p.\ 1)},
+  url          = {https://aso.mk/wp-content/uploads/2020/02/zso-neoficijalen-precisten-so-173-2022.pdf},
+  note         = {Macedonian Law on Insurance Supervision (unofficial consolidated text), including the definition of insurance class 24.},
+  publisher = {Собрание на Република Северна Македонија}
+
+}
+
+%% --------- MK PRIMARY DATA/REPORTS ------
+
+@techreport{mapas2026izvestaj,
+  author       = {{МАПАС}},
+  title        = {Извештај за состојбите во капитално финансираното пензиско осигурување во 2025 година},
+  institution  = {МАПАС},
+  year         = {2026},
+  month        = {May},
+  address      = {Скопје},
+  url          = {https://mapas.mk/wp-content/uploads/2026/06/izvestaj-za-kfpo-2025_web.pdf},
+  note         = {MAPAS annual report on funded pension insurance for 2025.},
+}
+
+%% --------- EU / EIOPA ------
+
+@misc{ec2025delegated,
+  author       = {{European Commission}},
+  title        = {{Commission Delegated Regulation (EU) .../... amending Delegated Regulation (EU) 2015/35 as regards technical provisions, long-term guarantee measures, own funds, equity risk, spread risk on securitisation positions, other standard formula capital requirements, reporting and disclosure, proportionality and group solvency}},
+  year         = {2025},
+  month        = {October},
+  howpublished = {European Commission, C(2025) 7206 final/2, Brussels, 29.10.2025 (replaces C(2025) 7206 final of the same date - a numbering correction only, all language versions)},
+  url          = {https://ec.europa.eu/finance/docs/level-2-measures/solvency2-delegated-regulation-2025-7206_en.pdf},
+  note         = {Commission Delegated Regulation amending Delegated Regulation (EU) 2015/35.},
+}
+
+%% =============================================================
+%% ===================== LEGAL SOURCES CITED BY ARTICLE =========
+%% =============================================================
+%% Three legal sources cited by act and article in the paper text. All three are
+%% archived locally in data/raw/ and were checked against the archived
+%% files (OCR text / derived .txt) rather than re-fetched. URLs and access dates from
+%% data/raw/SOURCES.csv, not re-checked against the live web.
+
+@misc{aso2020tehnickirezervi,
+  author       = {{АСО}},
+  title        = {Правилник за минималните стандарди за пресметка на техничките резерви},
+  year         = {2020},
+  howpublished = {Службен весник на РСМ бр. 318/2020, 31.12.2020; донесен врз основа на член 158-ѕ точка 1) во врска со член 74 точка 5) од Законот за супервизија на осигурување, на седница на Советот на експерти на 22.12.2020},
+  url          = {https://aso.mk/wp-content/uploads/2021/01/pravilnik-tehichki-rezervi-sl-vesnik-318-2020.pdf},
+  note         = {ISA rulebook on minimum standards for calculating technical provisions.},
+  publisher = {Агенција за супервизија на осигурување, Совет на експерти}
+
+}
+
+@misc{sk2004zakon43,
+  author       = {{Národná rada Slovenskej republiky}},
+  title        = {Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov},
+  year         = {2004},
+  howpublished = {Consolidated ({\'u}pln{\'e} zn{\'e}nie) version in force from 1 January 2026, Slov-lex (Ministry of Justice of the Slovak Republic)},
+  url          = {https://www.slov-lex.sk/static/SK/ZZ/2004/43/20260101.html},
+  note         = {Slovak Act No. 43/2004 on old-age pension saving.},
+}
+
+@misc{hr2014zmod,
+  author       = {{Hrvatski sabor}},
+  title        = {Zakon o mirovinskim osiguravaju\'{c}im dru\v{s}tvima (Croatian Pension Insurance Companies Act)},
+  year         = {2014},
+  howpublished = {Unofficial consolidated text ({NN} 22/14, 29/18, 115/18, 156/23, 52/25) as published by the supervisor {HANFA}; unisex-pricing provisions cl. 105 and cl. 107},
+  url          = {https://www.hanfa.hr/media/xlyfowfa/zakon-o-mirovinskim-osiguravaju%C4%87im-dru%C5%A1tvima.pdf},
+  note         = {Croatian Act on Pension Insurance Companies (ZMOD).},
+}

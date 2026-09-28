@@ -1,0 +1,7 @@
+# Large generated files (recreated by scripts/run_all.sh)
+analysis/mortality/qx_sims_*.parquet
+analysis/mortality/*_reduced.parquet
+analysis/mortality/*.rds
+__pycache__/
+.Rhistory
+.RData

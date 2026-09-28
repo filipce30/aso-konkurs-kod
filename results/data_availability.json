@@ -1,0 +1,168 @@
+{
+  "aso_annual_report": {
+    "file": "data/raw/aso/webreportinscomp_mk_2025q4_20260210_012632.xlsx",
+    "found": true,
+    "notes": "Company-level and life/non-life aggregated xlsx for full-year 2025 downloaded directly (not a PDF narrative report). Contains capital, technical provisions, per-company figures.",
+    "year": 2025
+  },
+  "eiopa_rfr": {
+    "file": "data/raw/eiopa/EIOPA_RFR_20260831.zip",
+    "found": true,
+    "latest_month": "2026-08-31",
+    "notes": "September 2026 curve not published until 2026-10-05. ZIP contains 4 xlsx files; keep RFR_spot_no_VA EUR column from *_Term_Structures.xlsx."
+  },
+  "eurostat_deaths_single_age": {
+    "file": "data/raw/eurostat/demo_magec_MK.json",
+    "found": true,
+    "notes": "PRIMARY usable source for national D[x,t]. 2022 confirmed a GENUINE, complete MK reporting gap (0 of 103x3 age/sex cells populated for time=2022; checked with explicit time=2022 filter too). 2024 not yet populated. demo_mager (deaths by year-of-birth/age-reached, sex) ALSO has zero MK 2022 data (63 of 65 years present, same as demo_magec). demo_r_magec3 (regional, 5-yr age bands) also has no MK 2022. Only demo_mmonth (aggregate monthly deaths, no age/sex split) HAS 2022 for MK -- so MK reported aggregate 2022 death counts to Eurostat but not the age/sex breakdown. 2020-2021 show a visible COVID spike as a sanity check.",
+    "open_age": "Y_OPEN (~100+)",
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      1960,
+      2023
+    ]
+  },
+  "eurostat_life_tables": {
+    "file": "data/raw/eurostat/demo_mlifetable_MK.json",
+    "found": true,
+    "indicators": [
+      "DEATHRATE",
+      "LIFEXP",
+      "NUMBERDYING",
+      "PROBDEATH",
+      "PROBSURV",
+      "and 3 more"
+    ],
+    "notes": "Partial year coverage (gaps e.g. 2022). Usable for e0/e65 validation.",
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      1994,
+      2023
+    ]
+  },
+  "eurostat_population": {
+    "file": "data/raw/eurostat/demo_pjan_MK.json",
+    "found": true,
+    "notes": "NOT a revised/backcast series: level breaks from ~2.08M (2021) to 1.837M (2022) exactly at the census. Use only for 2022+ or as a cross-check; use MAKSTAT's revised series for 2003-2021.",
+    "open_age": "Y_OPEN (~100+)",
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      1960,
+      2025
+    ]
+  },
+  "legal_texts_archived": {
+    "files": [
+      {
+        "desc": "EU Delegated Regulation amending 2015/35, C(2025) 7206 final/2 (29.10.2025) -- CoC 4.75% (Art. 39) and risk-margin tapering factor max(0.96^t; 50%) (point 8), verified present in extracted text; applies from 30.01.2027",
+        "file": "data/raw/eu/solvency2-delegated-regulation-2025-7206_en.pdf",
+        "pages": 127
+      },
+      {
+        "desc": "MAPAS mortality-table bylaw, Sl. vesnik 177/2022",
+        "file": "data/raw/mapas/pravilnik-za-pravilata-i-minimalnite-standardi-za-tabliczite-na-smrtnost.pdf",
+        "pages": 2
+      },
+      {
+        "desc": "MAPAS interest-rate bylaw, Sl. vesnik 177/2022",
+        "file": "data/raw/mapas/pravilnik-za-pravilata-i-minimalnite-standardi-za-opredeluvane-na-kamatni-stapki.pdf",
+        "pages": 3
+      },
+      {
+        "desc": "Payout law consolidated text (MAPAS, maj 2021), consolidating Sl. vesnik 11/2012, 147/2015, 30/2016, 103/2021",
+        "file": "data/raw/mapas/zakon-za-isplata-na-penzii-konsolidiran-tekst-2021.pdf",
+        "pages": 39
+      }
+    ],
+    "found": true,
+    "notes": "Added 2026-09-22: 4 legal-text PDFs cited by research/legal/brief.md and by the annuity valuation. All downloaded, verified as genuine PDFs (pdfinfo page counts, not HTML error pages), and given SOURCES.csv rows."
+  },
+  "makstat_api_limits": {
+    "file": "data/raw/makstat/naselenie_tree.json",
+    "found": true,
+    "notes": "GET https://makstat.stat.gov.mk/PXWeb/api/v1/mk/?config (and /en/?config, identical): maxValues=1000, maxCells=100000, maxCalls=10, timeWindow=10 (seconds -- i.e. rate limit is 10 calls per 10s window; exceeding it returns HTTP 429 {\"error\":\"429 - Too many requests in too short timeframe...\"}, distinct from the 400 errors). A query that sends filter='all' (values=['*']) on every dimension of a wide table (e.g. cause-of-death x sex x age x year) is rejected with a plain HTTP 400 once implied cell count is too large or too many dimensions are unrestricted -- confirms that at least one dimension must be restricted (filter='item' with explicit values) per POST query. scripts/fetch/makstat_chunked.py implements this via a 'restrict-one-dimension' helper (fetch_data_restricted) and a generic one-year-at-a-time loop (fetch_chunked_by_year) for any future wider table."
+  },
+  "makstat_deaths_single_age": {
+    "file": "data/raw/makstat/deaths_age_sex_school_national_2010_2025.json",
+    "found": false,
+    "notes": "RE-RETRY (full-tree sweep, 2026-09-22), per author's hint that the API needs >=1 dimension restricted per request (config: maxValues=1000, maxCells=100000, maxCalls=10/10s -- see makstat_api_limits): enumerated the ENTIRE MakStat/Naselenie tree (10 top folders, ~90 tables total; see data/raw/makstat/naselenie_tree.json) and pulled metadata for every one of the 9 tables in Naselenie/Vitalna whose title mentions umreni/smrt (data/raw/makstat/deaths_candidates_metadata.json). Result unchanged but now exhaustively evidenced: the finest age granularity on ANY MAKSTAT deaths table (national or by municipality) is 55-64/65-74/75-84/85+ broad bands (tables 695_VItStat_Umr_Voz_Pol_Skolo_ml.px, 700_VitStat_Umr_zan_pol_voz_ml.px, 670_VitStat_Umr_Etn_Voz_Pol_ml.px, 125_Vit_mk_Umreni_ml.px). No table -- national or municipal -- crosses single-year age with sex. Also checked the population-estimates folder (ProcenkiNaselenie/*) for a vital-components/deaths table: none exists there either, only population stocks. Downloaded the 3 best broad-age x sex national tables anyway (school/occupation/ethnicity held at 'Total') as the closest domestic cross-check to Eurostat demo_magec. confirmed NOT AVAILABLE on MAKSTAT PXWeb at single-year granularity; this is not an API-quirk artifact -- see makstat_tree_enumerated for the full evidence trail.",
+    "sex_split": false,
+    "single_age": false
+  },
+  "makstat_life_tables": {
+    "file": "data/raw/makstat/mortality_tables/MortalitetniTablici2023-2025.xlsx",
+    "found": true,
+    "notes": "Downloaded 2026-09-22. The MortalitetniTablici folder returns HTTP 400 on the API (GET .../api/v1/mk/MakStat/Naselenie/MortalitetniTablici, both with/without trailing slash and on /en/ -- genuine broken folder, distinct from the max-cells 400; see makstat_tree_enumerated) -- but this folder holds STATIC files, not PXWeb query tables, so the folder-listing endpoint is simply the wrong access method for this node. The JS-rendered web UI page lists 13 rolling 3-year abridged period life tables 'Морталитетни таблици 2011-2013' ... '2023-2025', each single year of age 0-99 (99+ open interval, qx=1 at age 99), sex-split into 3 sheets (VKUPNO/MAZI/ZENI), columns mx/qx/px/lx/dx/Lx/Tx/ex. A first download attempt returned 404 because it assumed every vintage is a .xls; in fact the 2020-2022, 2021-2023, 2022-2024 and 2023-2025 vintages are .xlsx (only 2011-2013 through 2019-2021 are .xls). All 13 files downloaded and verified as real Excel binaries (not HTML error pages) at data/raw/makstat/mortality_tables/. 2022-2024 table's window includes the Eurostat 2022 gap year. Latest vintage e0: total ~77.10, men ~75.05, women ~79.20 (file content, not yet a results/ number). Eurostat demo_mlifetable remains useful as an independent cross-check, not a substitute.",
+    "open_age": "99+",
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      2011,
+      2025
+    ]
+  },
+  "makstat_population_prerevision": {
+    "file": "data/raw/makstat/population_prerevision_30jun_1994_2020.json",
+    "found": true,
+    "notes": "Pre-revision (Census-2002-based) vintage IS published directly on MAKSTAT PXWeb, both 30 June and 31 December. No need to dig into archived yearbooks. Enables the census-bias (Delta e65) section.",
+    "open_age": "99+ (plus a separate 'unknown age' bucket)",
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      1994,
+      2020
+    ]
+  },
+  "makstat_population_revised": {
+    "file": "data/raw/makstat/population_revised_1jan_2003_2021.json",
+    "found": true,
+    "notes": "Revised series only goes back to 2003, not 2002. Files: population_revised_1jan_2003_2021 (2003-2021), population_current_30jun_2021_2025 and population_current_31dec_2021_2025 (2021-2025) extend it forward.",
+    "open_age": "100+",
+    "sex_split": true,
+    "single_age": true,
+    "vintage": "30 June and 1 January and 31 December, all post-Census-2021 revision",
+    "years": [
+      2003,
+      2025
+    ]
+  },
+  "makstat_projections": {
+    "file": "data/raw/makstat/population_projections_2022_2070.json",
+    "found": true,
+    "sex_split": true,
+    "single_age": true,
+    "years": [
+      2022,
+      2070
+    ]
+  },
+  "makstat_tree_enumerated": {
+    "file": "data/raw/makstat/naselenie_tree.json",
+    "found": true,
+    "notes": "Full API walk of MakStat/Naselenie (2026-09-22): 10 top-level folders (VencaniRazvedeni, Vitalna [61 tables], VnatresniMigracii, NadvoresniMigracii, ProcenkiNaselenie, PolindikatorNaselenie, DetPod, PrethodniKavrtalni, Proekcii, MortalitetniTablici) plus every nested subfolder found (migration sub-branches, ProcenkiPopis2021/2002Arhiva and their Proceni30Juni/31Dekemvri/Revidirani children, DetPod1-5). Two genuinely broken access points confirmed by retrying with trailing slash AND /en/ locale (both failed both ways, plain HTML 'Bad Request', not the JSON max-cells error): (1) the MortalitetniTablici folder listing itself -- worked around via the web UI + static file URLs (see makstat_life_tables); (2) all 5 DetPod1-5 subfolders (DetPod2 was already known to be broken; DetPod1/3/4/5 are broken too, i.e. the entire 'Табели во соопштение' press-release-tables branch is unreachable via the REST API). Neither problem affects data availability: DetPod's tables are known to redirect to tables already reachable directly under Vitalna, and MortalitetniTablici's files are reachable via their static URLs. Full tree saved to data/raw/makstat/naselenie_tree.json (ids, texts, updated timestamps, api_limits, and the broken_folders list with exact URLs/status/body)."
+  },
+  "mapas_balances_by_age": {
+    "file": "data/raw/mapas/izvestaj-kfpo-2025.pdf",
+    "found": false,
+    "member_counts_by_age": true,
+    "notes": "The 2025 annual report (izvestaj-kfpo-2025.pdf) has member-count structure by age band and sex (charts 5.3 mandatory+voluntary, 6.4 third pillar) and average member age by sex/category (e.g. mandatory members average age 37). Full text search found NO average account balance / accumulated savings by age group anywhere in the report. MAPAS-STAT (mapas.mk/mapastat) exposes membership and payout data as embedded Metabase BI dashboards (JS-rendered, signed short-lived JWT iframe tokens) that were not further reverse-engineered. Fallback: a documented accumulation model is used instead of balances by age."
+  },
+  "mapas_payout_type_split": {
+    "file": "data/raw/mapas/izvestaj-kfpo-2025.pdf",
+    "found": "partial",
+    "notes": "Report and MAPAS-STAT both have a 'Надоместоци во втор столб' (2nd-pillar payouts) section/dashboard; whether it splits programmed withdrawal vs annuity counts was not verified line-by-line -- to be checked inside the downloaded PDF."
+  },
+  "nbrsm_gdp": {
+    "file": "data/raw/nbrsm/Osnovni_makroek_indikatori_mak.xlsx",
+    "found": true,
+    "notes": "Basic macroeconomic indicators xlsx (includes nominal GDP series) downloaded from nbrm.mk."
+  },
+  "nbrsm_yields": {
+    "file": "data/raw/nbrsm/nbrm_drzavni_obvrznici_archive.xlsx",
+    "found": true,
+    "notes": "Downloaded 2026-09-22. The 'Аукции на државни обврзници' page embeds an iframe app at app.nbrm.mk/FPWeb/DZWeb/AuctionsDO (Ministry of Finance auction system, hosted under the nbrm.mk domain). Its 'Архива на одржани аукции' (Archive) page has a 'Прикажи во Excel' export at https://app.nbrm.mk/FPWeb/DZWeb/Reports/ArchiveReportDO -- a genuine xlsx (content-type application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, served with a misleading .xls-looking report name; saved with .xlsx extension) with every MKD government bond auction since 2005-11-24: auction no., settlement date, maturity date, offer/demand/allotment (MKD), coupon rate, and min/max/weighted-average rate for competitive tenders. 497 auction rows. Longest recent tenor is 15y (e.g. DO2026/20-0941, settled 17.09.2026, matures 17.09.2041, coupon/yield 5.200%, sold at par with full allotment == offer == demand, so coupon rate = yield at issue). This covers the domestic 5y+ tenor needed for the MAPAS 2022 interest-rate bylaw cap. NBRSM GDP file (nbrsm_gdp key) still holds the separate macro-indicators source."
+  }
+}

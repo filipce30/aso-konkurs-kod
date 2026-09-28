@@ -1,0 +1,322 @@
+
+ Pravilnik o minimalnim standardima koji se primjenjuju u postupku obračuna tehničkih pričuva mirovinskog osiguravajućeg društva
+ Upute za korištenje 
+ Elektronička pošta 
+ Početna stranica 
+ Pravilnik o minimalnim standardima koji se primjenjuju u postupku obračuna tehničkih pričuva mirovinskog osiguravajućeg društva
+ NN 20/2024 (21.2.2024.), Pravilnik o minimalnim standardima koji se primjenjuju u postupku obračuna tehničkih pričuva mirovinskog osiguravajućeg društva
+ Hrvatska agencija za nadzor financijskih usluga
+ 325
+ Na temelju članka 85. stavka 2. i članka 98. stavka 4. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, 29/18, 115/18), Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 14. veljače 2024. godine donosi
+ PRAVILNIK
+ O MINIMALNIM STANDARDIMA KOJI SE PRIMJENJUJU U POSTUPKU OBRAČUNA TEHNIČKIH PRIČUVA MIROVINSKOG OSIGURAVAJUĆEG DRUŠTVA
+ Uvodne odredbe
+ Članak 1.
+ (1) Ovim Pravilnikom propisuju se: minimalni standardi koji se primjenjuju u postupku obračuna tehničkih pričuva, poslovi imenovanog ovlaštenog aktuara, minimalni sadržaj Izvješća i mišljenja imenovanog ovlaštenog aktuara, obveze mirovinskog osiguravajućeg društva vezano za poslove imenovanog ovlaštenog aktuara, interni akti vezano za tehničke pričuve, obveza ažuriranja internih akta, način dokumentiranja obračuna tehničkih pričuva, pripadajuće kontrole, mišljenje nezavisnog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva prilikom revizije, posebni standardi i minimalni standardi koji se odnose na postupke u vezi s vrednovanjem prema MSFI 17 i literatura koja se smatra standardnom po pitanju tehničkih pričuva.
+ (2) Za potrebe ovog Pravilnika koriste se sljedeći pojmovi:
+ 1. Zakon – važeći Zakon o mirovinskim osiguravajućim društvima,
+ 2. Hanfa – istovjetno značenje kao i pojam Agencija u Zakonu,
+ 3. Društvo – istovjetno značenje kao i pojam mirovinskog osiguravajućeg društva u Zakonu,
+ 4. Aktuar – osoba koja obavlja aktuarske poslove, neovisno o tome je li imenovani ovlašteni aktuar ili nezavisni ovlašteni aktuar
+ 5. Ovlašteni aktuar – istovjetno značenje kao u Zakonu,
+ 6. Imenovani ovlašteni aktuar – istovjetno značenje kao u Zakonu,
+ 7. Izvješće – izvješće aktuarske funkcije s mišljenjem imenovanog ovlaštenog aktuara o oblikovanju mirovina te mirovinskih programa i tehničkih pričuva iz članka 99., a u vezi s člankom 56. stavkom 3. i članka 81.a stavak 1. Zakona
+ 8. Nezavisni ovlašteni aktuar – je osoba definirana člankom 5. stavku 4. Pravilnika o reviziji u mirovinskom osiguravajućem društvu, uz uvjet da ista nije zaposlena odnosno ne obavlja poslove imenovanog ovlaštenog aktuara ili neke druge funkcije u Društvu ili u povezanoj osobi Društva u skladu sa člankom 3. točkom 32. Zakona, čiji su izvještaji predmet revizije,
+ 9. Tehničke pričuve – istovjetno značenje kao u Zakonu
+ 10. Stručna prosudba – prosudba aktuara, temeljena na aktuarskom ili drugom relevantnom osposobljavanju i iskustvu, a vezana za standarde i kodeks ponašanja aktuarske struke
+ 11. Priznati aktuarski postupci – aktuarski postupci koji su u skladu sa Zakonom i ovim Pravilnikom, te akturskim standardima i pravilima aktuarske struke, a osobito »Minimalni standardi koje aktuar treba primjenjivati kod obavljanja aktuarskih poslova« i »Posebni standardi koji se odnose na vrednovanje vezano za MSFI 17« navedeni u prilogu ovoga Pravilnika,
+ 12. Datum vrednovanja – datum na koji se odnose obračuni tehničkih pričuva,
+ 13. MSFI 17 – Međunarodni standard za financijsko izvještavanje Ugovora o osiguranju koji utvrđuju načela priznavanja, mjerenja, prezentiranja i objavljivanja ugovora o osiguranju obuhvaćenih tim standardom.
+ (3) Sastavni dio ovoga Pravilnika čine Prilog I i Prilog II ovoga Pravilnika.
+ Tehničke pričuve
+ Članak 2.
+ (1) Društvo je dužno oblikovati tehničke pričuve, u skladu s predmetom poslovanja koje obavlja, odnosno u skladu s preuzetim obvezama iz ugovora o mirovinama, a koje obveze se dijele na:
+ – obveza za nastale štete (LIC)
+ – obveza za preostalo pokriće (LRC)
+ (2) Obveza za nastale štete (LIC) iz stavka 1. ovoga članka je bilančna pozicija koja obuhvaća:
+ Iznos obveza po mirovinama za slučajeve koji su se već dogodili, a ispunjeni su uvjeti predviđeni Zakonom i ugovorenim mirovinskim programom, te isplata iznosa koji se odnose na usluge iz ugovora o mirovinama koje su već pružene ili sve komponente ulaganja ili druge iznose koji nisu povezani s pružanjem usluga iz ugovora o mirovinama i koji nisu u obvezi za preostalo pokriće.
+ (3) Obveza za preostalo pokriće (LRC) iz stavka 1. ovoga članka je bilančna pozicija koja obuhvaća:
+ Iznos svih budućih obveza koje proizlaze na temelju postojećih ugovora o mirovinama i iz obavljanja drugih poslova vezanih za poslove mirovinskog osiguranja iz članka 9. stavka 1. točke 5. Zakona u skladu s posebnim propisima koji uređuju te poslove kao i druge iznose koji nisu povezani s pružanjem usluga iz ugovora o mirovinama i koji nisu preneseni u obveze za nastale štete.
+ (4) Društvo u okviru tromjesečnog i godišnjeg izvještaja iskazuje strukturu tehničkih pričuva koje moraju biti potvrđene od strane imenovanog ovlaštenog aktuara, a prema obrascima definiranim u važećem Pravilniku o strukturi i sadržaju financijskih i dodatnih izvještaja mirovinskog osiguravajućeg društva.
+ (5) Društvo je dužno propisati, primjenjivati, dokumentirati i redovito ažurirati odgovarajuće, učinkovite i sveobuhvatne politike i postupke odnosno interne akte za oblikovanje i vrednovanje tehničkih pričuva i to odvojeno za ugovore iz obveznog mirovinskog osiguranja za ugovore iz dobrovoljnog mirovinskog osiguranja na temelju doznaka iz otvorenih dobrovoljnih mirovinskih fondova i izravnih jednokratnih uplata osoba u društvo, za ugovore dobrovoljnog mirovinskog osiguranje na temelju doznaka iz zatvorenih dobrovoljnih mirovinskih fondova kao i za ugovore za druge poslove vezane za poslove mirovinskog osiguranja iz članka 9. stavak 1. točke 5. Zakona.
+ (6) Društvo je dužno minimalno jednom godišnje pregledati i po potrebi ažurirati politike i postupke odnosno interne akte iz stavka 5. ovog članka radi usklađenosti sa svim primjenjivim zakonima i propisima, ostalim odgovarajućim internim aktima Društva te stvarnom primjenom.
+ Obveze Društva vezano za poslove imenovanog
+ ovlaštenog aktuara
+ Članak 3.
+ (1) Društvo je dužno najmanje 6 mjeseci prije kraja tekuće poslovne godine imenovati ovlaštenog aktuara koji će dati mišljenje o pouzdanosti i primjerenosti tehničkih pričuva za tekuću poslovnu godinu.
+ (2) Uprava Društva dužna je imenovanom ovlaštenom aktuaru osigurati uvjete za učinkovito obavljanje poslova te staviti na raspolaganje sve podatke koji su mu potrebni za obavljanje poslova iz članka 4. ovog Pravilnika.
+ (3) U skladu s člankom 49. stavkom 2. Zakona, Društvo je dužno unutar sustava upravljanja donijeti i ugraditi pisane politike, procese i procedure koje koristi za ispunjenje zahtjeva iz glave VIII. Zakona, a koji obuhvaćaju i zahtjeve ovog Pravilnika.
+ (4) Uprava Društva dužna je uspostaviti procese i odgovornosti u Društvu na način da nadležne organizacijske jedinice za pojedine segmente poslovanja (primjerice za troškove, diskontne stope i sl.) pravovremeno osiguraju pristup i dostave imenovanom ovlaštenom aktuaru potrebne podatke, informacije, obrazloženja, očitovanja te pretpostavke potrebne za izračun obaveza i provedbu aktuarskih poslova osobito vezano uz postupke u pogledu vrednovanja prema MSFI 17 iz Priloga II – Posebni standardi koji se odnose na postupke u vezi s vrednovanjem prema MSFI 17 i vezano uz koje je imenovani ovlašteni aktuar dužan razmatrati, uzeti u obzir, provjeravati te provoditi u skladu s točkom 6. Principa vezanih za pretpostavke i metodologije iz Priloga I – Minimalni standardi koje aktuar primjenjuje kod obavljanja aktuarskih poslova.
+ (5) Uprava Društva dužna je poduzeti mjere radi usklađivanja poslovanja sukladno Izvješću.
+ (6) Društvo je dužno dostaviti Hanfi Izvješće u roku od 14 dana od dana podnošenja revizorskog izvješća koje se podnosi najkasnije u roku od četiri mjeseca od isteka poslovne godine na koju se odnose godišnji financijski izvještaji.
+ (7) Izvješće i mišljenje iz stavka 6. ovog članka dostavlja se Hanfi u skladu s tehničkom uputom Hanfe.
+ (8) Iznimno od stavka 6. ovog članka, u skladu sa člankom 141. Zakona, Društvo je dužno na zahtjev Hanfe dostaviti Izvješće u roku i na način koji odredi Hanfa.
+ Poslovi nositelja aktuarske funkcije odnosno imenovanog ovlaštenog aktuara
+ Članak 4.
+ Nositelj aktuarske funkcije odnosno imenovani ovlašteni aktuar dužan je obavljati poslove u skladu s odredbama Zakona, propisa donesenih na temelju Zakona te drugih važećih primjenjivih propisa i pravila aktuarske struke te aktuarskih standarda, a osobito izraditi Izvješće koje obuhvaća:
+ – Mišljenje o pouzdanosti i primjerenosti tehničkih pričuva koje obuhvaća i izvješće o kontroli ispravnosti obračuna pričuva,
+ – Mišljenje o oblikovanju mirovina te mirovinskih programa u poslovnoj godini za koju je izrađeno godišnje izvješće,
+ – Mišljenje imenovanog ovlaštenog aktuara o višku sredstava.
+ Mišljenje imenovanog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva
+ Članak 5.
+ (1) Obračun tehničkih pričuva obavlja se na temelju priznatih aktuarskih postupaka te u skladu s odredbama ovoga Pravilnika te Priloga I i Priloga II ovoga Pravilnika.
+ (2) Imenovani ovlašteni aktuar dužan je dati mišljenje o pouzdanosti i primjerenosti tehničkih pričuva u Mišljenju imenovanog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva. Mišljenje imenovanog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva može biti pozitivno mišljenje, mišljenje uz ograde ili negativno mišljenje.
+ (3) Imenovani ovlašteni aktuar dužan je obrazložiti razloge davanja pozitivnog mišljenja, mišljenja uz ograde ili negativnog mišljenja, koje treba detaljno opisati u izvješću.
+ (4) Mišljenje i izvješće imenovanog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva sastavni je dio godišnjeg izvješća Društva.
+ (5) Odredbe ovog članka na odgovarajući se način primjenjuju prilikom izrade Mišljenja imenovanog ovlaštenog aktuara o višku sredstava.
+ Mišljenje imenovanog ovlaštenog aktuara o oblikovanju mirovina te mirovinskih programa
+ Članak 6.
+ (1) Oblikovanje mirovina i mirovinskih programa mora biti u skladu s aktuarskom strukom, važećim propisima te ugovorene mirovine koje su zaključene tijekom poslovne godine moraju biti takve da su uplaćene doznake i jednokratne uplate dovoljne da na temelju razumnih aktuarskih pretpostavki omogućuju trajno ispunjavanje svih obveza Društva iz ugovora o mirovinama, a posebno oblikovanje pouzdanih i primjerenih tehničkih pričuva.
+ (2) Unutar sustava upravljanja rizicima vezano za područje preuzimanje rizika važno je oblikovanje mirovina i mirovinskih programa kako bi se omogućilo trajno ispunjavanja svih obveza Društva iz ugovora o mirovinama.
+ (3) Društvo je prema MSFI 17 dužno portfelj izdanih ugovora o mirovinama podijeliti najmanje na: skupinu ugovora o mirovinama koji su neprofitabilni (engl. onerous) pri početnom priznavanju, ako postoje, skupinu ugovora o mirovinama za koje pri početnom priznavanju ne postoji znatna mogućnost da će naknadno postati neprofitabilni, ako postoje te skupinu ostalih ugovora o mirovinama, ako postoje.
+ (4) Društvo je dužno bez obzira na pristup mjerenju, utvrditi postoji li znatna mogućnost da ugovori o mirovinama koji pri početnom priznavanju nisu neprofitabilni naknadno postanu neprofitabilni. Istomu treba pristupiti procjenjivanjem vjerojatnosti promjena pretpostavki koje bi, ako dođe do negativne realizacije, dovele do neprofitabilnosti ugovora te na temelju podataka o procjenama činjenica i okolnosti iz internih izvještaja Društava koje bi, ako dođe do negativne realizacije, dovele do neprofitabilnosti ugovora.
+ (5) Imenovani ovlašteni aktuar dužan je provjeriti je li Društvo ispunilo sve što propisuje MSFI 17 vezano za razinu objedinjavanja ugovora o mirovinama u okviru provjere oblikovanja mirovina i mirovinskih programa.
+ (6) Imenovani ovlašteni aktuar dužan je provjeriti oblikovanje mirovina i mirovinskih programa te dostaviti Mišljenje imenovanog ovlaštenog aktuara o oblikovanju mirovina i mirovinskih programa u skladu s člankom 99. Zakona. Mišljenje imenovanog ovlaštenog aktuara o oblikovanju mirovina i mirovinskih programa može biti pozitivno mišljenje, mišljenje uz ograde ili negativno mišljenje.
+ (7) Imenovani ovlašteni aktuar dužan je obrazložiti razloge davanja pozitivnog mišljenja, mišljenja uz ograde ili negativnog mišljenja, koje treba detaljno opisati u izvješću.
+ (8) Izvješće s mišljenjem imenovanog ovlaštenog aktuara o oblikovanju mirovina i mirovinskih programa dostavlja se uz godišnje izvješće Društva.
+ Mišljenje nezavisnog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva prilikom revizije
+ Članak 7.
+ (1) Postupak provjere i ocjene stanja i promjena tehničkih pričuva za potrebe vanjske revizije obavlja nezavisni ovlašteni aktuar na temelju priznatih aktuarskih postupaka.
+ (2) Mišljenje nezavisnog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva mora obuhvaćati ocjenu pouzdanosti i primjerenosti tehničkih pričuva te razloge za pozitivno mišljenje, mišljenje uz ograde, odnosno negativno mišljenje, uz detaljne opise i obrazloženja u izvješću nezavisnog ovlaštenog aktuara.
+ (3) Mišljenje i izvješće nezavisnog ovlaštenog aktuara o pouzdanosti i primjerenosti tehničkih pričuva sastavni je dio Revizorskog izvješća o obavljenoj reviziji za potrebe Hanfe u dijelu Izvještaja o stanju i promjenama tehničkih pričuva.
+ (4) Odredbe ovog Pravilnika te odredbe Priloga I i Priloga II ovoga Pravilnika na odgovarajući način primjenjuju se na postupanje nezavisnog ovlaštenog aktuara.
+ (5) Odredbe ovog članka na odgovarajući se način primjenjuju prilikom izrade Mišljenja nezavisnog ovlaštenog aktuara o višku sredstava.
+ Primjena minimalnih standarda koje aktuar primjenjuje kod obavljanja aktuarskih poslova i primjena posebnih standarda koji se odnose na postupke u vezi s vrednovanjem prema MSFI 17
+ Članak 8.
+ (1) Aktuarski poslovi na koje se odnose minimalni standardi propisani Prilogom I ovog Pravilnika, su oblikovanje tehničkih pričuva, oblikovanje mirovine i mirovinskih programa te utvrđivanje viška sredstava.
+ (2) Aktuarski poslovi na koje se odnose posebni standardi propisani Prilogom II ovoga Pravilnika su standardi koji se odnose na postupke u vezi s vrednovanjem prema MSFI 17.
+ Završne odredbe
+ Članak 9.
+ (1) Stupanjem na snagu ovog Pravilnika prestaje vrijediti Pravilnik o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva mirovinskog osiguravajućeg društva (»Narodne novine« broj 98/2014, 45/2016, 42/2017 i 146/2022).
+ (2) Ovaj Pravilnik prvi put se primjenjuje na sastavljanje i dostavljanje izvještaja na 31. 12. 2023. godine.
+ Članak 10.
+ Ovaj Pravilnik stupa na snagu u roku od osam dana od dana objave u »Narodnim novinama«.
+ Klasa: 011-01/24-11/01
+ Urbroj: 326-01-70-72-24-1
+ Zagreb, 14. veljače 2024.
+ Predsjednik
+ Upravnog vijeća
+ dr. sc. Ante Žigman, v. r.
+ PRILOG I
+ MINIMALNI STANDARDI KOJE AKTUAR PRIMJENJUJE KOD OBAVLJANJA AKTUARSKIH POSLOVA
+ 1. Zahtjevi vezani uz obavljanje poslova Aktuara
+ (1) Za obavljanje poslova Aktuara:
+ i. Uprava Društva dužna je osigurati jamstvo u pogledu vremena, resursa, pristupa relevantnim zaposlenicima i drugim relevantnim stranama, pristupa dokumentaciji i informacijama koji su potrebni za obavljanje aktuarskog posla
+ ii. aktuarski posao treba obavljati prema važećem kodeksu profesionalnog ponašanja, koje je donijela relevantna međunarodna, odnosno europska aktuarska udruga.
+ (2) Aktuar treba raspolagati dovoljnim znanjima i razumijevanjem informacija potrebnih za obavljanje aktuarskog posla, najmanje za slijedeća područja u dijelu vrednovanja tehničkih pričuva:
+ – međunarodni standard financijskog izvještavanja – MSFI 17,
+ – primjenjivi dijelovi drugih relevantnih MSFI,
+ – računovodstvene politike Društva i relevantni postupci koji se primjenjuju pri izradi financijskih izvještaja prema MSFI,
+ – poslovno okruženje u kojem Društvo posluje, uključujući financijska tržišta s kojih prikuplja podatke,
+ – sklonost Društva da preuzme rizike koji utječu na mjerenje u okviru MSFI-ja 17,
+ – proizvodi i način poslovanja Društva,
+ – metodologija i pretpostavke koje Društvo koristi i u drugim poslovima npr. kod oblikovanja jediničnih iznosa mirovina i zajamčenih isplata kao i obrazloženja razlika u odnosu na metodologiju i pretpostavke korištene u oblikovanju obveza iz ugovora o mirovinama Društva,
+ – poznavanje zakona i propisa te njihov utjecaj na primjenu ­MSFI-ja 17.
+ (3) Uz uvjete propisane stavkom (2) Nezavisni ovlašteni aktuar dužan je imati dovoljno znanja i razumijevanja ostalih relevantnih revizijskih standarda potrebnih za izradu Mišljenja i izvještaja u sklopu Revizijskog izvještaja Društva te iste primjenjivati u skladu sa Zakonom i u skladu s propisima koji uređuju reviziju godišnjih financijskih izvještaja i godišnjih konsolidiranih financijskih izvještaja Društva.
+ 2. Materijalnost/Značajnost
+ U slučaju izostavljenih informacija odnosno umanjenog ili uvećanog prikazivanja relevantnih financijskih stavki vezanih za tehničke pričuve, Aktuar treba procijeniti je li njihov učinak materijalan. Ukoliko je učinak bilo koje od tih pojava materijalan, Aktuar je dužan isto objaviti u svakom izvješću za koji je to relevantno.
+ Koncept materijalnosti trebao bi se primjenjivati i na kvalitetu podataka, modele, pretpostavke i metode obračuna te analizu rezultata aktuarskog posla. Prag materijalnosti, u skladu s kojim se posao obavlja, određuje Aktuar, a usuglašava ga s Upravom Društva ili drugim tijelom koji je Uprava Društva imenovala za isto. Prag materijalnosti Aktuar treba dostatno obrazložiti i dokumentirati zajedno s procjenom utjecaja.
+ 3. Proporcionalnost
+ Aktuar treba uzeti u obzir značajnost, odnosno, razinu detaljnosti i osjetljivosti u procjenjivanju kvalitete specifičnih modela, pretpostavki ili metoda koje odredi. Modeli, pretpostavke ili metode koju Aktuar određuje trebaju biti proporcionalni profilu rizika Društva, uzimajući u obzir prirodu, opseg i složenost rizika kao i mogući utjecaj na rezultate aktuarskog posla.
+ 4. Stručna prosudba
+ Kad koristi stručnu prosudbu, Aktuar mora obrazložiti i opravdati prikladnost, pouzdanost i razumnost stručne prosudbe radi otklanjanja pristranosti procjene, koja može dovesti do podcjenjivanja ili precjenjivanja stvarnog rizika. Također, Aktuar mora provesti analizu osjetljivost utjecaja stručne prosudbe na rezultate aktuarskog posla, pri čemu isto treba biti dokumentirano i obrazloženo.
+ 5. Kvaliteta podataka
+ (1) Aktuar treba razmotriti jesu li dostupni podaci dostatni i pouzdani za obavljanje aktuarskog posla. Podaci su dostatni ako uključuju odgovarajuće i prikladne informacije za obavljanja aktuarskog posla odnosno ako su prikladni za namjeravanu svrhu (npr. postavljanje pretpostavki, oblikovanje tehničkih pričuva) i relevantni za portfelj koji se analizira.
+ Podaci su pouzdani ako su u značajnoj mjeri točni. Točnost znači da podaci ne bi trebali sadržavati materijalne pogreške i nedostatke, kako bi se osigurala visoka razina povjerenja u podatke. Ako dostupni podaci nisu dostatni i pouzdani, Aktuar treba postupiti u skladu s stavkom (5) ove točke.
+ (2) Aktuar treba poduzeti radnje vezano uz validaciju podataka radi provjere usklađenosti, potpunosti, vjerodostojnosti i točnosti korištenih podataka. To može uključivati:
+ a. usklađenja u odnosu na revidirana financijska izvješća, bruto bilancu ili druge relevantne izvještaje,
+ b. provjeru podataka u smislu razumnosti u odnosu na vanjske ili neovisne podatke,
+ c. provjeru podataka u smislu interne usklađenosti ili usklađenosti s drugim relevantnim informacijama,
+ d. usporedbu podataka s podacima za prethodno razdoblje/prethodna razdoblja.
+ Provjeru vezanu uz validaciju podataka Aktuar treba opisati u izvješću pri čemu provjera mora biti dokumentirana i temeljena na dokazima da su validacije provedene.
+ (3) Pri određivanju pretpostavki, Aktuar treba razmotriti korištenje vlastitih podataka, specifičnih za Društvo, ako su mogući i prikladni. Ako takvi podaci nisu dostupni, relevantni ili dovoljno pouzdani, Aktuar treba razmotriti korištenje vjerodostojnih vanjskih podataka tržišta, podatke iz drugih usporedivih izvora, podatke o stanovništvu ili druge objavljene podatke prilagođene na odgovarajući način. Korišteni podaci i izvršene prilagodbe trebaju biti dokumentirani i opisani u Izvješću, uz dokumentiranu procjenu razumnosti i prikladnosti korištenih podataka i izvršenih prilagodbi.
+ (4) Aktuar treba popisati sve izmjene podataka i dijelove obrade podataka (poput interpolacije, ekstrapolacije, prilagodbe ili isključivanja ekstremnih vrijednosti i sl.) u Izvješću. Prije primjene izmjene podataka potrebno je provesti i dokumentirati sve potrebne analize (aktuarske analize, analize osjetljivosti) kako bi se opravdala i obrazložila izmjena podataka.
+ (5) Aktuar treba razmotriti mogući učinak bilo kakvih nedostataka u podacima (poput neprikladnosti, neusklađenosti, nepotpunosti, netočnosti i nedostatka logičnosti) na rezultate aktuarskog posla. Ako takvi nedostaci vjerojatno neće materijalno utjecati na rezultate, ne moraju se dodatno razmatrati, no za isto treba postojati dokumentirano obrazloženje.
+ Ako Aktuar ne može pronaći zadovoljavajući način za uklanjanje nedostataka u podacima treba provesti sljedeće korake:
+ a. obavijestiti upravu Društva i dogovoriti plan aktivnosti na otklanjanju nedostataka,
+ b. uz uvjet usklađenosti s važećem kodeksom profesionalnog ponašanja koje je donijela relevantna međunarodna, odnosno europska aktuarska udruga, provesti aktuarski posao na najbolji mogući način te objaviti nedostatke u podacima u Izvješću uključujući zaključak o potencijalnom učinku tih nedostataka u podacima.
+ 6. Principi vezani uz pretpostavke i metodologije
+ (1) Aktuar treba odabrati pretpostavke i metodologiju koje su adekvatne za obavljanje aktuarskog posla. Pri odabiru pretpostavki i metodologije aktuar treba uzeti u obzir okolnosti i činjenice povezane s Društvom, kao i relevantne profesionalne prakse i opće prihvaćene tržišne prakse. Aktuar treba razmotriti u kojoj je mjeri prikladno prilagoditi pretpostavke i/ili metodologiju kako bi se kompenzirali nedostaci u dostupnim podacima te u kojoj je mjeri prikladno koristiti pretpostavke i/ili metodologiju ako sadrže značajnu pristranost koja vodi mogućem podcjenjivanju ili precjenjivanju rezultata.
+ (2) Aktuar treba procijeniti razumnost, prikladnost i primjerenost pretpostavki na kojima se temelji svaka komponenta korištene metodologije. Pretpostavke općenito uključuju značajnu stručnu prosudbu u pogledu prikladnosti korištene metodologije i parametara na kojima se temelji primjena takve metodologije. Pretpostavke mogu biti implicitne ili eksplicitne i mogu uključivati interpretaciju prethodnih podataka ili drugih informacija ili projekciju budućih trendova. Stoga je potrebno da pretpostavke budu realistične, opravdane i dosljedne tijekom vremena, te dokumentirane kako bi se promjene mogle pratiti i objasniti. Također, moraju biti postavljene u skladu s informacijama koje pružaju financijska tržišta ili općenito dostupnim podacima vezanim uz specifične detalje osiguranog rizika.
+ (3) U slučajevima kada nisu potrebni nepristrani izračuni, aktuar treba procijeniti u kojoj je mjeri prikladno prilagoditi pretpostavke ili metodologiju koristeći unaprijed definiranih i obrazloženih granica nepovoljnih odstupanja, kako bi se u obzir uzela neizvjesnost u odnosnim podacima ili drugim informacijama, pretpostavkama ili metodologiji. Aktuar u svom izvješću treba objaviti te pojasniti svako uključivanje granica nepovoljnih odstupanja u pretpostavke ili metodologiju.
+ (4) Aktuar treba procijeniti učinak bilo kakvog diskontinuiteta u iskustvu na pretpostavke ili metodologiju. Diskontinuitet bi mogao biti rezultat:
+ i. unutarnjih okolnosti Društva poput promjena u postupku obrade odštetnih zahtjeva ili promjena u kombinaciji poslovnih aktivnosti,
+ ii. vanjskih okolnosti koje utječu na Društvo poput promjena u pravnom, gospodarskom, zakonodavnom, regulatornom, nadzornom, demografskom, tehnološkom i društvenom okružju.
+ (5) Aktuar treba procijeniti je li skup pretpostavki razuman na skupnoj osnovi. Iako pretpostavke mogu biti opravdane kao pojedinačne, moguće je da će oprez ili optimizam u većem broju pretpostavki rezultirati skupom pretpostavki koji više nije valjan. Ako skup pretpostavki nije valjan, Aktuar treba izvršiti odgovarajuće prilagodbe kako bi dobio razuman skup pretpostavki te konačan rezultat.
+ (6) Aktuar treba utvrditi jesu li pretpostavke i metodologija korištene za različite komponente posla u značajnoj mjeri dosljedne te da su sve značajne međuovisnosti adekvatno modelirane. Aktuar bi sve značajne nedosljednosti trebao obrazložiti, opravdati i dokumentirati te objaviti u svom Izvješću.
+ (7) Aktuar treba procijeniti i analizirati osjetljivost svake korištene metodologije na učinak promjena u ključnim pretpostavkama, kada je to prikladno. Prilikom utvrđivanja je li osjetljivost adekvatno analizirana, Aktuar treba uzeti u obzir svrhu aktuarskog posla te pitanje odražavaju li rezultati testova osjetljivosti razuman raspon promjena u ključnim pretpostavkama, usklađen s tom svrhom.
+ 7. Principi vezani uz upravljanje modelima
+ (1) Odgovarajuće upavljanje modelom treba biti uspostavljeno za sve modele koji se koriste kod obavljanja aktuarskog posla, od onih jednostavnijih koji koriste određene proračunske tablice, do onih koje uključuju složene simulacije. Upravljanje modelom uključuje i upravljanje svim rizicima prisutnim pri korištenju modela, pri čemu razina upravljanja treba biti razmjerna riziku posljedica neadekvatnog zaključivanja izvedenog na temelju rezultata modela.
+ (2) Aktuar treba osigurati da su rizici modela identificirani i procijenjeni te da postoje odgovarajuće mjere za ublažavanje tih rizika poput adekvatne validacije, dokumentacije i procesa kontrole modela.
+ (3) Aktuar treba osigurati da je izvršena odgovarajuća validacija modela koja uključuje procjenu da:
+ a. model u razumnoj mjeri odgovara svojoj predviđenoj svrsi. Stavke koje bi Aktuar trebao preispitati i procijeniti, ako je primjenjivo, podrazumijevaju:
+ i. dostupnost, granularnost i kvalitetu podataka i ulaznih informacija koji se u modelima zahtijevaju,
+ ii. prikladnost i dostatno opravdanje korištenih parametra modela,
+ iii. prikladnost uočenih odnosa i pretpostavki te primjerenost korištenih metodologija,
+ iv. sposobnost modela da generira adekvatan niz rezultata oko očekivanih vrijednosti.
+ b. model je u skladu sa svojim specifikacijama,
+ c. cjelokupni ili djelomični rezultati modela mogu biti ponovljeni ili eventualne razlike mogu biti objašnjene.
+ U svrhu sprječavanja sukoba interesa validaciju modela treba provoditi osoba/osobe koja nisu razvijale model i koje imaju dovoljna znanja, kvalifikacije i iskustva, osim ako bi to nametnulo opterećenje (financijsko, vremensko i dr) nerazmjerno riziku modela.
+ (4) Aktuar treba raspolagati adekvatnom razinom razumijevanja modela, kao što su uvjeti pod kojima je prikladno koristiti model, uključujući sva ograničenja modela za predviđenu svrhu, kontekst u kojem će se model koristiti, način prikupljanja ulaznih informacija i podataka za model kao i očekivanja oko načina korištenja i interpretacije rezultata modela. Aktuar treba dokumentirati i objaviti u svakom izvješću sva relevantna ograničenja ili neizvjesnosti modela kao i implikacije koje proizlaze iz istih.
+ (5) Aktuar treba osigurati da postoji adekvatna dokumentacija u vezi s dizajnom, izradom i korištenjem modela te uvjetima pod kojima je prikladno koristiti model, uključujući sva ograničenja modela. Navedena dokumentacija treba uključiti, gdje je primjenjivo, sljedeće:
+ a. opseg,
+ b. svrhu,
+ c. metodologiju,
+ d. statističku kvalitetu informacija i podataka,
+ e. kalibraciju,
+ f. prikladnost za predviđenu svrhu,
+ g. sadržavati (eventualne) izmjene modela koje aktuar izvrši,
+ h. relevantna ograničenja i/ili neizvjesnosti
+ i. opis procesa, uključujući uloge, odgovornosti te kontrole,
+ j. implementaciju u informacijskom sustavu,
+ k. korisničke upute za adekvatno korištenje modela.
+ (6) Aktuar treba osigurati da je model podložan odgovarajućim kontrolama. Proces kontrole promjena modela treba najmanje uključiti slijedeće kontrole:
+ a. nemogućnost neovlaštene promjene modela,
+ b. dokumentiranje svih izvršenih promjena te sve značajne učinke na model,
+ c. dopuštanje mogućnosti poništavanja svih promjena.
+ (7) Kada se trebaju koristiti rezultati ili izlazne informacije primijenjenog modela, uloga Aktuara je da :
+ a. osigura da su uvjeti za korištenje modela ispunjeni,
+ b. osigura da postoje odgovarajuće kontrole ulaznih i izlaznih informacija i podataka modela,
+ c. procijeni koje validacije modela opisana u stavku (3) točke 7. ovih principa treba izvršiti u cijelosti ili djelomično,
+ d. ako je primjenjivo, objasni značajne razlike između različitih primjena modela te osigura da postoji odgovarajući proces kontrole za primjene modela. Kod stohastičkih modela osigurava da se izvrši dovoljan broj primjena modela te razumje i interpretira značajne razlike između različitih primjena modela,
+ e. razumije sve eventualne aktivnosti ili odluke Uprave Društva pretpostavljene u modelu. Aktuar treba objaviti u Izvješću takve aktivnosti ili odluke Uprave Društva i koje implikacije proizlaze iz njih.
+ f. ako je primjenjivo, dokumentira ograničenja, ulazne informacije i podatke, ključne pretpostavke i parametre, predviđeno korištenje i izlazne informacije modela.
+ 8. Upravljanje procesima
+ (1) Aktuarski posao se sastoji od procesa koji moraju biti definirani i dokumentirani, uključujući opise uloga, aktivnosti, vremenskog okvira, interakcija, redovne komunikacije, ulaznih podataka i informacija, izlaznih rezultata kao i primjenjive kontrolne aktivnosti u odnosu na prepoznate potencijalne rizike u pojedinom procesnom koraku.
+ (2) Putem kontrolnih aktivnosti tijekom provođenja procesa, Aktuar mora osigurati da procedure koje služe za obavljanje posla budu provedene adekvatno, prikladno i učinkovito.
+ (3) Kontrolne aktivnosti trebaju biti unaprijed definirane i propisane te izvršene kod provedbe procesa. Izvršenje kontrola treba biti dokumentirano, zajedno sa dokazima o izvršenju istih, kako bi se osigurala revizija izračuna i dobivenih rezultata te sigurnost protoka i pohrane podatka, kao i dostatna kvaliteta podataka. Propusti, nepravilnosti i greške koje se otkriju prilikom kontrolnih aktivnosti moraju se dalje odgovarajuće komunicirati, posebno u slučaju materijalno značajnijih grešaka kako bi se pokrenule adekvatne i pravovremene korektivne aktivnosti.
+ (4) Kroz provjere razumnosti, Aktuar treba pregledati rezultate koje su pojedinačno i/ili zajednički generirale odabrane pretpostavke, parametri i metodologija, a radi utvrđivanja sveukupne razumnosti i interpretacije rezultata.
+ 9. Čuvanje i jasnoća dokumentacije
+ (1) Aktuar treba čuvati dostatnu dokumentaciju u skladu s obvezom čuvanja pripadnih financijskih izvješća, a za potrebe nadzora i revizije, usklađenosti sa primjenjivim zakonima te preuzimanjem eventualnih ponavljajućih zadataka od strane drugog aktuara.
+ (2) Dokumentacija je dostatna ako sadrži dovoljno pojedinosti koje omogućuje drugom aktuaru koji ima prikladnu kvalifikaciju i iskustvo u tom području aktuarskog posla da razumije u cijelosti provedeni aktuarski posao i procijeni primijenjene stručne prosudbe i mišljenja te odabir, obrazloženje i opravdanje pretpostavki, parametara i metoda, kao i njihovu razumnost, prikladnost i primjerenost. Dokumentacija treba obuhvatiti sve pretpostavke, prosudbe stručnjaka, metodologije, modele i aktuarske procese relevantne za poslove imenovanog ovlaštenog aktuara kod utvrđivanja ispravnosti obračuna tehničkih pričuva.
+ PRILOG II
+ POSEBNI STANDARDI KOJI SE ODNOSE NA POSTUPKE U VEZI S VREDNOVANJEM PREMA MSFI 17
+ 1. Početni postupci
+ Aktuar je dužan uzeti u obzir rezultate provedenih postupaka:
+ a. klasifikacija ugovora o mirovinama
+ b. formiranje grupa ugovora o mirovinama i/ili portfelja
+ c. određivanja razine objedinjavanja ugovora o mirovinama
+ d. razdvajanja komponenti iz ugovora o mirovinama za vrednovanje u skladu s odgovarajućim standardom koji je primjenjiv na tu komponentu
+ e. razdvajanja komponenti ugovora o mirovinama za drukčiji tretman prema MSFI-ju 17 (ako i u mjeri u kojoj je to dopušteno)
+ f. priznavanja grupa ugovora o mirovinama i prestanka priznavanja ugovora o mirovinama
+ g. tretiranje izmjena ugovora o mirovinama
+ u skladu s točkom 6. Principa vezanim uz pretpostavke i metodologije iz Priloga I ovog Pravilnika Prilog I – Minimalni standardi koje aktuar primjenjuje kod obavljanja aktuarskih poslova je dalje u tekstu označen kao Minimalni standardi.
+ Aktuar u Izvješću mora objaviti odabrani pristup i eventualne promjene u gore navedenim postupcima, uključujući razloge za promjene kao i utjecaj tih promjena na rezultate provedenih postupaka.
+ 2. Postupak odabira odgovarajućeg pristupa mjerenja
+ Aktuar kod postupka odabira odgovarajućeg pristupa mjerenja, koji će se primjenjivati na svaku grupu ugovora o mirovinama, bez obzira na to radi li se o općem pristupu mjerenja (GMM), pristupu koji se temelji na raspodjeli premije (PAA) ili pristupu varijabilne naknade (VFA), treba postupati u skladu s točkom 6. Principa vezanim uz pretpostavke i metodologije iz Minimalnih standarda.
+ Aktuar u Izvješću mora objaviti odabrani pristup i eventualne promjene u gore navedenim postupcima, uključujući razloge za promjene, kao i utjecaj tih promjena na rezultate provedenih postupaka.
+ 3. Opći model mjerenja (GMM)
+ (1) U općem pristupu kod odabira pretpostavki za opći model mjerenja Aktuar treba razmotriti i procijeniti:
+ – prikladnost kombiniranja sličnih rizika na temelju prirode obveze, bez ograničenja stvarnim grupiranjem ugovora o mirovinama koje se upotrebljavaju u svrhe mjerenja,
+ – prikladnost korištenja pretpostavki nastalih u drugim kontekstima, primjerice za pretpostavke korištene kod oblikovanja mirovina i njihovu prikladnost za oblikovanje tehničke pričuve,
+ – prikladnost mogućih povezanosti kako bi se osigurala dosljednost između pretpostavki (npr. pretpostavke povezane s obrascima odabira opcije trebaju biti povezane s gospodarskim scenarijima),
+ – utjecaj moguće asimetrične distribucije trenutačnih procjena (npr. pretpostavke vezane za rijetke ekstremne događaje koji imaju veliki i negativan utjecaj na Društvo ili pretpostavke vezane za opcije i garancije potaknute tržišnim uvjetima),
+ – vjerodostojnosti podataka kada se kombiniraju informacije i podaci iz različitih izvora ili vremenskih razdoblja,
+ – utjecaja dugoročnih trendova i sezonskih varijacija te ostalih promjena u okruženju (npr. promjene mjerodavnog prava, gospodarske, demografske, tehnološke i društvene promjene).
+ (2) Ako aktuar smatra da je primjereno promijeniti pretpostavke kod oblikovanja tehničkih pričuva, uključujući metodologiju koja se koristi za ažuriranje preporučenih pretpostavki, Društvo bi trebalo osigurati da tijekom procesa ažuriranja pretpostavki na vrijeme sve bude raspravljeno sa svim zainteresiranim stranama uz dostatnu dokumentiranost procesa, uzevši u obzir predstavlja li isto promjenu računovodstvene politike ili samo promjenu računovodstvene procjene, kako je definirano u Međunarodnom računovodstvenom standardu 8 (MRS 8) Računovodstvene politike, promjene računovodstvenih procjena i pogreške. Aktuar o promjeni pretpostavki, kod oblikovanja tehničkih pričuva, mora u Izvješću objaviti promjene, uključujući razloge za promjene i utjecaj tih promjena.
+ (3) U pretpostavkama koje se odnose na rizike osiguranja sadržane u mirovinskom sustavu, Aktuar treba uzeti u obzir:
+ – obilježja ugovora o mirovinama uključujući rizike koji se osiguravaju,
+ – obilježja korisnika mirovine i kanala distribucije,
+ – dosadašnja iskustva s nastalim štetama, uključujući obrasce kašnjenja u izvješćivanju i plaćanju te relevantnost za očekivana buduća iskustva.
+ (4) U pretpostavkama koje se odnose na korištenje opcija od strane korisnika mirovina, Aktuar treba uzeti u obzir:
+ – dosadašnja iskustva o tome kako su korisnici mirovina koristili opcije,
+ – vjerojatno ponašanje korisnika mirovina kao što su antiselekcija, učinci nefinancijskih razmatranja i relativne prednosti koje korisnik mirovne ima pri korištenju bilo kakvih opcija,
+ – karakteristike načina distribucije i servisiranje ugovora o mirovinama nakon sklapanja ugovora o mirovini,
+ – značajne planirane promjene oblika mirovina, iznosa mirovine i pripadajućih pravila.
+ (5) U pretpostavkama koje ovise o diskrecijskim odlukama Društva, Aktuar treba uzeti u obzir očekivanja ili ograničenja koja mogu proizaći iz izvora kao što su:
+ – marketinški i promotivni materijali,
+ – prijašnja praksa Društva,
+ – trenutačna praksa Društva,
+ – tržišna praksa,
+ – zakoni i odluke nadležnih tijela.
+ (6) Kod korištenja pretpostavke o diskontnoj stopi, Aktuar treba:
+ – za diskontne stope za razdoblja koja premašuju razdoblja za koja su dostupni podaci s aktivnog tržišta, razmotriti kako se očekuje da će se aktualne stope razvijati tijekom vremena koristeći najbolje dostupne informacije u trenutačnim okolnostima, uključujući tržišne cijene koje su uočene,
+ – za diskontne stope za novčane tokove ugovora o mirovinama, koje se razlikuju od povrata na ulaganja Društva, razmotriti investicijsku politiku Društva, kako se ista primjenjuje u praksi, uzimajući u obzir komunikaciju Društva s raznim dionicima te očekivano ponašanje korisnika mirovina,
+ – za rizik nelikvidnost i rizik neispunjavanja obveza za kreditni rizik, kod utvrđivanje diskontnih stopa, razmotriti:
+ i. pristupe koji su otporni i koji se mogu pouzdano primjenjivati tijekom vremena i pod različitim tržišnim uvjetima kako bi odražavali nelikvidnost novčanih tokova na kojima se temelje relevantne obveze,
+ ii. moguće metode za izračun takvih usklađenja s promatranim tržišnim stopama pri čemu te metode uključuju tehnike temeljene na tržištu, tehnike strukturnog modela i tehnike očekivanog/neočekivanog kreditnog gubitka.
+ (7) Kod novčanih tokova koji se mijenjaju ovisno o povratu na ulaganja, Aktuar treba:
+ – odabrati diskontne stope koje se koriste za izračun sadašnje vrijednosti novčanih tokova za mjerenje novčanih tokova od izvršenja ugovora, koji su u skladu s povratima na ulaganja predviđenim u procjenama budućih novčanih tokova. Povrat na ulaganja treba biti procijenjen korištenjem mogućih očekivanja, u skladu s trenutačnim tržišnim očekivanjima budućih gospodarskih uvjeta,
+ – za novčane tokove na koje se primjenjuje gornja ili donja granica, razmotriti povezani utjecaj, ako postoji, na procjene budućih novčanih tokova, prilagodbu za nefinancijski rizik (RA) i diskontne stope u projekciji.
+ (8) U procjeni novčanih tokova vezano za troškove poslovanja kao što su troškovi administracije ugovora o mirovinama i isplata mirovina te pridjeljivi opći troškovi, Aktuar treba uzeti u obzir:
+ – politike za troškovno računovodstvo Društva te politike Društva o raspodjeli troškova,
+ – troškove za koje se očekuje da će proizaći iz ispunjenja obveza ugovora o mirovinama koje postoje na datum mjerenja. U toj procjeni treba uzeti u obzir dosadašnje iskustvo Društva i trenutačne poslovne planove te učinak buduće inflacije,
+ – uvjete eventualnih sporazuma o izdvajanju poslova.
+ (9) Aktuar treba utvrditi je li alokacija novčanih tokova distribucije mirovinskih programa svakom portfelju ugovora o mirovinama dosljedna i primjerena.
+ (10) Kod prilagodbe za nefinancijski rizik Aktuar treba:
+ – razumjeti nefinancijski rizik koji je svojstven ugovorima o mirovinama,
+ – pri procjeni što Društvo zahtijeva kao naknadu za držanje nefinancijskog rizika:
+ i. razmotriti odražava li se korist diversifikacije koju Društvo priznaje na relevantnoj razini konsolidacije,
+ ii. razmotriti izvore relevantnih informacija, kao što su politika upravljanja kapitalom Društva, politika upravljanja rizicima i politika oblikovanja mirovina i tehničkih pričuva.
+ – odabrati metodologiju kojom se, na izabranoj razini objedinjavanja:
+ i. koriste pretpostavke koje su u skladu s pretpostavkama koje se upotrebljavaju za utvrđivanje odgovarajućih procjena budućih novčanih tokova,
+ ii. odražavaju razlike u riziku među portfeljima ugovora o mirovinama,
+ iii. omogućuje diversifikacija koju Društvo priznaje.
+ – procijeniti odražava li pravedno razlika između ukupne izračunate bruto prilagodbe za nefinancijski rizik i prilagodbe za ukupno mitigiranje rizika koje je u skladu sa Zakonom, a koju Društvo zahtijeva za neizvjesnosti kod svoje neto izloženosti,
+ – ako prilagodba za nefinancijski rizik nije utvrđen primjenom pristupa razine pouzdanosti, procijeniti sljedeće:
+ i. sposobnost diversifikacije nefinancijskog rizika nad konsolidiranim poslovanjem Društva,
+ ii. neizvjesnost koja je svojstvena primjeni pristupa razine pouzdanosti i potrebe da se ta neizvjesnost opiše u Izvješću.
+ (11) Vezano za proces objedinjavanja i marže za ugovorene usluge (CSM), Aktuar treba razmotriti postupke vezano uz:
+ – utvrđenje portfelja ugovora o mirovinama,
+ – raspodjelu pojedinačnih ugovore o mirovinama u portfelje ugovora o mirovinama i podjelu svakog portfelj ugovora o mirovinama na grupe ugovora o mirovinama,
+ – adekvatno tretiranje komponente gubitka na neprofitabilnim ugovorima,
+ – određivanje jedinice pokrića,
+ – određivanje pravila otpuštanja marže za ugovorene usluge u idućim godinama kao pretpostavku za vrednovanje obveza iz ugovora o mirovinama sukladno s točkom 6. Principa vezanim uz pretpostavke i metodologije iz Minimalnih standarda,
+ – kao pretpostavku za vrednovanje obveza iz ugovora o mirovinama sukladno s točkom 6. Principa vezanim uz pretpostavke i metodologije iz Minimalnih standarda,
+ – raspodjelu viška sredstava iz ulaganja imovine za pokriće tehničkih pričuva.
+ Aktuar u Izvješću mora objaviti promjene u navedenim procesima, uključujući razloge za promjene i utjecaj tih promjena na rezultate provedenih postupaka.
+ 4. Model mjerenja putem varijabilne naknade (VFA)
+ (1) Pri upotrebi pristupa varijabilne naknade, Aktuar treba primijeniti točku 3. Opći model mjerenja (GMM) iz dijela Pravilnika o Posebnim standardima koji se odnose na vrednovanje vezano za MSFI 17 (dalje u tekstu: Posebni standardi vezano za MSFI 17.
+ (2) Prije upotrebe pristupa mjerenja varijabilne naknade kod grupe ugovora o mirovinama s obilježjem izravnog sudjelovanja, Aktuar mora procijeniti jesu li ispunjeni svi uvjeti korištenja predviđeni MSFI standardom pri čemu se mora jasno objasniti i opravdati što znači u procjeni »znatan udio« (engl. substantial share) kod sudjelovanja korisnika mirovina.
+ 5. Izvješće
+ (1) Izvješće u kojem Imenovani ovlašteni aktuar treba obrazložiti razloge davanja pozitivnog mišljenja, mišljenja uz ograde ili negativno mišljenje mora biti sustavan, kompletan i formiran na način da adekvatno informira korisnike kojima je namijenjeno. Informacije i podaci u Izvješću trebaju biti prikazane na dovoljno detaljan način kako bi neki drugi aktuar kvalificiran u istom području prakse mogao objektivno procijeniti razumnost rezultata procesa oblikovanja tehničkih pričuva.
+ (2) Sadržaj Izvješća na datum vrednovanja bi minimalno trebao uključivati po svim vrstama tehničkih pričuva sljedeće: rezultate procesa oblikovanja po vrstama tehničkih pričuva, metodologiju, pretpostavke i podatke te druge korištene informacije uključujući analize i potvrde rezultata procesa oblikovanja tehničkih pričuva.
+ (3) Ako se informacije koje je naveo Aktuar u dijelu vrednovanja tehničkih pričuva koriste u prezentiranju i objavljivanju financijskih izvještaja:
+ – Aktuar treba pružiti povezane informacije potrebne za usklađivanje s relevantnim zahtjevima za prezentiranje i objavljivanje MSFI-ja 17 i računovodstvenim politikama Društva,
+ – ako Aktuar sazna da se informacije u prezentacijama i/ili objavama upotrebljavaju nepravilno ili neprimjereno, treba o tim pitanjima raspraviti i izvijestiti Društvo.
+ (4) Prilikom objavljivanja usklađenja ako se redoslijedom izračuna mijenjaju objavljene informacije, Aktuar treba primjenjivati dosljedan redoslijed izračuna u svim usklađenjima i od razdoblja do razdoblja, ili u Izvješću objaviti svaku promjenu, uključujući razloge za promjene i učinak tih promjena.
+ (5) Uzevši u obzir 2. Materijalnost/ Značajnost iz Priloga I Minimalni standardi ovog Pravilnika Aktuar u Izvješću treba objaviti:
+ – oslanjanje na informacije koje je pripremila druga osoba, a za koje se Aktuar odriče odgovornosti (Minimalni standardi točka 5. stavak (3)),
+ – značajno izostavljanje informacija odnosno umanjeno ili uvećano prikazivanje (Minimalni standardi točka 2.),
+ – validaciju, prilagodbu i izmjenu podataka te nedostatke i ograničenja u podacima (Minimalni standardi točka 5. stavci (2), (3), (4) i (5)),
+ – granicu nepovoljnih odstupanja u pretpostavkama ili metodologiji (Minimalni standardi točka 6. stavak (3)),
+ – značajnu nedosljednost u korištenim pretpostavkama i metodologiji (Minimalni standardi točka 6. stavak (6)),
+ – ograničenja i nesigurnosti modela korištenih u obavljanju posla te njihove široke implikacije (Minimalni standardi točka 7. stavak (4)),
+ – aktivnosti i odluke Uprave Društva izvršene u okviru modela kao i implikacije koje proizlaze iz njih (Minimalni standardi točka 7. stavak (7) e.),
+ – promjene procesa oblikovanja, zajedno s razlozima za promjene i učinkom tih promjena na rezultate provedenih postupaka, koje se odnose na:
+ i. utvrđivanje, spajanje, objedinjavanje, odvajanje, priznavanje, prestanak priznavanja i izmjenu (Posebni standardi vezano za MSFI 17 točka 1.)
+ ii. odabir pristupa mjerenja (Posebni standardi vezano za MSFI 17 točka 2.)
+ iii. proces ažuriranja pretpostavki (Posebni standardi vezano za MSFI 17 točka 3. stavak (2))
+ iv. objedinjavanje i maržu za ugovorenu uslugu (Posebni standardi vezano za MSFI 17 točka 3. stavak (14))
+ v. redoslijed izračuna usklađenja predviđen za prezentiranje i objavljivanje financijskih izvještaja (Posebni standardi vezano za MSFI 17 točka 6. stavak (4))
+ – neizvjesnost svojstvenu prebacivanju na razinu povjerenja ako prilagodba za nefinancijski rizik nije utvrđena primjenom pristupa razine pouzdanosti
+ – značajne naknadne događaje nakon datuma vrednovanja koji mogu značajno utjecati na proces oblikovanja tehničkih pričuva.
+ (6) Izvješće u relevantnim područjima navedenim u prethodnim stavkama ovog članka mora uz argumentaciju sadržavati i naziv i format dokumentacije na koju se Aktuar oslanja i koja su podloga za mišljenje Aktuara u pojedinom relevantnom području, s naznakom datuma zadnje verzije dokumenta i autorom/ima.
+ 6. Reference
+ Važeći, javno dostupni službeni dokumenti, relevantnih lokalnih, međunarodnih, odnosno europskih aktuarskih udruga, ako nisu u suprotnosti sa zakonima i propisima Republike Hrvatske, koji su ujedno ažurni i objavljeni na internetskim stranicama Hanfe, a na koje se Aktuar, povrh ostalih relevantnih izvora, može referirati pri obavljanju aktuarskih poslova.
+ Pravilnik, NN 20/2024-325 
+ Više 
+ Dio NN: Službeni 
+ Vrsta dokumenta: Pravilnik 
+ Izdanje: 
+ NN 20/2024 
+ Broj dokumenta u izdanju: 325 
+ Stranica tiskanog izdanja: 12 
+ Donositelj: Hrvatska agencija za nadzor financijskih usluga 
+ Datum tiskanog izdanja: 21.2.2024. 
+ ELI: /eli/sluzbeni/2024/20/325 
+ PDF 
+ Opći uvjeti korištenja Zaštita privatnosti Pristup podatcima ELI ©2026. g. Narodne novine d.d.
+ , izrada Novena d.o.o. 
+ Opći uvjeti korištenja
+ Odgovornost za objavljene sadržaje 
+ Narodne novine d.d. će poduzeti razumne i odgovarajuće napore kako bi informacije na ovim internetskim stranicama bile potpune i točne, ali ne odgovara u slučaju njihove netočnosti ili nepotpunosti. Narodne novine d.d. ne odgovaraju za štetu ili povredu koja može biti rezultat korištenja ili nemogućnosti korištenja bilo kojeg dijela ove web-lokacije ili nečeg što je na njoj objavljeno.
+ Ove internetske stranice sadrže i informacije trećih osoba i poveznice na druge internetske sadržaje. Narodne novine d.d. ne odgovaraju za sadržaje na vanjskim izvorima podataka do kojih mogu voditi poveznice s naših internetskih stranica, niti odgovara, niti upućuje na način i uvjete korištenja tih sadržaja.
+ Narodne novine d.d. ne odgovaraju za sadržaje koje na ove internetske stranice stave treće osobe.
+ Zaštita autorskog prava 
+ Svi sadržaji objavljeni na ovim internetskim stranicama zaštićeni su autorskim pravom i mogu se koristiti samo pod uvjetima propisanim Zakonom.
+ Promjene 
+ Narodne novine d.d. zadržavaju pravo izmjene, dopune ili uklanjanja bilo kojeg dijela ovih internetskih stranica u bilo kojem trenutku. Promjene stupaju na snagu objavljivanjem na ovim internetskim stranicama ili kada su korisnici o njima obaviješteni.
+ Zaštita privatnosti
+ Narodne novine d.d se obvezuju poštivati anonimnost i privatnost korisnika ovih internetskih stranica. O posjetiteljima se neće prikupljati nikakvi osobni podaci osim u slučajevima ako ih posjetitelj dobrovoljno dostavi Narodnim novinama d.d. U slučajevima kad je poznat indentitet posjetitelja/pošiljatelja, njegovi će se podaci koristiti samo u svrhu zbog koje ih je pošiljatelj poslao. Narodne novine d.d. takve podatke mogu koristiti i za što bolji uvid i razumijevanja pojedinačnih potreba i zahtjeva korisnika kao i razvijanja mogućnosti što kvalitetnijega pružanja svojih usluga korisnicima. Narodne novine d.d. se obvezuju da navedene podatke neće učiniti dostupnim bilo kojoj trećoj osobi odnosno strani bez izričitoga pristanka korisnika.
+ Narodne novine d.d. upozoravaju posjetitelje/korisnike na ograničenja suvremenih informacijsko-komunikacijskih tehnologija u odnosu na sigurnost i zaštitu privatnosti osobnih podataka.
